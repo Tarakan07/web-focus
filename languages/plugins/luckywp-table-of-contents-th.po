@@ -1,0 +1,633 @@
+# Translation of Plugins - LuckyWP Table of Contents - Stable (latest release) in Thai
+# This file is distributed under the same license as the Plugins - LuckyWP Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-18 18:26:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: th\n"
+"Project-Id-Version: Plugins - LuckyWP Table of Contents - Stable (latest release)\n"
+
+#: plugin/Plugin.php:271
+msgid "Inherit from theme"
+msgstr "สืบทอดจากธีม"
+
+#: config/settings.php:472
+msgid "Other Settings"
+msgstr "การตั้งค่าอื่นๆ"
+
+#. translators: User select DIV or UL/LI
+#: config/settings.php:484
+msgid "List Markup Tags"
+msgstr "แท็กที่ต้องการใช้งาน "
+
+#: admin/views/rate/notice.php:34
+msgid "Don't show again"
+msgstr "ไม่ต้องแสดงอีก"
+
+#. translators: %s: rel="nofollow"
+#: config/settings.php:462 admin/Admin.php:224
+#: admin/widgets/customizeModal/views/modal.php:611
+msgid "Use %s for links"
+msgstr "ใช้ %s สำหรับลิงค์"
+
+#. translators: %s: Attribute name
+#: core/validators/RangeValidator.php:29
+msgid "%s is invalid."
+msgstr "%s ไม่ถูกต้อง"
+
+#. translators: %s: Attribute name
+#: core/validators/RequiredValidator.php:18
+msgid "%s cannot be blank."
+msgstr "%s ไม่สามารถเว้นว่าง"
+
+#. translators: Here, hash is a unique tracking string that is added to the URL
+#. after a # character
+#: config/settings.php:395
+msgid "Hash"
+msgstr "Hash"
+
+#: config/settings.php:437
+msgid "SEO"
+msgstr "SEO"
+
+#. translators: %s: <!--noindex-->
+#: config/settings.php:447 admin/Admin.php:214
+#: admin/widgets/customizeModal/views/modal.php:584
+msgid "Wrap table of contents with %s tag"
+msgstr "ครอบ table of contents ด้วยแท็ก %s"
+
+#. translators: %s: LuckyWP Table of Contents
+#: admin/views/rate/notice.php:14
+msgid "We are very pleased that you by now have been using the %s plugin a few days."
+msgstr "เรารู้สึกยินดีอย่างยิ่งที่คุณใช้ปลั๊กอิน %s มาหลายวัน"
+
+#: config/settings.php:413
+msgid "Convert to lowercase"
+msgstr "แปลงเป็นตัวพิมพ์เล็ก"
+
+#. translators: 1: Attribute name 2: True 3: False
+#: core/validators/BooleanValidator.php:29
+msgid "%1$s must be either \"%2$s\" or \"%3$s\"."
+msgstr "%1$s ต้องเป็นอย่างในอย่างหนึ่งระหว่าง \"%2$s\" หรือ \"%3$s\""
+
+#. translators: 1: _ 2: -
+#: config/settings.php:426
+msgid "Replace underscores %1$s with dashes %2$s"
+msgstr "แทนที่เครื่องหมาย _ %1$s ด้วย - %2$s"
+
+#. translators: %s: (#lwptoc1, #lwptoc2, …)
+#: plugin/Plugin.php:285
+msgid "Counter %s"
+msgstr "ลำดับ %s"
+
+#: plugin/Plugin.php:282
+msgid "As heading without transliterate (#Example_Heading_Text)"
+msgstr "เช่นเดียวกับหัวข้อโดยไม่ทับศัพท์"
+
+#: config/settings.php:67 admin/Admin.php:157
+#: admin/widgets/customizeModal/views/modal.php:167
+#: admin/forms/CustomizeForm.php:248
+msgid "Numeration Suffix"
+msgstr "คำต่อท้ายจำนวนตัวเลข"
+
+#. translators: %s: 1.3)
+#: config/settings.php:78
+msgid "The symbol will be added after numeration. For example, %s"
+msgstr "สัญลักษณ์จะถูกเพิ่มหลังจำนวนเลข ตัวอย่าง %s"
+
+#: admin/views/rate/notice.php:42
+msgid "Thank you very much!"
+msgstr " ขอบคุณมาก"
+
+#: admin/views/rate/notice.php:28
+msgid "Remind later"
+msgstr "เตือนภายหลัง"
+
+#: admin/views/rate/notice.php:21
+msgid "Rate the plugin"
+msgstr "ให้คะแนน"
+
+#: admin/views/rate/notice.php:18
+msgid "Please rate plugin. It will help us a lot."
+msgstr "กรุณาให้คะแนนปลั๊กอิน มันจะช่วยเราได้มาก"
+
+#: admin/views/rate/notice.php:10
+msgid "Hello!"
+msgstr "สวัสดี!"
+
+#. translators: %s: ★★★★★
+#: admin/views/settings/index.php:10
+msgid "Leave a %s plugin review on WordPress.org"
+msgstr "รีวิว %s ปลั๊กอินบน WordPress.org"
+
+#: admin/widgets/metabox/views/box.php:75
+msgid "Enable TOC"
+msgstr "เปิดใช้งาน TOC"
+
+#: admin/widgets/metabox/views/box.php:64
+msgid "Enable Processing"
+msgstr "เปิดการประมวลผล"
+
+#: admin/widgets/metabox/views/box.php:61
+msgid "Click \"Enable Processing\" for headings processing in this post."
+msgstr "คลิก \"เปิดการประมวลผล\" เพื่อประมวลผลหัวข้อต่างๆ ในบทความนี้"
+
+#: admin/widgets/metabox/views/box.php:49
+msgid "Disable Processing"
+msgstr "ปิดการประมวลผล"
+
+#: admin/widgets/metabox/views/box.php:18
+msgid "The headings will be processing in this post for use in table of contents in widget or custom shortcode."
+msgstr "หัวข้อ (Heading) ในโพสนี้จะถูกประมาณผลเพื่อใช้งานในสารบัญโดย widget หรือ shortcode"
+
+#: config/settings.php:475
+msgid "Show Panel \"Table of Contents\" in Post Types"
+msgstr "แสดงเครื่องมือ \"สารบัญ\" ใน Post Types"
+
+#: config/settings.php:340
+msgid "Always for Post Types"
+msgstr "แสดงใน Post Types เสมอ"
+
+#: config/settings.php:335
+msgid "Processing Headings"
+msgstr "ประมวลผลหัวข้อ"
+
+#: admin/widgets/metabox/views/box.php:44
+msgid "Disable TOC"
+msgstr " ปิดการใช้งาน TOC"
+
+#: admin/widgets/customizeModal/views/modal.php:541
+msgid "Skip heading by text"
+msgstr "มองข้ามหัวข้อจากข้อความ"
+
+#: admin/widgets/customizeModal/views/modal.php:518
+msgid "Skip heading by level"
+msgstr "มองข้ามหัวข้อโดยลำดับ"
+
+#: admin/Admin.php:231 admin/Admin.php:234
+msgid "Skip headings"
+msgstr "ไม่ต้องแสดงหัวข้อ"
+
+#: config/settings.php:378 admin/widgets/customizeModal/views/modal.php:555
+msgid "Specify headings (one per line) to be excluded from the table of contents."
+msgstr "กำหนดหัวข้อ (Heading) ที่ไม่ต้องการให้นำมาอยู่ในสารบัญ"
+
+#: config/settings.php:370
+msgid "By Text"
+msgstr "กำหนดด้วยข้อความ"
+
+#: config/settings.php:360
+msgid "By Level"
+msgstr "กำหนดโดยลำดับ"
+
+#: config/settings.php:357
+msgid "Skip Headings"
+msgstr "ไม่ตอ้งแสดงหัวข้อ"
+
+#. translators: %s: Asterisk symbol (*)
+#: config/settings.php:382 admin/widgets/customizeModal/views/modal.php:559
+msgid "Use an asterisk %s as a wildcard to match any text."
+msgstr "ใช้เครื่องหมายดอกจันทร์ (*) %s เพื่อ wildcard ข้อความอื่นๆ ที่เหลือทั้งหมด"
+
+#: plugin/Plugin.php:281
+msgid "As heading (#Example_Heading_Text)"
+msgstr "เหมือนกับหัวข้อ  (#Example_Heading_Text)"
+
+#: plugin/Plugin.php:257
+msgid "Center"
+msgstr "ตรงกลาง"
+
+#: plugin/Plugin.php:256
+msgid "Right without flow"
+msgstr "ด้านขวา"
+
+#. translators: Here, hash is a unique tracking string that is added to the URL
+#. after a # character
+#: config/settings.php:400
+msgid "Hash Format"
+msgstr "รูปแบบ"
+
+#: config/settings.php:354 admin/widgets/customizeModal/views/modal.php:46
+msgid "Misc."
+msgstr "อื่นๆ"
+
+#: plugin/Plugin.php:299
+msgid "Full Width"
+msgstr "เต็มความกว้าง"
+
+#: plugin/Plugin.php:298
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+#: plugin/Plugin.php:268
+msgid "Dark Colors"
+msgstr "โทนมืด"
+
+#: plugin/Plugin.php:267
+msgid "Light Colors"
+msgstr "โทนสว่าง"
+
+#: plugin/Plugin.php:300 admin/widgets/fontSizeField/views/widget.php:17
+msgid "Custom Value"
+msgstr "กำหนดเอง"
+
+#: plugin/Plugin.php:335 admin/widgets/fontSizeField/views/widget.php:16
+msgid "Default"
+msgstr "ค่าพื้นฐาน"
+
+#: admin/widgets/metabox/views/box.php:72
+msgid "Click \"Enable TOC\" for automatic add table of contents to this post."
+msgstr "คลิกปุ่ม \"ใช้งาน TOC\" เพื่อแทรกสารบัญในเรื่องนี้"
+
+#: config/settings.php:158
+msgid "Scroll Offset Top"
+msgstr " ระยะห่างระหว่างพื้นที่ด้านบนหลังเลื่อนไปยังหัวข้อ"
+
+#: config/settings.php:55 admin/Admin.php:154
+#: admin/widgets/customizeModal/views/modal.php:145
+#: admin/forms/CustomizeForm.php:247
+msgid "Numeration"
+msgstr "ตัวเลขลำดับ"
+
+#: admin/Admin.php:151 admin/Admin.php:163 admin/Admin.php:172
+#: admin/Admin.php:175 admin/Admin.php:217 admin/Admin.php:227
+#: admin/widgets/customizeModal/views/modal.php:138
+#: admin/widgets/customizeModal/views/modal.php:231
+#: admin/widgets/customizeModal/views/modal.php:294
+#: admin/widgets/customizeModal/views/modal.php:317
+#: admin/widgets/customizeModal/views/modal.php:602
+#: admin/widgets/customizeModal/views/modal.php:629
+msgid "Disabled"
+msgstr "ปิดการใช้งานแล้ว"
+
+#: admin/Admin.php:151 admin/Admin.php:163 admin/Admin.php:172
+#: admin/Admin.php:175 admin/Admin.php:217 admin/Admin.php:227
+#: admin/widgets/customizeModal/views/modal.php:138
+#: admin/widgets/customizeModal/views/modal.php:231
+#: admin/widgets/customizeModal/views/modal.php:294
+#: admin/widgets/customizeModal/views/modal.php:317
+#: admin/widgets/customizeModal/views/modal.php:602
+#: admin/widgets/customizeModal/views/modal.php:629
+msgid "Enabled"
+msgstr "เปิดใช้งานแล้ว"
+
+#: config/settings.php:44 admin/Admin.php:151
+#: admin/widgets/customizeModal/views/modal.php:122
+msgid "Hierarchical View"
+msgstr "ลำดับชั้น"
+
+#: config/settings.php:35 admin/Admin.php:148
+#: admin/widgets/customizeModal/views/modal.php:100
+#: admin/forms/CustomizeForm.php:246
+msgid "Depth"
+msgstr "ความลึก"
+
+#: config/settings.php:23 admin/Admin.php:145
+#: admin/widgets/customizeModal/views/modal.php:77
+msgid "Minimal Count of Headings"
+msgstr "จำนวนหัวข้อน้อยที่สุด"
+
+#: config/settings.php:305 admin/Admin.php:142
+#: admin/widgets/customizeModal/views/modal.php:54
+#: admin/forms/CustomizeForm.php:251
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+#. translators: verb
+#: admin/Admin.php:115
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: plugin/WpWidget.php:22 plugin/Plugin.php:481 admin/Admin.php:54
+#: admin/Admin.php:55 admin/Admin.php:75 admin/Admin.php:113
+#: admin/controllers/ShortcodeController.php:60
+#: admin/controllers/EditorBlockController.php:65
+msgid "Table of Contents"
+msgstr "สารบัญ"
+
+#: admin/controllers/ShortcodeController.php:66
+#: admin/controllers/EditorBlockController.php:71
+#: admin/widgets/widget/views/_override.php:18
+#: admin/widgets/customizeModal/views/modal.php:571
+#: admin/widgets/customizeModal/views/modal.php:654
+#: admin/widgets/metabox/views/box.php:33
+msgid "empty"
+msgstr "ว่าง"
+
+#: config/settings.php:225 admin/Admin.php:193
+#: admin/widgets/customizeModal/views/modal.php:439
+msgid "Items Font Size"
+msgstr "ขนาดตัวหนังสือของหัวข้อ"
+
+#: config/settings.php:216 admin/Admin.php:190
+#: admin/widgets/customizeModal/views/modal.php:417
+#: admin/forms/CustomizeForm.php:253
+msgid "Title Font Weight"
+msgstr "น้ำหนักตัวหนังสือของหัวข้อ"
+
+#: config/settings.php:203 admin/Admin.php:187
+#: admin/widgets/customizeModal/views/modal.php:393
+msgid "Title Font Size"
+msgstr "ขนาดตัวหนังสือของหัวข้อ"
+
+#: config/settings.php:182 admin/Admin.php:181
+#: admin/widgets/customizeModal/views/modal.php:348
+msgid "Width"
+msgstr "กว้าง"
+
+#: plugin/Plugin.php:270
+msgid "Transparent"
+msgstr "โปร่งใส"
+
+#: plugin/Plugin.php:269
+msgid "White"
+msgstr "ขาว"
+
+#: plugin/Plugin.php:255
+msgid "Right"
+msgstr "ขวา"
+
+#: plugin/Plugin.php:254
+msgid "Left"
+msgstr "ซ้าย"
+
+#: plugin/Plugin.php:166 plugin/Plugin.php:253 plugin/Plugin.php:398
+msgid "None"
+msgstr "เต็มพื้นที่"
+
+#: plugin/Plugin.php:224
+msgid "Heavy"
+msgstr "หนักแน่น"
+
+#: plugin/Plugin.php:223
+msgid "Extra Bold"
+msgstr "หนามาก"
+
+#: plugin/Plugin.php:222
+msgid "Bold"
+msgstr "หนา"
+
+#: plugin/Plugin.php:220
+msgid "Medium"
+msgstr "ปานกลาง"
+
+#: plugin/Plugin.php:219
+msgid "Normal"
+msgstr "ธรรมดา"
+
+#: plugin/Plugin.php:216
+msgid "Thin"
+msgstr "ผอม"
+
+#: plugin/Plugin.php:182
+msgid "Bottom"
+msgstr "ด้านล่าง"
+
+#: plugin/Plugin.php:181
+msgid "Top"
+msgstr "ด้านบน"
+
+#: plugin/Plugin.php:180
+msgid "After first block (paragraph or heading)"
+msgstr "ต่อจากบล็อคแรก (พาราพราฟหรือหัวข้อ)"
+
+#: plugin/Plugin.php:179
+msgid "After first heading"
+msgstr "ต่อจากหัวข้อแรก"
+
+#: plugin/Plugin.php:178
+msgid "Before first heading"
+msgstr "ก่อนหัวข้อแรก"
+
+#: plugin/Plugin.php:156
+msgid "Roman numbers"
+msgstr "เลขโรมัน"
+
+#: plugin/Plugin.php:155
+msgid "Roman numbers (nested)"
+msgstr "เลขโรมันแบบมีลำดับย่อย"
+
+#: plugin/Plugin.php:154
+msgid "Decimal numbers"
+msgstr "ตัวเลขแบบมีทศนิยม"
+
+#: plugin/Plugin.php:153
+msgid "Decimal numbers (nested)"
+msgstr "ตัวเลขทศนิยมแบบมีหัวข้อย่อย"
+
+#: plugin/Plugin.php:152
+msgid "Without numeration"
+msgstr "ไม่มีตัวเลขลำดับ"
+
+#: core/admin/AdminController.php:46
+msgid "Sorry, you are not allowed to access this page."
+msgstr "ขออภัย คุณไม่ได้รับอนุญาตให้เข้าถึงหน้านี้"
+
+#: config/settings.php:287
+msgid "Auto Insert"
+msgstr "แทรกอัตโนมัติ"
+
+#: config/settings.php:278
+msgid "Visited Link Color"
+msgstr "ลิงค์ที่คลิกแล้ว"
+
+#: config/settings.php:273
+msgid "Hover Link Color"
+msgstr "เมื่อชี้ที่ลิงค์"
+
+#: config/settings.php:268
+msgid "Link Color"
+msgstr "สีของลิงค์"
+
+#: config/settings.php:263
+msgid "Title Color"
+msgstr "สีของชื่อเรื่อง"
+
+#: config/settings.php:258
+msgid "Border Color"
+msgstr "สีขอบ"
+
+#: config/settings.php:253
+msgid "Background Color"
+msgstr "สีพื้นหลัง"
+
+#: config/settings.php:248
+msgid "Override Color Scheme Colors"
+msgstr "เขียนทับสีของแม่แบบ"
+
+#: config/settings.php:142
+msgid "Behavior"
+msgstr "การทำงาน"
+
+#: config/settings.php:125 plugin/Settings.php:124
+msgid "hide"
+msgstr "ซ่อน"
+
+#: config/settings.php:114 plugin/Settings.php:116
+msgid "show"
+msgstr "แสดง"
+
+#: config/settings.php:91 plugin/Settings.php:100
+msgid "Contents"
+msgstr "เนื้อหา"
+
+#: admin/widgets/widget/views/form.php:19
+#: admin/widgets/metabox/views/box.php:39
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+#: admin/widgets/widget/views/_override.php:12
+#: admin/widgets/metabox/views/box.php:27
+msgid "Overridden settings:"
+msgstr "เขียนทับการตั้งค่า"
+
+#: admin/widgets/metabox/views/box.php:14
+msgid "The table of contents will be automatic added to this post."
+msgstr "Table of contents จะถูกเพิ่มไปยังโพสนี้โดยอัตโนมัติ"
+
+#: admin/widgets/customizeSuccess/views/widget.php:9
+msgid "Saved!"
+msgstr "บันทึกแล้ว!"
+
+#: admin/widgets/customizeModal/views/modal.php:671
+msgid "Save"
+msgstr "บันทึก"
+
+#: config/settings.php:133 admin/widgets/customizeModal/views/modal.php:278
+msgid "By default, items of contents will be hidden"
+msgstr "จากค่าเริ่มต้น หัวข้อของเนื้อหาจะถูกซ่อนไว้ก่อน"
+
+#: admin/widgets/customizeModal/views/modal.php:204
+msgid "Without title"
+msgstr "ปราศจากชื่อเรื่อง"
+
+#: config/settings.php:48 config/settings.php:99 config/settings.php:150
+#: config/settings.php:297 admin/widgets/customizeModal/views/modal.php:131
+#: admin/widgets/customizeModal/views/modal.php:224
+#: admin/widgets/customizeModal/views/modal.php:287
+#: admin/widgets/customizeModal/views/modal.php:310
+#: admin/widgets/customizeModal/views/modal.php:595
+#: admin/widgets/customizeModal/views/modal.php:622
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+#: config/settings.php:31 admin/widgets/customizeModal/views/modal.php:90
+msgid "If the count of headings in the post is less, then table of contents is not displayed."
+msgstr "ถ้าจำนวนหัวข้อในโพสนี้มีน้อยกว่าจำนวน สารบัญจะไม่แสดง"
+
+#: admin/widgets/customizeModal/views/modal.php:19
+msgid "Click to override default value"
+msgstr "คลิกเพื่อตั้งค่าทดแทนค่าพื้นฐาน"
+
+#: admin/widgets/customizeModal/views/modal.php:20
+msgid "default"
+msgstr "ค่าพื้นฐาน"
+
+#: config/settings.php:176 admin/widgets/customizeModal/views/modal.php:45
+msgid "Appearance"
+msgstr "การแสดงผล"
+
+#: config/settings.php:17 admin/widgets/customizeModal/views/modal.php:44
+msgid "General"
+msgstr "ทั่วไป"
+
+#: admin/widgets/OverrideColorBadge.php:21
+msgid "from scheme"
+msgstr "จากแม่แบบ"
+
+#: admin/views/settings/index.php:13
+msgid "Table of Contents Settings"
+msgstr "ตั้งค่าสารบัญ"
+
+#: config/settings.php:238 admin/Admin.php:196
+#: admin/widgets/customizeModal/views/modal.php:463
+#: admin/forms/CustomizeForm.php:254
+msgid "Color Scheme"
+msgstr "แม่แบบสี"
+
+#: config/settings.php:194 admin/Admin.php:184
+#: admin/widgets/customizeModal/views/modal.php:371
+#: admin/forms/CustomizeForm.php:252
+msgid "Float"
+msgstr "การจัดตำแหน่ง"
+
+#: admin/Admin.php:178 admin/widgets/customizeModal/views/modal.php:324
+msgid "Smooth Scroll Offset Top"
+msgstr "เลื่อนขึ้นบนแบบนิ่มนวล"
+
+#: config/settings.php:146 admin/Admin.php:175
+#: admin/widgets/customizeModal/views/modal.php:301
+msgid "Smooth Scroll"
+msgstr "เลื่อนแบบนิ่มนวน"
+
+#: admin/Admin.php:172
+msgid "Hide Items"
+msgstr "ซ่อนหัวข้อ"
+
+#: config/settings.php:118 admin/Admin.php:169
+#: admin/widgets/customizeModal/views/modal.php:258
+#: admin/forms/CustomizeForm.php:250
+msgid "Label Hide"
+msgstr "ข้อความสำหรับตัวซ่อนหัวข้อ"
+
+#: config/settings.php:107 admin/Admin.php:166
+#: admin/widgets/customizeModal/views/modal.php:238
+#: admin/forms/CustomizeForm.php:249
+msgid "Label Show"
+msgstr "ข้อความสำหรับให้แสดงหัวข้อ"
+
+#: config/settings.php:89 admin/Admin.php:160
+#: admin/widgets/customizeModal/views/modal.php:189
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: admin/Admin.php:34 admin/SiteHealth.php:42
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+#. Description of the plugin
+#: plugin/Plugin.php:486
+msgid "Creates a table of contents for your posts/pages. Works automatically or manually (via shortcode, Gutenberg block or widget)."
+msgstr "สร้างสารบัญสำหรับ เรื่อง หรือ หน้า สามารถทำงานโดยอัตโนมัติหรือกำหนดได้เอง (ผ่าน shortcode, Gutenberg block หรือ Widget)"
+
+#: plugin/Plugin.php:217
+msgid "Extra Light"
+msgstr "บางมาก"
+
+#: plugin/Plugin.php:218
+msgid "Light"
+msgstr "บาง"
+
+#: plugin/Plugin.php:221
+msgid "Semi Bold"
+msgstr "ค่อนข้างหนา"
+
+#: config/settings.php:317
+msgid "Post Types"
+msgstr "เลือกประเภทของ Post type"
+
+#: config/settings.php:293
+msgid "Auto Insert Table of Contents"
+msgstr "ใส่สารบัญอัตโนมัติ"
+
+#: config/settings.php:85
+msgid "Header"
+msgstr "หัวข้อ"
+
+#: admin/widgets/customizeModal/views/modal.php:30
+msgid "Customize Table of Contents"
+msgstr "ปรับแต่งสารบัญ"
+
+#: admin/widgets/customizeModal/views/modal.php:29
+#: admin/widgets/customizeModal/views/modal.php:667
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: config/settings.php:95 admin/Admin.php:163
+#: admin/widgets/customizeModal/views/modal.php:215
+msgid "Toggle Show/Hide"
+msgstr "เปิด/ปิด การซ่อนสารบัญ"

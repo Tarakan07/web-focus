@@ -1,0 +1,680 @@
+# Translation of Plugins - LuckyWP Table of Contents - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - LuckyWP Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-03 18:22:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - LuckyWP Table of Contents - Stable (latest release)\n"
+
+#: plugin/WpWidget.php:24
+msgid "Creates a table of contents for your posts and pages."
+msgstr "Lager en innholdsfortegnelse for dine innlegg og sider."
+
+#: config/settings.php:494 admin/widgets/customizeModal/views/modal.php:645
+msgid "Separate multiple classes with spaces."
+msgstr "Adskill flere klasser med mellomrom"
+
+#: config/settings.php:492 admin/Admin.php:237
+#: admin/widgets/customizeModal/views/modal.php:636
+msgid "Additional CSS Class(es)"
+msgstr "Ytterligere CSS-klasse(r)"
+
+#: config/settings.php:502
+msgid "LuckyWP Plugins"
+msgstr "LuckyWP utvidelser"
+
+#: admin/SiteHealth.php:38
+msgid "ICU Version"
+msgstr "ICU-versjon"
+
+#: admin/SiteHealth.php:34
+msgid "intl Version"
+msgstr "intl-versjon"
+
+#: admin/SiteHealth.php:27 admin/SiteHealth.php:31 admin/SiteHealth.php:35
+#: admin/SiteHealth.php:39
+msgid "not loaded"
+msgstr "ikke lastet"
+
+#: admin/SiteHealth.php:26
+msgid "DOM/XML Version"
+msgstr "DOM/XML-versjon"
+
+#. translators: 1: LuckyWP Table of Contents 2: DOM (Document Object Model)
+#: luckywp-table-of-contents.php:33
+msgid "%1$s plugin require PHP extension %2$s to work."
+msgstr "Utvidelsen %1$s krever PHP-tillegget %2$s for å virke."
+
+#: config/settings.php:472
+msgid "Other Settings"
+msgstr "Andre innstillinger"
+
+#: plugin/Plugin.php:271
+msgid "Inherit from theme"
+msgstr "Arv fra tema"
+
+#: admin/views/rate/notice.php:34
+msgid "Don't show again"
+msgstr "Ikke vis igjen"
+
+#. translators: %s: rel="nofollow"
+#: config/settings.php:462 admin/Admin.php:224
+#: admin/widgets/customizeModal/views/modal.php:611
+msgid "Use %s for links"
+msgstr "Bruk %s for lenker"
+
+#: config/settings.php:437
+msgid "SEO"
+msgstr "SEO"
+
+#. translators: %s: <!--noindex-->
+#: config/settings.php:447 admin/Admin.php:214
+#: admin/widgets/customizeModal/views/modal.php:584
+msgid "Wrap table of contents with %s tag"
+msgstr "Pakk innholdsfortegnelsen inn i %s-element"
+
+#. translators: %s: LuckyWP Table of Contents
+#: admin/views/rate/notice.php:14
+msgid "We are very pleased that you by now have been using the %s plugin a few days."
+msgstr "Vi er veldig glad for at du nå har brukt utvidelsen %s i noen dager."
+
+#. translators: 1: _ 2: -
+#: config/settings.php:426
+msgid "Replace underscores %1$s with dashes %2$s"
+msgstr "Erstatt understrek %1$s med bindestrek %2$s"
+
+#: config/settings.php:413
+msgid "Convert to lowercase"
+msgstr "Omgjør til små bokstaver"
+
+#. translators: 1: Attribute name 2: True 3: False
+#: core/validators/BooleanValidator.php:29
+msgid "%1$s must be either \"%2$s\" or \"%3$s\"."
+msgstr "%1$s må enten være \"%2$s\" eller \"%3$s\"."
+
+#. translators: %s: Attribute name
+#: core/validators/RangeValidator.php:29
+msgid "%s is invalid."
+msgstr "%s er ugyldig."
+
+#. translators: %s: Attribute name
+#: core/validators/RequiredValidator.php:18
+msgid "%s cannot be blank."
+msgstr "%s kan ikke være tom eller mellomrom."
+
+#. translators: %s: (#lwptoc1, #lwptoc2, …)
+#: plugin/Plugin.php:285
+msgid "Counter %s"
+msgstr "Teller %s"
+
+#. translators: Here, hash is a unique tracking string that is added to the URL
+#. after a # character
+#: config/settings.php:395
+msgid "Hash"
+msgstr "Bokmerke-URL (hash)"
+
+#: plugin/Plugin.php:282
+msgid "As heading without transliterate (#Example_Heading_Text)"
+msgstr "Som overskrift uten translitterasjon (#Example_Heading_Text)"
+
+#. translators: %s: 1.3)
+#: config/settings.php:78
+msgid "The symbol will be added after numeration. For example, %s"
+msgstr "Symbolet vil bli lagt tll etter nummerering. For eksempel %s"
+
+#: config/settings.php:67 admin/Admin.php:157 admin/forms/CustomizeForm.php:248
+#: admin/widgets/customizeModal/views/modal.php:167
+msgid "Numeration Suffix"
+msgstr "Suffiks ved nummerering"
+
+#. translators: %s: ★★★★★
+#: admin/views/settings/index.php:10
+msgid "Leave a %s plugin review on WordPress.org"
+msgstr "Legg inn en vurdering av utvidelsen %s på WordPress.org"
+
+#: admin/views/rate/notice.php:42
+msgid "Thank you very much!"
+msgstr "Tusen takk!"
+
+#: admin/views/rate/notice.php:28
+msgid "Remind later"
+msgstr "Påminn meg senere"
+
+#: admin/views/rate/notice.php:21
+msgid "Rate the plugin"
+msgstr "Vurder utvidelsen"
+
+#: admin/views/rate/notice.php:18
+msgid "Please rate plugin. It will help us a lot."
+msgstr "Vennligst vurder utvidelsen. Det vil hjelpe oss mye."
+
+#: admin/views/rate/notice.php:10
+msgid "Hello!"
+msgstr "Hallo!"
+
+#: admin/widgets/metabox/views/box.php:75
+msgid "Enable TOC"
+msgstr "Skru på innholdsfortegnelse"
+
+#: admin/widgets/metabox/views/box.php:64
+msgid "Enable Processing"
+msgstr "Skru på prosessering"
+
+#: admin/widgets/metabox/views/box.php:61
+msgid "Click \"Enable Processing\" for headings processing in this post."
+msgstr "Klikk \"Skru på prosessering\" for prosessering av overskrifter i dette innlegget."
+
+#: admin/widgets/metabox/views/box.php:49
+msgid "Disable Processing"
+msgstr "Skru av prosessering"
+
+#: admin/widgets/metabox/views/box.php:44
+msgid "Disable TOC"
+msgstr "Skru av innholdsfortegnelse"
+
+#: config/settings.php:475
+msgid "Show Panel \"Table of Contents\" in Post Types"
+msgstr "Vis panelet \"Innholdsfortegnelse\" i innholdstyper"
+
+#: config/settings.php:340
+msgid "Always for Post Types"
+msgstr "Alltid for innholdstyper"
+
+#: config/settings.php:335
+msgid "Processing Headings"
+msgstr "Prosessering av overkskrifter"
+
+#: admin/widgets/metabox/views/box.php:18
+msgid "The headings will be processing in this post for use in table of contents in widget or custom shortcode."
+msgstr "Overskriftene vil bli behandlet i dette innlegget for å brukes i innholdsfortegnelse-widgeten eller egen kortkode."
+
+#: admin/widgets/customizeModal/views/modal.php:541
+msgid "Skip heading by text"
+msgstr "Hopp over overskrifter etter tekst"
+
+#: admin/widgets/customizeModal/views/modal.php:518
+msgid "Skip heading by level"
+msgstr "Hopp over overskrifter etter nivå"
+
+#: admin/Admin.php:231 admin/Admin.php:234
+msgid "Skip headings"
+msgstr "Hopp over overskrifter"
+
+#. translators: %s: Asterisk symbol (*)
+#: config/settings.php:382 admin/widgets/customizeModal/views/modal.php:559
+msgid "Use an asterisk %s as a wildcard to match any text."
+msgstr "Bruk en asterisk %s som jokertegn for å passe til enhver tekst."
+
+#: config/settings.php:378 admin/widgets/customizeModal/views/modal.php:555
+msgid "Specify headings (one per line) to be excluded from the table of contents."
+msgstr "Angi overskrifter (én pr. linje) som skal utelukkes fra innholdsfortegnelsen."
+
+#: config/settings.php:370
+msgid "By Text"
+msgstr "Etter tekst"
+
+#: config/settings.php:360
+msgid "By Level"
+msgstr "Etter nivå"
+
+#: config/settings.php:357
+msgid "Skip Headings"
+msgstr "Hopp over overskrifter"
+
+#: plugin/Plugin.php:281
+msgid "As heading (#Example_Heading_Text)"
+msgstr "Som overskrift (#Eksempel_Overskrift_Tekst)"
+
+#: plugin/Plugin.php:257
+msgid "Center"
+msgstr "Midtstill"
+
+#: plugin/Plugin.php:256
+msgid "Right without flow"
+msgstr "Høyre uten flyt"
+
+#. translators: Here, hash is a unique tracking string that is added to the URL
+#. after a # character
+#: config/settings.php:400
+msgid "Hash Format"
+msgstr "Format for bokmerke-URL (hash)"
+
+#: config/settings.php:354 admin/widgets/customizeModal/views/modal.php:46
+msgid "Misc."
+msgstr "Forskjellig"
+
+#: plugin/Plugin.php:299
+msgid "Full Width"
+msgstr "Full bredde"
+
+#: plugin/Plugin.php:298
+msgid "Auto"
+msgstr "Auto"
+
+#: plugin/Plugin.php:268
+msgid "Dark Colors"
+msgstr "Mørke farger"
+
+#: plugin/Plugin.php:267
+msgid "Light Colors"
+msgstr "Lyse farger"
+
+#: plugin/Plugin.php:300 admin/widgets/fontSizeField/views/widget.php:17
+msgid "Custom Value"
+msgstr "Tilpasset verdi"
+
+#: plugin/Plugin.php:335 admin/widgets/fontSizeField/views/widget.php:16
+msgid "Default"
+msgstr "Standard"
+
+#. Author URI of the plugin
+msgid "https://theluckywp.com/"
+msgstr "https://theluckywp.com/"
+
+#. Author of the plugin
+msgid "LuckyWP"
+msgstr "LuckyWP"
+
+#. Plugin URI of the plugin
+msgid "https://theluckywp.com/product/table-of-contents/"
+msgstr "https://theluckywp.com/product/table-of-contents/"
+
+#: admin/widgets/customizeModal/views/modal.php:671
+msgid "Save"
+msgstr "Lagre"
+
+#: config/settings.php:89 admin/Admin.php:160
+#: admin/widgets/customizeModal/views/modal.php:189
+msgid "Title"
+msgstr "Tittel"
+
+#. Description of the plugin
+#: plugin/Plugin.php:486
+msgid "Creates a table of contents for your posts/pages. Works automatically or manually (via shortcode, Gutenberg block or widget)."
+msgstr "Lager en innholdsfortegnelse for dine innlegg/sider. Virker automatisk eller manuelt (via kortkode, Gutenberg-blokk eller widget)."
+
+#. Plugin Name of the plugin
+msgid "LuckyWP Table of Contents"
+msgstr "LuckyWP Innholdsfortegnelse"
+
+#: plugin/Plugin.php:270
+msgid "Transparent"
+msgstr "Gjennomsiktig"
+
+#: plugin/Plugin.php:269
+msgid "White"
+msgstr "Hvit"
+
+#: plugin/Plugin.php:255
+msgid "Right"
+msgstr "Høyre"
+
+#: plugin/Plugin.php:254
+msgid "Left"
+msgstr "Venstre"
+
+#: plugin/Plugin.php:166 plugin/Plugin.php:253 plugin/Plugin.php:398
+msgid "None"
+msgstr "Ingen"
+
+#: plugin/Plugin.php:224
+msgid "Heavy"
+msgstr "Tung"
+
+#: plugin/Plugin.php:223
+msgid "Extra Bold"
+msgstr "Ekstra fet"
+
+#: plugin/Plugin.php:222
+msgid "Bold"
+msgstr "Fet"
+
+#: plugin/Plugin.php:221
+msgid "Semi Bold"
+msgstr "Halvfet"
+
+#: plugin/Plugin.php:220
+msgid "Medium"
+msgstr "Middels"
+
+#: plugin/Plugin.php:219
+msgid "Normal"
+msgstr "Normal"
+
+#: plugin/Plugin.php:218
+msgid "Light"
+msgstr "Lys"
+
+#: plugin/Plugin.php:217
+msgid "Extra Light"
+msgstr "Ekstra lys"
+
+#: plugin/Plugin.php:216
+msgid "Thin"
+msgstr "Tynn"
+
+#: plugin/Plugin.php:182
+msgid "Bottom"
+msgstr "Bunn"
+
+#: plugin/Plugin.php:181
+msgid "Top"
+msgstr "Topp"
+
+#: plugin/Plugin.php:179
+msgid "After first heading"
+msgstr "Etter første overskrift"
+
+#: plugin/Plugin.php:178
+msgid "Before first heading"
+msgstr "Foran første overskrift"
+
+#: plugin/Plugin.php:154
+msgid "Decimal numbers"
+msgstr "Desimaltall"
+
+#: plugin/Plugin.php:156
+msgid "Roman numbers"
+msgstr "Romertall"
+
+#: plugin/Plugin.php:155
+msgid "Roman numbers (nested)"
+msgstr "Romertall (nøstet)"
+
+#: plugin/Plugin.php:153
+msgid "Decimal numbers (nested)"
+msgstr "Desimaltall (nøstet)"
+
+#: plugin/Plugin.php:152
+msgid "Without numeration"
+msgstr "Uten nummerering"
+
+#: core/admin/AdminController.php:46
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Beklager, du  har ikke tilgang til denne siden."
+
+#: config/settings.php:317
+msgid "Post Types"
+msgstr "Innholdstyper"
+
+#: config/settings.php:293
+msgid "Auto Insert Table of Contents"
+msgstr "Sett automatisk inn innholdsfortegnelse"
+
+#: config/settings.php:287
+msgid "Auto Insert"
+msgstr "Automatisk innsetting"
+
+#: config/settings.php:278
+msgid "Visited Link Color"
+msgstr "Farge på besøkte lenker"
+
+#: config/settings.php:273
+msgid "Hover Link Color"
+msgstr "Svevefarge for lenker"
+
+#: config/settings.php:268
+msgid "Link Color"
+msgstr "Lenkefarge"
+
+#: config/settings.php:263
+msgid "Title Color"
+msgstr "Farge på tittel"
+
+#: config/settings.php:258
+msgid "Border Color"
+msgstr "Kantfarge"
+
+#: config/settings.php:253
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: config/settings.php:248
+msgid "Override Color Scheme Colors"
+msgstr "Overstyr farger fra fargeskjema"
+
+#: config/settings.php:158
+msgid "Scroll Offset Top"
+msgstr "Rulleforskyvning topp"
+
+#: config/settings.php:142
+msgid "Behavior"
+msgstr "Oppførsel"
+
+#: config/settings.php:125 plugin/Settings.php:124
+msgid "hide"
+msgstr "skjul"
+
+#: config/settings.php:114 plugin/Settings.php:116
+msgid "show"
+msgstr "vis"
+
+#: config/settings.php:91 plugin/Settings.php:100
+msgid "Contents"
+msgstr "Innhold"
+
+#: config/settings.php:85
+msgid "Header"
+msgstr "Toppfelt"
+
+#: admin/widgets/metabox/views/box.php:72
+msgid "Click \"Enable TOC\" for automatic add table of contents to this post."
+msgstr "Trykk \"Skru på innholdsfortegnelse\" for automatisk å legge innholdsfortegnelse til dette innlegget"
+
+#: admin/widgets/widget/views/form.php:19
+#: admin/widgets/metabox/views/box.php:39
+msgid "Customize"
+msgstr "Tilpass"
+
+#: admin/widgets/widget/views/_override.php:12
+#: admin/widgets/metabox/views/box.php:27
+msgid "Overridden settings:"
+msgstr "Overstyrte innstillinger"
+
+#: admin/widgets/metabox/views/box.php:14
+msgid "The table of contents will be automatic added to this post."
+msgstr "Innholdsfortegnelsen vil automatisk bli lagt til i dette innlegget."
+
+#: admin/widgets/customizeSuccess/views/widget.php:9
+msgid "Saved!"
+msgstr "Lagret!"
+
+#: config/settings.php:133 admin/widgets/customizeModal/views/modal.php:278
+msgid "By default, items of contents will be hidden"
+msgstr "Som standard vil innholdselementer bli skjult"
+
+#: admin/widgets/customizeModal/views/modal.php:204
+msgid "Without title"
+msgstr "Uten tittel"
+
+#: config/settings.php:48 config/settings.php:99 config/settings.php:150
+#: config/settings.php:297 admin/widgets/customizeModal/views/modal.php:131
+#: admin/widgets/customizeModal/views/modal.php:224
+#: admin/widgets/customizeModal/views/modal.php:287
+#: admin/widgets/customizeModal/views/modal.php:310
+#: admin/widgets/customizeModal/views/modal.php:595
+#: admin/widgets/customizeModal/views/modal.php:622
+msgid "Enable"
+msgstr "Skru på"
+
+#: config/settings.php:31 admin/widgets/customizeModal/views/modal.php:90
+msgid "If the count of headings in the post is less, then table of contents is not displayed."
+msgstr "Om antall overskrifter i dette innlegget er lavere vil innholdsfortegnelsen ikke bli vist."
+
+#: admin/widgets/customizeModal/views/modal.php:19
+msgid "Click to override default value"
+msgstr "Klikk for å overstyre standardverdi"
+
+#: admin/widgets/customizeModal/views/modal.php:20
+msgid "default"
+msgstr "standard"
+
+#: config/settings.php:176 admin/widgets/customizeModal/views/modal.php:45
+msgid "Appearance"
+msgstr "Utseende"
+
+#: config/settings.php:17 admin/widgets/customizeModal/views/modal.php:44
+msgid "General"
+msgstr "Generelt"
+
+#: admin/widgets/customizeModal/views/modal.php:30
+msgid "Customize Table of Contents"
+msgstr "Tilpass innholdsfortegnelsen"
+
+#: admin/widgets/customizeModal/views/modal.php:29
+#: admin/widgets/customizeModal/views/modal.php:667
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: admin/widgets/OverrideColorBadge.php:21
+msgid "from scheme"
+msgstr "fra skjema"
+
+#: admin/views/settings/index.php:13
+msgid "Table of Contents Settings"
+msgstr "Innstillinger for innholdsfortegnelse"
+
+#: admin/widgets/customizeModal/views/modal.php:571
+#: admin/widgets/customizeModal/views/modal.php:654
+#: admin/widgets/widget/views/_override.php:18
+#: admin/widgets/metabox/views/box.php:33
+#: admin/controllers/ShortcodeController.php:66
+#: admin/controllers/EditorBlockController.php:71
+msgid "empty"
+msgstr "tom"
+
+#: config/settings.php:238 admin/Admin.php:196
+#: admin/forms/CustomizeForm.php:254
+#: admin/widgets/customizeModal/views/modal.php:463
+msgid "Color Scheme"
+msgstr "Fargeskjema"
+
+#: config/settings.php:225 admin/Admin.php:193
+#: admin/widgets/customizeModal/views/modal.php:439
+msgid "Items Font Size"
+msgstr "Skriftstørrelse for elementer"
+
+#: config/settings.php:216 admin/Admin.php:190
+#: admin/forms/CustomizeForm.php:253
+#: admin/widgets/customizeModal/views/modal.php:417
+msgid "Title Font Weight"
+msgstr "Skriftvekt for tittel"
+
+#: config/settings.php:203 admin/Admin.php:187
+#: admin/widgets/customizeModal/views/modal.php:393
+msgid "Title Font Size"
+msgstr "Skriftstørrelse for tittel"
+
+#: config/settings.php:194 admin/Admin.php:184
+#: admin/forms/CustomizeForm.php:252
+#: admin/widgets/customizeModal/views/modal.php:371
+msgid "Float"
+msgstr "Flyt"
+
+#: config/settings.php:182 admin/Admin.php:181
+#: admin/widgets/customizeModal/views/modal.php:348
+msgid "Width"
+msgstr "Bredde"
+
+#: admin/Admin.php:178 admin/widgets/customizeModal/views/modal.php:324
+msgid "Smooth Scroll Offset Top"
+msgstr "Forskyving fra topp ved jevn rulling"
+
+#: config/settings.php:146 admin/Admin.php:175
+#: admin/widgets/customizeModal/views/modal.php:301
+msgid "Smooth Scroll"
+msgstr "Jevn rulling"
+
+#: admin/Admin.php:172
+msgid "Hide Items"
+msgstr "Skjul elementer"
+
+#: config/settings.php:95 admin/Admin.php:163
+#: admin/widgets/customizeModal/views/modal.php:215
+msgid "Toggle Show/Hide"
+msgstr "Veksle vis/skjul"
+
+#: config/settings.php:55 admin/Admin.php:154 admin/forms/CustomizeForm.php:247
+#: admin/widgets/customizeModal/views/modal.php:145
+msgid "Numeration"
+msgstr "Nummerering"
+
+#: admin/Admin.php:151 admin/Admin.php:163 admin/Admin.php:172
+#: admin/Admin.php:175 admin/Admin.php:217 admin/Admin.php:227
+#: admin/widgets/customizeModal/views/modal.php:138
+#: admin/widgets/customizeModal/views/modal.php:231
+#: admin/widgets/customizeModal/views/modal.php:294
+#: admin/widgets/customizeModal/views/modal.php:317
+#: admin/widgets/customizeModal/views/modal.php:602
+#: admin/widgets/customizeModal/views/modal.php:629
+msgid "Disabled"
+msgstr "Skrudd av"
+
+#: admin/Admin.php:151 admin/Admin.php:163 admin/Admin.php:172
+#: admin/Admin.php:175 admin/Admin.php:217 admin/Admin.php:227
+#: admin/widgets/customizeModal/views/modal.php:138
+#: admin/widgets/customizeModal/views/modal.php:231
+#: admin/widgets/customizeModal/views/modal.php:294
+#: admin/widgets/customizeModal/views/modal.php:317
+#: admin/widgets/customizeModal/views/modal.php:602
+#: admin/widgets/customizeModal/views/modal.php:629
+msgid "Enabled"
+msgstr "Skrudd på"
+
+#: config/settings.php:44 admin/Admin.php:151
+#: admin/widgets/customizeModal/views/modal.php:122
+msgid "Hierarchical View"
+msgstr "Hierarkisk visning"
+
+#: config/settings.php:35 admin/Admin.php:148 admin/forms/CustomizeForm.php:246
+#: admin/widgets/customizeModal/views/modal.php:100
+msgid "Depth"
+msgstr "Dybde"
+
+#: config/settings.php:23 admin/Admin.php:145
+#: admin/widgets/customizeModal/views/modal.php:77
+msgid "Minimal Count of Headings"
+msgstr "Minste antall overskrifter"
+
+#: config/settings.php:305 admin/Admin.php:142
+#: admin/forms/CustomizeForm.php:251
+#: admin/widgets/customizeModal/views/modal.php:54
+msgid "Position"
+msgstr "Posisjon"
+
+#. translators: verb
+#: admin/Admin.php:115
+msgid "Edit"
+msgstr "Rediger"
+
+#: plugin/WpWidget.php:22 plugin/Plugin.php:481 admin/Admin.php:54
+#: admin/Admin.php:55 admin/Admin.php:75 admin/Admin.php:113
+#: admin/controllers/ShortcodeController.php:60
+#: admin/controllers/EditorBlockController.php:65
+msgid "Table of Contents"
+msgstr "Innholdsfortegnelse"
+
+#: admin/Admin.php:34 admin/SiteHealth.php:42
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: config/settings.php:118 admin/Admin.php:169
+#: admin/forms/CustomizeForm.php:250
+#: admin/widgets/customizeModal/views/modal.php:258
+msgid "Label Hide"
+msgstr "Etikett for Skjul"
+
+#: config/settings.php:107 admin/Admin.php:166
+#: admin/forms/CustomizeForm.php:249
+#: admin/widgets/customizeModal/views/modal.php:238
+msgid "Label Show"
+msgstr "Etikett for Vis"
+
+#: plugin/Plugin.php:180
+msgid "After first block (paragraph or heading)"
+msgstr "Etter første blokk (avsnitt eller overskrift)"

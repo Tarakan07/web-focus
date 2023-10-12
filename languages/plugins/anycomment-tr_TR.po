@@ -1,0 +1,2306 @@
+# Translation of Plugins - AnyComment - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - AnyComment - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-26 13:05:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - AnyComment - Stable (latest release)\n"
+
+#: includes/AnyCommentRender.php:265
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:252
+msgid "You have enabled reCAPTCHA, but did not specify fields: site key and site secret. These two fields are required."
+msgstr "ReCAPTCHA'yı etkinleştirdiniz, ancak alanları belirtmediniz: site anahtarı ve site gizli kelimesi. Bu iki alan gereklidir."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:134
+msgid "You are using %s for caching. Go to \"Settings\" and make sure option \"304 Not Modified...\" is unchecked. If you're experiencing some problem with AnyComment, try to deactivate it and check whether problem was resolved"
+msgstr "Önbelleğe almak için %s kullanıyorsunuz. \"Ayarlar\" a gidin ve \"304 Değiştirilmedi ...\" seçeneğinin işaretli olmadığından emin olun. AnyComment ile ilgili bir sorun yaşıyorsanız, sorunu devre dışı bırakmayı deneyin ve sorunun çözülüp çözülmediğini kontrol edin."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:303
+msgid "Position"
+msgstr "Konum"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:287
+msgid "Users affected by capcha."
+msgstr "ReCAPTCHA tarafından etkilenen kullanıcılar"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:262
+msgid "Enable reCAPTCHA. Make sure you have set API keys below as it will not work properly without them."
+msgstr "ReCAPTCHA'yı etkinleştir. API anahtarlarını, bunlar olmadan düzgün çalışmayacağından aşağıda belirlediğinizden emin olun."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:246
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:237
+msgid "Force WP User Avatars"
+msgstr "WP User Avatars zorla"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:206
+msgid "Filter Spam via Akismet"
+msgstr "Akismet üzerinden istenmeyen yorumları filtrele"
+
+#: includes/Admin/AnyCommentSocialSettings.php:535
+msgid "Enter client secret. It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "İstemci gizli anahtarı girin. Web uygulamanızı <a href=\"%s\" target=\"_blank\">kaydettikten</a> sonra bulabilirsiniz."
+
+#: includes/Admin/AnyCommentSocialSettings.php:523
+msgid "Allow Mail.Ru authorization"
+msgstr "Mail.Ru yetkilendirmemesine izin verin"
+
+#: includes/Admin/AnyCommentSocialSettings.php:501
+msgid "Enter password (NOT your email password). It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "Şifreyi girin (E-posta şifreniz DEĞİL). Web uygulamanızı <a href=\"%s\" target=\"_blank\">kaydettikten</a> sonra bulabilirsiniz."
+
+#: includes/Admin/AnyCommentSocialSettings.php:495
+#: includes/Admin/AnyCommentSocialSettings.php:529
+msgid "Enter id. It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "ID girin. Web uygulamanızı <a href=\"%s\" target=\"_blank\">kaydettikten</a> sonra bulabilirsiniz."
+
+#: includes/Admin/AnyCommentSocialSettings.php:494
+#: includes/Admin/AnyCommentSocialSettings.php:528
+msgid "ID"
+msgstr "ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:489
+msgid "Allow Yandex authorization"
+msgstr "Yandex yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:517
+#: includes/Rest/AnyCommentSocialAuth.php:283 includes/AnyCommentSocials.php:98
+msgid "Mail.Ru"
+msgstr "Mail.ru"
+
+#: includes/Admin/AnyCommentSocialSettings.php:483
+#: includes/Rest/AnyCommentSocialAuth.php:282 includes/AnyCommentSocials.php:91
+msgid "Yandex"
+msgstr "Yandex"
+
+#: includes/Rest/AnyCommentRestLikes.php:157
+msgid "dislike"
+msgstr "beğenme"
+
+#: includes/Rest/AnyCommentRestLikes.php:157
+msgid "like"
+msgstr "beğen"
+
+#: includes/Rest/AnyCommentRestLikes.php:156
+msgid "Failed to %s"
+msgstr "%s başarısız oldu"
+
+#: includes/Rest/AnyCommentRestLikes.php:110
+msgid "Sorry, rating type can be only %s or %s."
+msgstr "Üzgünüz, derecelendirme türü yalnızca %s veya %s olabilir."
+
+#: includes/Rest/AnyCommentRestLikes.php:49
+msgid "Like - %d or dislike - %d."
+msgstr "Beğen - %d veya beğenme - %d."
+
+#: includes/Rest/AnyCommentRestLikes.php:45
+msgid "Post id."
+msgstr "Yazı ID."
+
+#: includes/Rest/AnyCommentRestLikes.php:41
+msgid "Comment id."
+msgstr "Yorum ID."
+
+#: includes/Admin/AnyCommentGenericSettings.php:850
+msgid "Show comments in real-time. Users on the page would be notified about new comments by green alert and see comment without page reload."
+msgstr "Yorumları gerçek zamanlı olarak göster. Sayfadaki kullanıcılar, yeşil uyarıyla ilgili yeni yorumlar hakkında bilgilendirilecek ve sayfanın yeniden yüklenmesini istemeyen yorumları görecek."
+
+#: includes/Admin/AnyCommentGenericSettings.php:849
+msgid "Real-time updates"
+msgstr "Gerçek zamanlı güncellemeler"
+
+#: includes/Admin/AnyCommentGenericSettings.php:401
+msgid "Type of rating used for single comment. Option \"Likes\" would display only heart like, whereas \"Likes and dislikes\" would display up and down options."
+msgstr "Tek yorum için kullanılan derecelendirme türü. Seçenek \"Beğenenler\" sadece kalp gibi görünürken \"Beğenenler ve beğenmeme\" seçenekleri yukarı ve aşağı seçeneklerini gösterir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:398
+msgid "Likes and dislikes"
+msgstr "Beğeniler ve beğenilmeyenler"
+
+#: includes/Admin/AnyCommentGenericSettings.php:397
+msgid "Likes only"
+msgstr "Sadece beğeni"
+
+#: includes/Admin/AnyCommentGenericSettings.php:394
+msgid "Comment rating"
+msgstr "Yorum puanlama"
+
+#: includes/Admin/AnyCommentSocialSettings.php:467
+msgid "Enter key. It can be found in the <a href=\"%s\" target=\"_blank\">Register Steam Web API Key</a>"
+msgstr "Giriş anahtarı. <a href=\"%s\" target=\"_blank\"> Steam Web API Anahtarını Kaydet </a> bölümünde bulunabilir."
+
+#: includes/Admin/AnyCommentSocialSettings.php:466
+msgid "Key"
+msgstr "Anahtar"
+
+#: includes/Admin/AnyCommentSocialSettings.php:461
+msgid "Allow Steam authorization"
+msgstr "Steam yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:455
+#: includes/Rest/AnyCommentSocialAuth.php:284
+#: includes/AnyCommentSocials.php:105
+msgid "Steam"
+msgstr "Steam"
+
+#: includes/Widgets/Native/CommentList.php:261
+msgid "Author avatar size:"
+msgstr "Yazar avatar boyutu:"
+
+#: includes/Widgets/Native/CommentList.php:254
+msgid "Author name color:"
+msgstr "Yazar adı rengi:"
+
+#: includes/Widgets/Native/CommentList.php:248
+msgid "Comment text color:"
+msgstr "Yorum metin rengi:"
+
+#: includes/Widgets/Native/CommentList.php:242
+msgid "Background color:"
+msgstr "Arkaplan rengi:"
+
+#: includes/Widgets/Native/CommentList.php:236
+msgid "Font size:"
+msgstr "Yazı boyutu:"
+
+#: includes/Widgets/Native/CommentList.php:230
+msgid "Number of comments to show:"
+msgstr "Gösterilecek yorum sayısı:"
+
+#: includes/Widgets/Native/CommentList.php:218
+msgid "Title:"
+msgstr "Başlık:"
+
+#: includes/Widgets/Native/CommentList.php:135
+msgid "ago"
+msgstr "önce"
+
+#: includes/Widgets/Native/CommentList.php:26
+msgid "Your site&#8217;s most recent comments displayed using AnyComment."
+msgstr "Sitenizin&#8217;s en son yorumları AnyComment kullanılarak görüntülendi."
+
+#: templates/admin/tab-help.php:30
+msgid "Demo"
+msgstr "Demo"
+
+#: templates/admin/tab-help.php:7
+msgid "or use this name \"%s\" to search"
+msgstr "veya bu adı \" %s\" kullanarak arama"
+
+#: includes/AnyCommentRender.php:302
+msgid "or as guest:"
+msgstr "veya konuk olarak:"
+
+#: includes/AnyCommentRender.php:300
+msgid "Hide this message"
+msgstr "Bu mesajı gizle"
+
+#: includes/AnyCommentRender.php:272
+msgid "You may subscribe to new comments for this post by entering your email below:"
+msgstr "Aşağıdaki e-posta adresinizi girerek bu yayının yeni yorumlara abone olabilirsiniz:"
+
+#: includes/AnyCommentRender.php:271
+msgid "You may subscribe to new comments by clicking \"Subscribe\" button below:"
+msgstr "Aşağıdaki \"Abone Ol\" düğmesine tıklayarak yeni yorumlara abone olabilirsiniz:"
+
+#: includes/AnyCommentRender.php:268
+msgid "Check you email to confirm subscription"
+msgstr "Abonelik onaylamak için e-posta kontrol edin"
+
+#: templates/admin/tables/subscriptions.php:28
+msgid "Failed to delete selected subscribers."
+msgstr "Seçili aboneleri silinemedi."
+
+#: templates/admin/tables/subscriptions.php:26
+msgid "Selected subscribers were deleted."
+msgstr "Seçili aboneleri silindi."
+
+#: templates/admin/tables/rating.php:29
+msgid "Failed to delete selected ratings."
+msgstr "Seçili derecelendirmeler silinemedi."
+
+#: templates/admin/tables/rating.php:27
+msgid "Selected ratings were deleted."
+msgstr "Seçili derecelendirmeler silindi."
+
+#: templates/admin/tables/files.php:26
+msgid "Files were deleted."
+msgstr "Dosyaları silindi."
+
+#: templates/admin/tables/emails.php:28
+msgid "Failed to delete selected emails."
+msgstr "Seçilen e-postaları silemedi."
+
+#: templates/admin/tables/emails.php:26
+msgid "Selected emails were deleted."
+msgstr "Seçilen e-postalar silindi."
+
+#: templates/admin/dashboard.php:39
+msgid "Telegram"
+msgstr "Telegram"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:87
+msgid "Sorry, this email is unavailable for subscription."
+msgstr "Üzgünüz, bu e-posta abonelik için kullanılamaz."
+
+#: includes/Models/AnyCommentEmailQueue.php:409
+msgid "Confirm"
+msgstr "Onayla"
+
+#: includes/Models/AnyCommentEmailQueue.php:304
+#: includes/Models/AnyCommentEmailQueue.php:306
+msgid "Subscription Confirmation For %s"
+msgstr "%s için Abonelik Onayı"
+
+#: includes/EmailEndpoints.php:67
+msgid "Your email confirmed. You will redirected back to post in a moment."
+msgstr "E-postanız onaylandı. Birazdan geri yönlendirileceksiniz."
+
+#: includes/EmailEndpoints.php:66
+msgid "You were unsubscribed successfully. You will be redirect back to the post in a momemnt."
+msgstr "Abonelikten başarıyla çıktınız. Biraz sonra gönderiye yönlendirileceksiniz."
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:196
+msgid "Confirmation"
+msgstr "Onay"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:195
+msgid "Is Active?"
+msgstr "Aktif mi?"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:97
+msgid "No subscribers yet."
+msgstr "Henüz abone yok."
+
+#: includes/Admin/Tables/AnyCommentRatingTable.php:94
+msgid "No rating yet."
+msgstr "Henüz oylama yok."
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:221
+msgid "Is Sent?"
+msgstr "Gönderilir?"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:219
+msgid "Subject"
+msgstr "Başlık"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:217
+msgid "Comment"
+msgstr "Yorum"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:124
+msgid "Edit this comment"
+msgstr "Bu yorum düzenle"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:91
+msgid "No emails uploaded yet."
+msgstr "Henüz yüklenen e-postal yok."
+
+#: templates/admin/tables/subscriptions.php:12
+#: includes/Admin/AnyCommentSubscriptionsPage.php:34
+#: includes/Admin/AnyCommentSubscriptionsPage.php:35
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: includes/Admin/AnyCommentSocialSettings.php:386
+msgid "It is very hard to get approve by Instagram. Read guide below to know more about why it is so."
+msgstr "Instagram tarafından onay almak çok zor. Bu kadar neden hakkında daha fazla bilgi için aşağıdaki kılavuzu okuyun."
+
+#: templates/admin/tables/rating.php:11
+#: includes/Admin/Tables/AnyCommentRatingTable.php:189
+#: includes/Admin/AnyCommentRatingPage.php:26
+#: includes/Admin/AnyCommentRatingPage.php:27
+msgid "Rating"
+msgstr "Puanlama"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:60
+msgid "You have All In One WP Security activated, please make sure \"Disallow Unauthorized REST Requests\" is unchecked in <a href=\"%s\">here</a> and \"Bad Query Strings\" is unchecked in <a href=\"%s\">here</a> tab as it may cause problems to load comments."
+msgstr "All In One WP Security etkin durumdayken, lütfen \"Disallow Unauthorized REST Requests\" kısmının seçili olmadığından <a href=\"%s\">buradan </a> emin olun ve \"Bad Query Strings\" öğesinin işaretini kaldırdığınızdan <a href=\"%s\"> buradan </a> emin olun, yorumların yüklenmesine sorun oluşturabilir."
+
+#: includes/Debug/DebugReportGenerator.php:58
+msgid "Active Plugins"
+msgstr "Aktif Eklentiler"
+
+#: includes/Admin/AnyCommentGenericSettings.php:932
+msgid "Confirmation link as button"
+msgstr "Buton olarak onay bağlantısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:931
+msgid "Confirmation link as text"
+msgstr "Metin olarak onay bağlantısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:922
+msgid "Email template for confirming subscription."
+msgstr "Aboneliği onaylamak için e-posta şablonu."
+
+#: includes/Admin/AnyCommentGenericSettings.php:921
+msgid "Subscription Confirmation Email Template"
+msgstr "Abonelik Onay E-posta Şablonu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:894
+msgid "Unsubscribe URL as text"
+msgstr "Metin olarak abonelikten ayrıl URL'si"
+
+#: templates/admin/tables/emails.php:12
+#: includes/Admin/AnyCommentEmailQueuePage.php:34
+#: includes/Admin/AnyCommentEmailQueuePage.php:35
+msgid "Emails"
+msgstr "E-postalar"
+
+#: templates/admin/tab-shortcodes.php:16
+msgid "Use this shortcode do display list of available social networks."
+msgstr "Kullanılabilir sosyal ağların bu kısa kod görüntüleme listesini kullanın."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:130
+#: includes/Rest/AnyCommentRestSubscriptions.php:137
+msgid "Error, failed to subscribe. Please try again later."
+msgstr "Hata, abonelik başarısız oldu. Lütfen daha sonra tekrar deneyiniz."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:91
+msgid "This email is already subscribed for this post."
+msgstr "Bu e-posta adresi bu gönderi için zaten kayıtlı."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:65
+msgid "Sorry, email is required."
+msgstr "Üzgünüm, e-posta gereklidir."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:47
+msgid "Post ID to subscribe to"
+msgstr "Şuraya abone olmak için yazı ID'si"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:43
+msgid "User email to subscribe"
+msgstr "Abone olmak için kullanıcı e-postası"
+
+#: includes/Integrations/AnyCommentWooCommerce.php:47
+msgid "Reviews (%d)"
+msgstr "Yorumlar (%d)"
+
+#: includes/Hooks/AnyCommentNativeLoginForm.php:59
+msgid "or use any social:"
+msgstr "veya herhangi bir sosyal kullanın:"
+
+#: includes/Admin/AnyCommentGenericSettings.php:886
+msgid "Email template for subscriptions."
+msgstr "Abonelikler için e-posta şablonu."
+
+#: includes/Admin/AnyCommentGenericSettings.php:885
+msgid "Subscription Email Template"
+msgstr "Abonelik E-posta Şablonu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:879
+msgid "Show subscription form and notify active post subscribers. Make sure you have proper SMTP configurations in order to send emails."
+msgstr "Abonelik formunu göster ve etkin posta abonelerine bildir. E-posta göndermek için doğru SMTP konfigürasyonlarına sahip olduğunuzdan emin olun."
+
+#: includes/Admin/AnyCommentGenericSettings.php:878
+msgid "Notify Post Subscribers"
+msgstr "Yazıları Abonelere Bildir"
+
+#: includes/Admin/AnyCommentGenericSettings.php:870
+msgid "Notify on new replies"
+msgstr "Yeni yanıtları bildir"
+
+#: includes/Admin/AnyCommentGenericSettings.php:844
+msgid "Send name shown to email recipient. This could be your blog name."
+msgstr "E-posta alıcısına gönderici adını girin. Bu sizin blog adınız olabilir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:843
+msgid "Sender Name"
+msgstr "Gönderen Adı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:477
+msgid "Show admin bar for regular WordPress users and those who logged in via social."
+msgstr "Düzenli WordPress kullanıcıları ve sosyal olarak giriş yapan kullanıcılar için yönetici çubuğunu göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:476
+msgid "Show Admin Bar"
+msgstr "Yönetici Çubuğunu Göster"
+
+#: includes/Admin/AnyCommentGenericSettings.php:470
+msgid "Show list of available socials under WordPress's native login form."
+msgstr "WordPress'in yerel giriş formu altındaki mevcut sosyal listelerin listesini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:469
+msgid "Show Login Page Socials"
+msgstr "Giriş Sayfasını Sosyallerini Göster"
+
+#: includes/AnyCommentRender.php:269
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#: includes/AnyCommentRender.php:267
+msgid "You were subscribed successfully"
+msgstr "Başarıyla abone oldunuz"
+
+#: includes/AnyCommentRender.php:249
+msgid "Edited"
+msgstr "Düzeltilmiş"
+
+#: includes/AnyCommentRender.php:248
+msgid "Waiting moderation"
+msgstr "Moderasyon için bekliyor"
+
+#: includes/Models/AnyCommentEmailQueue.php:269
+#: includes/Models/AnyCommentEmailQueue.php:271
+msgid "New Comment in %s"
+msgstr "%s için Yeni Yorum"
+
+#: includes/Rest/AnyCommentRestComment.php:601
+msgid "Please login to leave a comment"
+msgstr "Yorum yapmak için lütfen giriş yapınız"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:182
+msgid "It looks like you have hooks related to REST API in %s which may cause failure to load comments. If you are not sure how to fix it, contact plugin developer in on the contacts available in 'Help' tab."
+msgstr "%s içinde REST API ile ilgili bağlantıların olduğu, yorumların yüklenememesine neden olabileceği görülüyor. Nasıl düzeltileceğinden emin değilseniz, 'Yardım' sekmesinde bulunan kişilerde eklenti geliştiricisine başvurun."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:174
+msgid "You are using %s. If you're experiencing some problem with AnyComment, try to set option 'Show in REST API' as 'true' in 'Add/Edit Taxonomies' or deactivate it and check whether problem was resolved"
+msgstr "%s kullanıyorsunuz. AnyComment ile ilgili bir sorun yaşarsanız, 'Taksonomi Ekle/Düzenle'de' 'REST API'de göster 'seçeneğini 'true' olarak ayarlamayı deneyin veya devre dışı bırakın ve sorunun çözülüp çözülmediğini kontrol edin."
+
+#: includes/Admin/AnyCommentGenericSettings.php:561
+msgid "Socials only"
+msgstr "Sadece sosyaller"
+
+#: includes/Admin/AnyCommentGenericSettings.php:560
+msgid "WordPress only"
+msgstr "Sadece WordPress"
+
+#: includes/Admin/AnyCommentGenericSettings.php:559
+msgid "Anyone"
+msgstr "Herhangi biri"
+
+#: includes/Admin/AnyCommentGenericSettings.php:451
+msgid "Number of minutes user can update his comment. \"0\" or empty for no limit."
+msgstr "Kullanıcının yorumunu güncellemesi için dakika sayısı. Sınırsız \"0\" veya boş."
+
+#: includes/Admin/AnyCommentGenericSettings.php:450
+msgid "Comment Update Time"
+msgstr "Yorum Güncelleme Zamanı"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:274
+msgid "reCAPTCHA site secret. Can be found <a href=\"%s\">here</a> (register your website if does not exist). Please note that you should choose \"Invisible\" type in order for it to work."
+msgstr "reCAPTCHA site gizliliği. <a href=\"%s\">Burada </a>bulunabilir (mevcut değilse web sitenizi kaydettirin). Çalışması için \"Görünmez\" türünü seçmeniz gerektiğini lütfen unutmayın."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:268
+msgid "reCAPTCHA site key. Can be found <a href=\"%s\">here</a> (register your website if does not exist). Please note that you should choose \"Invisible\" type in order for it to work."
+msgstr "reCAPTCHA site anahtarı. <a href=\"%s\">Burada </a>bulunabilir (mevcut değilse web sitenizi kaydettirin). Çalışması için \"Görünmez\" türünü seçmeniz gerektiğini lütfen unutmayın."
+
+#: includes/Admin/AnyCommentGenericSettings.php:713
+msgid "Global padding for all comments. You may use \"px\", \"em\" or \"%\"."
+msgstr "Tüm yorumlar için global doldurma. \"px\", \"em\" veya \"%\" kullanabilirsiniz."
+
+#: includes/Admin/AnyCommentGenericSettings.php:712
+msgid "Global padding"
+msgstr "Global dolgu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:706
+msgid "Global margin for all comments. You may use \"px\", \"em\" or \"%\"."
+msgstr "Tüm yorumlar için global kenar. \"px\", \"em\" veya \"%\" kullanabilirsiniz."
+
+#: includes/Admin/AnyCommentGenericSettings.php:705
+msgid "Global margin"
+msgstr "Global kenar"
+
+#: includes/Admin/AnyCommentGenericSettings.php:699
+msgid "Global background border radius. Could be useful when you have background different then website primary color."
+msgstr "Küresel arkaplan sınır yarıçapı. Web sitesi birincil renginden farklı bir arka planınız olduğunda yararlı olabilir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:698
+msgid "Global background border radius"
+msgstr "Küresel arkaplan sınır yarıçapı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:693
+msgid "Global background color used for all comments."
+msgstr "Tüm yorumlar için kullanılan genel arka plan rengi."
+
+#: includes/Admin/AnyCommentGenericSettings.php:692
+msgid "Global background color"
+msgstr "Global arka plan rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:565
+msgid "Users who able to leave comments."
+msgstr "Yorum bırakabilecek kullanıcılar."
+
+#: includes/Admin/AnyCommentGenericSettings.php:550
+msgid "Elements"
+msgstr "Elemanlar"
+
+#: includes/AnyCommentRender.php:278
+#: includes/Rest/AnyCommentRestComment.php:688
+msgid "Comment will be shown once reviewed by moderator."
+msgstr "Yorum, moderatör tarafından incelendikten sonra gösterilecektir."
+
+#: includes/AnyCommentRender.php:301
+msgid "Login with"
+msgstr "Şununla giriş"
+
+#: includes/AnyCommentRender.php:276
+msgid "Login"
+msgstr "Giriş"
+
+#: includes/AnyCommentRender.php:275
+msgid "Guest"
+msgstr "Ziyaretçi"
+
+#: includes/AnyCommentRender.php:258
+msgid "editing"
+msgstr "düzenleme"
+
+#: includes/AnyCommentRender.php:285 includes/Rest/AnyCommentRestRate.php:101
+msgid "You have already rated"
+msgstr "Zaten derecelendirdin"
+
+#: includes/Admin/AnyCommentGenericSettings.php:510
+msgid "Display Rating"
+msgstr "Derecelendirmeyi Görüntüle"
+
+#: includes/Admin/AnyCommentGenericSettings.php:511
+msgid "Display 5 star rating above comments."
+msgstr "Yorumda 5 yıldız derecelendirmesini altta görüntüleyin."
+
+#: includes/Admin/AnyCommentGenericSettings.php:517
+msgid "Shorten Long Comments"
+msgstr "Uzun Yorumları Kısaltma"
+
+#: includes/Admin/AnyCommentGenericSettings.php:518
+msgid "Shorten long comments with \"Read more\" message."
+msgstr "\"Devamını oku\" mesajı ile uzun yorumları kısaltın."
+
+#: includes/Rest/AnyCommentRestRate.php:46
+msgid "Rating from 1-5."
+msgstr "Puan 1-5."
+
+#: includes/Rest/AnyCommentRestRate.php:64
+#: includes/Rest/AnyCommentRestSubscriptions.php:69
+msgid "Sorry, post is required."
+msgstr "Üzgünüm, yazı gereklidir."
+
+#: includes/Rest/AnyCommentRestRate.php:70
+msgid "Sorry, rating is required."
+msgstr "Üzgünüz, puanlama gereklidir."
+
+#: includes/Rest/AnyCommentRestRate.php:132
+msgid "Sorry, something went wrong. Please try to rate again."
+msgstr "Üzgünüm, bir şeyler ters gitti. Lütfen tekrar puanlamayı deneyin."
+
+#: includes/Rest/AnyCommentRestRate.php:74
+msgid "Sorry, rating should be between 1 and 5."
+msgstr "Üzgünüz, derecelendirme 1 ile 5 arasında olmalıdır."
+
+#: templates/admin/tab-tools.php:8 templates/admin/tabs.php:31
+msgid "Tools"
+msgstr "Araçlar"
+
+#: templates/admin/tab-tools.php:61
+msgid "Debug Information"
+msgstr "Hata ayıklama bilgisi"
+
+#: includes/Debug/DebugReportGenerator.php:47
+msgid "WordPress Version"
+msgstr "WordPress Versiyonu"
+
+#: includes/Debug/DebugReportGenerator.php:48
+msgid "PHP Version"
+msgstr "PHP Sürümü"
+
+#: includes/Debug/DebugReportGenerator.php:49
+msgid "Locale"
+msgstr "Yerel"
+
+#: templates/admin/tab-tools.php:9
+msgid "This page will have helpers and debug information related to the plugin. For example, version of plugin, WordPress or PHP. Also you may drop comments or global plugins cache, open comments for all posts, pages or WooCommerce products (when plugin activated)."
+msgstr "Bu sayfa eklentiyle ilgili yardımcılara ve hata ayıklama bilgilerine sahip olacaktır. Örneğin, eklenti, WordPress veya PHP sürümü. Ayrıca yorumları veya global eklentileri önbelleğe alabilir, tüm gönderiler, sayfalar veya WooCommerce ürünleri için yorumlar açabilirsiniz (eklenti etkinleştirildiğinde)."
+
+#: includes/Debug/DebugReportGenerator.php:46
+msgid "AnyComment Version"
+msgstr "AnyComment versiyonu"
+
+#: includes/Debug/DebugReportGenerator.php:59
+msgid "Generated at"
+msgstr "Oluşturuldu"
+
+#: templates/admin/tab-tools.php:13
+msgid "Cache Manager"
+msgstr "Önbellek Yöneticisi"
+
+#: templates/admin/tab-tools.php:15
+msgid "Flush All"
+msgstr "Tümünü Temizle"
+
+#: templates/admin/tab-tools.php:17
+msgid "Flush Comments"
+msgstr "Yorumları Temizle"
+
+#: templates/admin/tab-tools.php:20
+msgid "Other Helpers"
+msgstr "Diğer Yardımcılar"
+
+#: templates/admin/tab-tools.php:22
+msgid "Open All Comments"
+msgstr "Tüm Yorumları Aç"
+
+#: templates/admin/tab-tools.php:24
+msgid "Open Posts Comments"
+msgstr "Yazı Yorumlarını Aç"
+
+#: templates/admin/tab-tools.php:26
+msgid "Open Pages Comments"
+msgstr "Sayfa Yorumlarını Aç"
+
+#: templates/admin/tab-tools.php:28
+msgid "Open WooCommerce Product Comments"
+msgstr "WooCommerce Ürün Yorumları Aç"
+
+#: includes/AnyCommentRender.php:308
+msgid "Close (Esc)"
+msgstr "Kapat (Esc)"
+
+#: includes/AnyCommentRender.php:309
+msgid "Previous (Left arrow key)"
+msgstr "Önceki (Sol ok tuşu)"
+
+#: includes/AnyCommentRender.php:310
+msgid "Next (Right arrow key)"
+msgstr "Sonraki (Sağ ok tuşu)"
+
+#: includes/AnyCommentUser.php:50
+msgctxt "REST API Comments Count"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s yorum"
+msgstr[1] "%s yorum"
+
+#: includes/Admin/AnyCommentGenericSettings.php:593
+msgid "Bold"
+msgstr "Kalın"
+
+#: includes/Admin/AnyCommentGenericSettings.php:600
+msgid "Italic"
+msgstr "İtalik"
+
+#: includes/Admin/AnyCommentGenericSettings.php:607
+msgid "Underline"
+msgstr "Altını çizili"
+
+#: includes/Admin/AnyCommentGenericSettings.php:614
+msgid "Quote"
+msgstr "Alıntı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:621
+msgid "Ordered list"
+msgstr "Düzenlenmiş liste"
+
+#: includes/Admin/AnyCommentGenericSettings.php:628
+msgid "Unordered list"
+msgstr "Sıralanmamış Liste"
+
+#: includes/Admin/AnyCommentGenericSettings.php:635
+msgid "Link"
+msgstr "Bağlantı"
+
+#: templates/admin/tab-help.php:13
+msgid "GitHub Repository"
+msgstr "GitHub Deposu"
+
+#: templates/admin/tab-help.php:18
+msgid "Resources"
+msgstr "Kaynaklar"
+
+#: templates/admin/help-sidebar.php:3
+msgid "Support us"
+msgstr "Bizi Destekleyin"
+
+#: templates/admin/tabs.php:27
+msgid "Help"
+msgstr "Yardım"
+
+#: includes/AnyCommentRender.php:311
+msgid " of "
+msgstr " arasında "
+
+#: includes/Admin/AnyCommentGenericSettings.php:586
+msgid "Enable Toolbar"
+msgstr "Araç çubuğunu Etkinleştir"
+
+#: includes/Admin/AnyCommentGenericSettings.php:587
+msgid "Enable editor toolbar (show options to modify comment text - bold, italics, etc)."
+msgstr "Düzenleyici araç çubuğunu etkinleştir (yorum metnini değiştirmek için seçenekleri göster-kalın, italik, vb.)."
+
+#: includes/Admin/AnyCommentGenericSettings.php:594
+msgid "Show bold option in editor toolbar."
+msgstr "Düzenleyici araç çubuğunda kalın seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:601
+msgid "Show italic option in editor toolbar."
+msgstr "Düzenleyici araç çubuğunda italik seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:608
+msgid "Show underline option in editor toolbar."
+msgstr "Alt çizgi seçeneği Düzenleyici araç çubuğunda göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:615
+msgid "Show quote option in editor toolbar."
+msgstr "Editör araç çubuğunda alıntı seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:622
+msgid "Show ordered list option in editor toolbar."
+msgstr "Düzenleme araç çubuğunda sıralı liste seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:629
+msgid "Show unordered list option in editor toolbar."
+msgstr "Düzenleyici araç çubuğunda sıralı olmayan liste seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:636
+msgid "Show link option in editor toolbar."
+msgstr "Düzenleyici araç çubuğunda bağlantı seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:642
+msgid "Clean formatting"
+msgstr "Biçimlendirmeyi temizle"
+
+#: includes/Admin/AnyCommentGenericSettings.php:643
+msgid "Show clean formatting option in editor toolbar."
+msgstr "Düzenleyici araç çubuğunda biçimlendirmeyi temizle seçeneğini göster."
+
+#: includes/Admin/AnyCommentGenericSettings.php:965
+msgid "Allow File Uploads"
+msgstr "Dosya Yüklemelerine İzin ver"
+
+#: includes/Admin/AnyCommentGenericSettings.php:966
+msgid "Allow to upload files."
+msgstr "Dosyaları karşıya yüklemek için izin verin."
+
+#: templates/admin/tab-help.php:2
+msgid "Need Help"
+msgstr "Yardıma mı ihtiyacınız var"
+
+#: templates/admin/tab-help.php:4
+msgid "Easiest way to get help is to use one of the links below"
+msgstr "Yardım almanın en kolay yolu aşağıdaki bağlantılardan birini kullanmaktır"
+
+#: templates/admin/tab-help.php:15
+msgid "Vkontakte Group"
+msgstr "VKontakte grubu"
+
+#: templates/admin/tab-help.php:7
+msgid "Telegram Channel"
+msgstr "Telegram Kanalı"
+
+#: templates/admin/tab-help.php:24
+msgid "Set-up Socials"
+msgstr "Sosyal bağlantıları Ayarla"
+
+#: templates/admin/tab-help.php:27
+msgid "All Guides"
+msgstr "Tüm Kılavuzlar"
+
+#: templates/admin/dashboard.php:43
+#: includes/Admin/AnyCommentSocialSettings.php:172
+#: includes/Rest/AnyCommentSocialAuth.php:272
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: templates/admin/dashboard.php:51
+#: includes/Admin/AnyCommentSocialSettings.php:309
+#: includes/Rest/AnyCommentSocialAuth.php:276
+msgid "GitHub"
+msgstr "GitHub"
+
+#: includes/Rest/AnyCommentSocialAuth.php:726
+msgid "Please use %s to login as this %s seems to be already taken."
+msgstr "Lütfen giriş yapmak için %s kullanın %s hali hazırda alınmış durumda."
+
+#: includes/Rest/AnyCommentSocialAuth.php:728
+msgid "email"
+msgstr "eposta"
+
+#: includes/Rest/AnyCommentSocialAuth.php:728
+msgid "login"
+msgstr "giriş"
+
+#: includes/AnyCommentRender.php:253
+#: includes/Admin/AnyCommentGenericSettings.php:382
+#: includes/Admin/AnyCommentGenericSettings.php:1033
+msgid "Sorting"
+msgstr "Sıralama"
+
+#: includes/Admin/AnyCommentGenericSettings.php:820
+msgid "Links on Hold"
+msgstr "Bağlantılar Beklemede"
+
+#: includes/Admin/AnyCommentGenericSettings.php:821
+msgid "Comment with links should be marked for moderation."
+msgstr "Linkler ile yorum kontrol edilmesi için işaretlenmelidir."
+
+#: includes/Admin/AnyCommentSocialSettings.php:625
+msgid "Enable Native"
+msgstr "Yereli Etkinleştir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:626
+msgid "Allow WordPress native authorization"
+msgstr "WordPress yerel yetkilendirmeye izin verin"
+
+#: includes/Rest/AnyCommentRestDocuments.php:59
+msgid "File ID"
+msgstr "Dosya ID"
+
+#: includes/Rest/AnyCommentRestDocuments.php:92
+msgid "Sorry, guests unable to delete files."
+msgstr "Üzgünüz, konuklar dosyaları silemez."
+
+#: includes/Rest/AnyCommentRestDocuments.php:99
+msgid "File does not exist."
+msgstr "Dosya yok."
+
+#: includes/Rest/AnyCommentRestDocuments.php:104
+msgid "Sorry, such file is unavailable"
+msgstr "Üzgünüz, bu dosya kullanılamıyor"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:308
+msgid "Inline"
+msgstr "Çizgide"
+
+#: includes/Admin/AnyCommentGenericSettings.php:406
+msgid "Default Avatar"
+msgstr "Şuanki Görünen Resmin"
+
+#: includes/Admin/AnyCommentSocialSettings.php:620
+#: includes/Rest/AnyCommentSocialAuth.php:285
+#: includes/AnyCommentSocials.php:129
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/Rest/AnyCommentSocialAuth.php:720
+msgid "Please use normal login form, as this email is associated with a WordPress user."
+msgstr "Bu e-posta bir WordPress kullanıcı ile ilişkili olduğu gibi, normal giriş formunu kullanın lütfen."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:282
+msgid "For all"
+msgstr "Tümü için"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:283
+msgid "For guests only"
+msgstr "Sadece misafirler için"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:284
+msgid "For logged in only"
+msgstr "Yalnızca oturum açmış olanlar için"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:306
+msgid "Bottom right"
+msgstr "Alt Sağ"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:307
+msgid "Bottom left"
+msgstr "Alt Sol"
+
+#: includes/Admin/AnyCommentGenericSettings.php:409
+msgid "No avatar (from AnyComment)"
+msgstr "Avatar yok (AnyComment dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:410
+msgid "No avatar (from Gravatar)"
+msgstr "Avatar yok (Gravatar dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:411
+msgid "Identicon (from Gravatar)"
+msgstr "Identicon (Gravatar 'dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:412
+msgid "Monsteroid (from Gravatar)"
+msgstr "Monsteroid (Gravatar dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:413
+msgid "Wavatar (from Gravatar)"
+msgstr "Wavatar (Gravatar dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:414
+msgid "Retro (from Gravatar)"
+msgstr "Retro (Gravatar dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:415
+msgid "Robohash (from Gravatar)"
+msgstr "Robohash (Gravatar 'dan)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:418
+msgid "Default avatar when user does not have any."
+msgstr "Kullanıcı herhangi bir avatarı olmadığında varsayılan avatar."
+
+#: includes/Admin/AnyCommentGenericSettings.php:751
+msgid "Avatar Border Radius"
+msgstr "Avatar Kenar Çapı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:752
+msgid "Avatar border radius. You may use \"px\" or \"%\". \"50%\" will make avatars rounded."
+msgstr "Avatar kenar çapı. \"px\" veya \"%\" kullanabilirsiniz. \"% 50\" avatarı yuvarlak yapacaktır."
+
+#: includes/Rest/AnyCommentRestComment.php:570
+msgid "Captcha is incorrect. Please try again."
+msgstr "Captcha yanlış. Lütfen tekrar deneyin."
+
+#: includes/Admin/AnyCommentGenericSettings.php:385
+msgid "Newest first"
+msgstr "Yeniden Eskiye"
+
+#: includes/Admin/AnyCommentGenericSettings.php:386
+msgid "Oldest first"
+msgstr "Eskiden Yeniye"
+
+#: templates/admin/tabs.php:23
+msgid "Shortcodes"
+msgstr "Kısa Kodlar"
+
+#: includes/Admin/AnyCommentGenericSettings.php:389
+msgid "Default sorting."
+msgstr "Varsayılan sıralama."
+
+#: includes/Admin/AnyCommentGenericSettings.php:570
+msgid "Guest Fields"
+msgstr "Misafir Alanları"
+
+#: includes/Admin/AnyCommentGenericSettings.php:571
+msgid "Use this rearrange guest form fields or remove something. {name} is required and if you do not add it, it will be added by plugin. {name} is name field, {email} is email field, {website} is website field."
+msgstr "Bu yeniden düzenlenmiş konuk formu alanlarını kullanın veya bir şeyi kaldırın. {name} zorunludur ve eklemezseniz eklenti tarafından eklenir. {name} alan adı, {email} e-posta alanı, {website} web sitesi alanı."
+
+#: includes/Admin/AnyCommentGenericSettings.php:889
+#: includes/Admin/AnyCommentGenericSettings.php:925
+msgid "Blog name as text"
+msgstr "Blog adı metin olarak"
+
+#: includes/Admin/AnyCommentGenericSettings.php:890
+#: includes/Admin/AnyCommentGenericSettings.php:926
+msgid "Blog link as text"
+msgstr "Metin olarak blog bağlantısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:891
+#: includes/Admin/AnyCommentGenericSettings.php:927
+msgid "Blog name in HTML link"
+msgstr "HTML bağlantısı  olarak blog adı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:892
+#: includes/Admin/AnyCommentGenericSettings.php:928
+msgid "Post title as text"
+msgstr "Metin olarak yazı başlığı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:893
+#: includes/Admin/AnyCommentGenericSettings.php:929
+msgid "Post URL as text"
+msgstr "Metin olarak yazı URL'si"
+
+#: includes/Admin/AnyCommentGenericSettings.php:895
+#: includes/Admin/AnyCommentGenericSettings.php:930
+msgid "Post title in HTML link"
+msgstr "HTML bağlantısında yazı başlığı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:896
+msgid "Comment text"
+msgstr "Yorum metni"
+
+#: includes/Admin/AnyCommentGenericSettings.php:897
+msgid "Comment text nicely formatted"
+msgstr "Yorum metin güzel biçimlendirilmiş"
+
+#: includes/Admin/AnyCommentGenericSettings.php:898
+msgid "Reply link as text"
+msgstr "Metin olarak yanıtla bağlantısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:899
+msgid "Reply link as button"
+msgstr "Buton olarak yanıtla bağlantısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:904
+#: includes/Admin/AnyCommentGenericSettings.php:937
+msgid "More info"
+msgstr "Daha fazla bilgi"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:70
+#: includes/Admin/AnyCommentProblemNotifier.php:78
+#: includes/Admin/AnyCommentProblemNotifier.php:86
+msgid "You are using %s for comments. This is same type of plugin as AnyComment, please deactivate it as it may cause problems."
+msgstr "Yorumlar için %s kullanıyorsunuz. Bu, AnyComment ile aynı türde bir eklentidir, lütfen sorunlara neden olabileceğinden bunu devre dışı bırakın."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:94
+msgid "You are using %s. This plugin is used to disable comments, please deactivate it as it may cause problems."
+msgstr "%s kullanıyorsunuz. Bu eklenti yorumları devre dışı bırakmak için kullanılır, lütfen sorunlara neden olabileceği için devre dışı bırakın."
+
+#: templates/admin/tab-shortcodes.php:8
+msgid "Use this shortcode do display comment box in custom place (e.g. landing page)."
+msgstr "Bu kısa kodu, yorum kutusunu, özel bir yerde (örn. Açılış sayfası) yapın."
+
+#: includes/AnyCommentRender.php:292
+msgid "Uploading..."
+msgstr "Yükleniyor..."
+
+#: includes/Admin/AnyCommentGenericSettings.php:666
+msgid "Text Size"
+msgstr "Metin Boyutu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:679
+msgid "Text Color"
+msgstr "Yazı Rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:685
+msgid "Link Color"
+msgstr "Link Rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:730
+msgid "Form Fields Background"
+msgstr "Form Alanları Arka Planı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:777
+msgid "Button Color"
+msgstr "Buton Rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1007
+msgid "File Size"
+msgstr "Dosya Boyutu"
+
+#: includes/Rest/AnyCommentRestRate.php:50
+#: includes/Rest/AnyCommentRestDocuments.php:43
+msgid "Post ID"
+msgstr "Yazı ID"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:193
+#: includes/Admin/Tables/AnyCommentRatingTable.php:187
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:216
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:185
+msgid "Post"
+msgstr "Yazı"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:194
+#: includes/Admin/Tables/AnyCommentRatingTable.php:188
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:186
+msgid "User"
+msgstr "Kullanıcı"
+
+#: includes/Admin/Tables/AnyCommentRatingTable.php:190
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:220
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:187
+msgid "IP"
+msgstr "IP"
+
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:188
+msgid "URL"
+msgstr "URL"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:197
+#: includes/Admin/Tables/AnyCommentRatingTable.php:191
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:222
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:189
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/AnyCommentRender.php:291
+msgid "Upload file"
+msgstr "Dosya yükle"
+
+#: includes/AnyCommentRender.php:293
+msgid "Uploaded!"
+msgstr "Yüklendi!"
+
+#: includes/AnyCommentRender.php:294
+msgid "File %s is too big"
+msgstr "%s dosyası çok büyük"
+
+#: includes/AnyCommentRender.php:295
+msgid "You may upload %s file(s) at maximum"
+msgstr "En fazla %s dosya yükleyebilirsiniz"
+
+#: includes/AnyCommentRender.php:297
+msgid "No file selected or select proper extension"
+msgstr "Seçili veya uygun uzantılı dosya seçilmedi"
+
+#: includes/AnyCommentRender.php:298
+msgid "Read more"
+msgstr "Devamını oku"
+
+#: includes/AnyCommentRender.php:299
+msgid "Show less"
+msgstr "Daha az göster"
+
+#: templates/admin/tables/files.php:12
+#: includes/Admin/AnyCommentGenericSettings.php:959
+#: includes/Admin/AnyCommentFilesPage.php:34
+#: includes/Admin/AnyCommentFilesPage.php:35
+msgid "Files"
+msgstr "Dosyalar"
+
+#: includes/Admin/AnyCommentGenericSettings.php:490
+msgid "Display Twitter Embeds"
+msgstr "Twitter Embeds Göster"
+
+#: includes/Admin/AnyCommentGenericSettings.php:491
+msgid "Detect & display tweets from Twitter as embedded widget."
+msgstr "Twitter'daki tweets'i gömülü widget olarak algıla ve görüntüle."
+
+#: includes/Admin/AnyCommentGenericSettings.php:659
+msgid "Custom Design"
+msgstr "Özel Tasarım"
+
+#: includes/Admin/AnyCommentGenericSettings.php:660
+msgid "Use custom design. Enable this option to display design changes from below."
+msgstr "Özel tasarım kullanın. Aşağıdaki tasarım değişikliklerini görüntülemek için bu seçeneği etkinleştirin."
+
+#: includes/Admin/AnyCommentGenericSettings.php:718
+msgid "Border radius"
+msgstr "Kenarlık çapı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:667
+msgid "Overal text size. You may use \"px\", \"pt\", \"em\" or \"%\"."
+msgstr "Tüm metin boyutu. \"px\", \"pt\", \"em\" veya \"%\" kullanabilirsiniz."
+
+#: includes/Admin/AnyCommentGenericSettings.php:672
+msgid "Font Choice"
+msgstr "Yazı tipi seçimi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:673
+msgid "Global font family."
+msgstr "Global font ailesi."
+
+#: includes/Admin/AnyCommentGenericSettings.php:680
+msgid "Global text color."
+msgstr "Genel metin rengi."
+
+#: includes/Admin/AnyCommentGenericSettings.php:686
+msgid "Links color."
+msgstr "Bağlantılar renk."
+
+#: includes/Admin/AnyCommentGenericSettings.php:724
+msgid "Semi Hidden Color"
+msgstr "Yarı Gizli Renk"
+
+#: includes/Admin/AnyCommentGenericSettings.php:725
+msgid "Semi hidden color. This is used for dates, action links, etc."
+msgstr "Yarı gizli renk. Bu tarihler, eylem bağlantıları, vb için kullanılır."
+
+#: includes/Admin/AnyCommentGenericSettings.php:731
+msgid "Form fields background color."
+msgstr "Form alanları arka plan rengi."
+
+#: includes/Admin/AnyCommentGenericSettings.php:737
+msgid "Attachment Text Color"
+msgstr "Ek Metin Rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:738
+msgid "Attachments text color. For example, YouTube attachments do not have previews, instead they have \"YouTube\" text over."
+msgstr "Ekler metin rengi. Örneğin, YouTube ekleri önizleme yok, bunun yerine \"YouTube\" metin üzerinde var."
+
+#: includes/Admin/AnyCommentGenericSettings.php:744
+msgid "Attachment Background Color"
+msgstr "Ek Arka plan Rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:745
+msgid "Attachment background color. For example, user may attach PNG image with transparent background. This color will be used as background behind the image."
+msgstr "Ek arka plan rengi. Örneğin, Kullanıcı saydam arka planda PNG görüntüsünü ekleyebilir. Bu renk görüntünün arkasında arka plan olarak kullanılacaktır."
+
+#: includes/Admin/AnyCommentGenericSettings.php:757
+msgid "Avatar Parent Size"
+msgstr "Avatar Ebeveyn Boyutu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:758
+msgid "Parent comment avatar size."
+msgstr "Üst yorum avatar boyutu."
+
+#: includes/Admin/AnyCommentGenericSettings.php:764
+msgid "Avatar Child Size"
+msgstr "Avatar Altyorum Boyutu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:765
+msgid "Child comment avatar size. Usually, this is reply comment."
+msgstr "Altyorum avatar boyutu. Genellikle, bu cevap yorumudur."
+
+#: includes/Admin/AnyCommentGenericSettings.php:771
+msgid "Button Radius"
+msgstr "Buton Çapı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:772
+msgid "Button border radius."
+msgstr "Buton kenarlık çapı."
+
+#: includes/Admin/AnyCommentGenericSettings.php:778
+msgid "Button text color."
+msgstr "Buton yazı rengi."
+
+#: includes/Admin/AnyCommentGenericSettings.php:784
+msgid "Button Background Color"
+msgstr "Buton Arkaplan Rengi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:785
+msgid "Button background color."
+msgstr "Buton arka plan rengi."
+
+#: includes/Admin/AnyCommentGenericSettings.php:791
+msgid "Button Background Color Active"
+msgstr "Buton arka plan rengi etkin"
+
+#: includes/Admin/AnyCommentGenericSettings.php:792
+msgid "Button background color when hovered or focused."
+msgstr "Buton arka plan rengi üzerine gelindiğinde veya odaklanıldığında."
+
+#: includes/Admin/AnyCommentGenericSettings.php:971
+msgid "File Upload By Guests"
+msgstr "Ziyaretçiler tarafından Dosya Yükleme"
+
+#: includes/Admin/AnyCommentGenericSettings.php:972
+msgid "Guest users can upload documents. Please be careful about this setting as some users may potentially misuse this and periodically upload unwanted files."
+msgstr "Misafir kullanıcılar belgeleri yükleyebilir. Bazı kullanıcılar bunu kötüye kullanabileceğinden ve periyodik olarak istenmeyen dosyaları yükleyebileceğinden lütfen bu ayara dikkat edin."
+
+#: includes/Admin/AnyCommentGenericSettings.php:989
+msgid "File MIME Types"
+msgstr "Dosya MIME türleri"
+
+#: includes/Admin/AnyCommentGenericSettings.php:995
+msgid "File Upload Limit"
+msgstr "Dosya Yükleme Sınırı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:996
+msgid "Maximum number of files to upload per period defined in the field below."
+msgstr "Aşağıdaki alanda tanımlanan periyod başına karşıya yüklenecek en fazla dosya sayısı."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1001
+msgid "File Upload Limit Period"
+msgstr "Dosya Yükleme Sınırı Periyodu"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1002
+msgid "If user will cross the limit (defined above) within specified period (in seconds) in this field, he will be give a warning."
+msgstr "Kullanıcı sınırı (yukarıda tanımlanan) bu alanda belirtilen süre içinde (saniye olarak) geçecektir, bir uyarı verecektir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1008
+msgid "Maximum allowed file size in megabytes. For example, regular PNG image is about ~ 1.5-2MB, JPEG are even smaller."
+msgstr "İzin verilen maksimum dosya boyutu megabayttır. Örneğin, normal PNG görüntüsü ~ 1.5-2MB civarındadır, JPEG daha da küçüktür."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:36
+msgid "WordPress version you are using is lower then 3.7. AnyComment rely on REST API. WordPress introduced it in 3.7."
+msgstr "Kullandığınız WordPress sürümü 3.7'den daha düşük. AnyComment REST API'sine dayanır. WordPress onu 3,7'de tanıttı."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:102
+#: includes/Admin/AnyCommentProblemNotifier.php:110
+#: includes/Admin/AnyCommentProblemNotifier.php:118
+#: includes/Admin/AnyCommentProblemNotifier.php:126
+#: includes/Admin/AnyCommentProblemNotifier.php:142
+#: includes/Admin/AnyCommentProblemNotifier.php:150
+#: includes/Admin/AnyCommentProblemNotifier.php:158
+#: includes/Admin/AnyCommentProblemNotifier.php:166
+msgid "You are using %s for caching. If you're experiencing some problem with AnyComment, try to deactivate it and check whether problem was resolved"
+msgstr "Önbelleğe almak için %s kullanıyorsunuz. AnyComment ile ilgili bir sorun yaşıyorsanız, sorunu devre dışı bırakmayı deneyin ve sorunun çözülüp çözülmediğini kontrol edin"
+
+#: includes/Rest/AnyCommentRestDocuments.php:115
+msgid "Sorry, guest users cannot upload files"
+msgstr "Üzgünüz, ziyaretçiler dosya yükleyemez"
+
+#: includes/Rest/AnyCommentRestDocuments.php:137
+msgid "Sorry, you have reached upload limit. Wait a little bit before uploading again."
+msgstr "Üzgünüz, yükleme sınırına ulaştınız. Yeniden yükleme yapmadan önce biraz bekleyin."
+
+#: includes/Rest/AnyCommentRestDocuments.php:158
+msgid "Missing file data"
+msgstr "Eksik dosya verisi"
+
+#: templates/admin/dashboard.php:71
+msgid "Possible Problems"
+msgstr "Olası Sorunlar"
+
+#: templates/admin/tables/files.php:28
+msgid "Failed to delete selected files."
+msgstr "Seçili dosyalar silinemedi."
+
+#: templates/admin/notifications.php:6
+msgid "Please do not treat every notice below as a problem. They are generated based on the plugins you use, based on the WordPress version you run and environment you have. They should be treated as suggestions."
+msgstr "Lütfen aşağıdaki her bildirimi bir sorun olarak ele almayın. Kullandığınız WordPress sürümüne ve sahip olduğunuz ortama göre, kullandığınız eklentilere dayanarak oluşturulurlar. Öneri olarak değerlendirilmeli."
+
+#: templates/admin/notifications.php:17
+msgid "Good job! It looks like everything is okay."
+msgstr "Güzel iş! Her şey yolunda gibi görünüyor."
+
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:93
+msgid "No files uploaded yet."
+msgstr "Henüz yüklenen dosya yok."
+
+#: includes/Admin/AnyCommentGenericSettings.php:990
+msgid "Comma-separated list of allowed MIME types (e.g. .png, .jpg, etc). Alternatively, you may write \"image/*\" for all image types or \"audio/*\" for audios."
+msgstr "İzin verilen MIME türlerinin virgülle ayrılmış listesi (örn.. png,. jpg, vb.). Alternatif olarak, tüm görüntü türleri için \"image/*\" ya da ses için \"audio/*\" yazabilirsiniz."
+
+#: includes/Admin/AnyCommentGenericSettings.php:719
+msgid "Border radius. You may use \"px\", \"em\" or \"%\"."
+msgstr "Sınır yarıçapı. \"px\", \"em\" veya \"%\" kullanabilirsiniz."
+
+#: includes/Admin/AnyCommentGenericSettings.php:653
+msgid "Design"
+msgstr "Tasarım"
+
+#: includes/Admin/AnyCommentGenericSettings.php:802
+msgid "Moderation"
+msgstr "Moderatör"
+
+#: includes/Admin/AnyCommentGenericSettings.php:837
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: includes/Models/AnyCommentEmailQueue.php:195
+#: includes/Models/AnyCommentEmailQueue.php:197
+msgid "Re: Comment on %s"
+msgstr "Cvp: %s için yorum"
+
+#: includes/Models/AnyCommentEmailQueue.php:237
+#: includes/Models/AnyCommentEmailQueue.php:239
+msgid "New Comment on %s"
+msgstr "%s için yeni yorum"
+
+#: includes/Admin/AnyCommentGenericSettings.php:497
+msgid "Display Video Attachments"
+msgstr "Video Eklerini Görüntüle"
+
+#: includes/Admin/AnyCommentGenericSettings.php:498
+msgid "Display video link from comment as attachment."
+msgstr "Yorumdan ek olarak video bağlantısını görüntüleyin."
+
+#: includes/Admin/AnyCommentGenericSettings.php:504
+msgid "Display Image Attachments"
+msgstr "Eklenmiş Resimleri Görüntüle"
+
+#: includes/Admin/AnyCommentGenericSettings.php:505
+msgid "Display image link from comment as attachment."
+msgstr "Yoruma eklenmiş görüntü bağlantısını görüntüleyin."
+
+#: includes/AnyCommentRender.php:282
+msgid "Name"
+msgstr "Ad"
+
+#: includes/AnyCommentRender.php:283
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:218
+msgid "Email"
+msgstr "E-Posta"
+
+#: includes/Rest/AnyCommentRestComment.php:621
+msgid "Name is required."
+msgstr "İsim gerekli."
+
+#: includes/Rest/AnyCommentRestComment.php:625
+msgid "Email field is required."
+msgstr "E-posta alanı gerekli."
+
+#: templates/admin/dashboard.php:47 includes/AnyCommentRender.php:284
+msgid "Website"
+msgstr "Websitesi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:556
+msgid "Comment form"
+msgstr "Yorum formu"
+
+#: includes/Rest/AnyCommentRestComment.php:487
+msgid "Email was used as social authorization. Please login using this method."
+msgstr "E-posta sosyal izin olarak kullanıldı. Lütfen bu yöntemi kullanarak giriş yapın."
+
+#: includes/Rest/AnyCommentRestComment.php:489
+msgid "User with such email is registered. Please login to leave a comment."
+msgstr "Böyle bir e-postaya sahip kullanıcı kayıtlı. Yorum yapmak için lütfen giriş yapınız."
+
+#: includes/Rest/AnyCommentRestComment.php:590
+#: includes/Rest/AnyCommentRestComment.php:794
+msgid "Comment cannot be empty."
+msgstr "Yorum boş olamaz."
+
+#: includes/Rest/AnyCommentRestComment.php:607
+msgid "Please use any of the available social networks to leave a comment"
+msgstr "Yorum bırakmak için lütfen mevcut sosyal ağlardan herhangi birini kullanın"
+
+#: includes/Rest/AnyCommentRestComment.php:629
+msgid "Provide valid email address."
+msgstr "Geçerli e-posta adresi sağlayın."
+
+#: includes/Admin/AnyCommentGenericSettings.php:562
+msgid "Guests only"
+msgstr "Sadece misafirler"
+
+#: includes/Admin/AnyCommentSocialSettings.php:384
+#: includes/Rest/AnyCommentSocialAuth.php:278 includes/AnyCommentSocials.php:70
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/Admin/AnyCommentSocialSettings.php:421
+#: includes/Rest/AnyCommentSocialAuth.php:279 includes/AnyCommentSocials.php:77
+msgid "Twitch"
+msgstr "Twitch"
+
+#: includes/Admin/AnyCommentSocialSettings.php:551
+#: includes/Rest/AnyCommentSocialAuth.php:280 includes/AnyCommentSocials.php:84
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: includes/Admin/AnyCommentSocialSettings.php:585
+#: includes/Rest/AnyCommentSocialAuth.php:281
+#: includes/AnyCommentSocials.php:112
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: templates/admin/news-sidebar.php:25
+msgid "New"
+msgstr "Yeni"
+
+#: includes/Models/AnyCommentEmailQueue.php:501
+msgid "See"
+msgstr "Gör"
+
+#: includes/AnyCommentRender.php:280
+msgid "New comment was added"
+msgstr "Yeni yorum eklendi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:457
+msgid "Number of comments to load initially and per page."
+msgstr "Başlangıçta ve sayfa başına yüklemek için yorum sayısı."
+
+#: includes/Admin/AnyCommentGenericSettings.php:809
+msgid "Moderators should check comment before it appears."
+msgstr "Moderatörler, yorumu görünmeden önce kontrol etmelidir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:826
+msgid "Spam Words"
+msgstr "İstenmeyen Sözcükler"
+
+#: includes/Admin/AnyCommentGenericSettings.php:855
+msgid "New Comment Interval Checking"
+msgstr "Yeni yorum Aralığı Kontrolü"
+
+#: includes/Admin/AnyCommentGenericSettings.php:856
+msgid "Interval (in seconds) to check for new comments. Minimum 5 and maximum is 100 seconds."
+msgstr "Yeni açıklamaları denetlemek için aralık (saniye olarak). En az 5 ve en fazla 100 saniyedir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:863
+msgid "Notify Administrator"
+msgstr "Yöneticiyi Bilgilendirme"
+
+#: includes/Admin/AnyCommentGenericSettings.php:864
+msgid "Notify administrator via email about new comment."
+msgstr "Yeni yorum hakkında e-posta yoluyla yöneticiyi bilgilendir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:871
+msgid "Notify users by email (if specified) about new replies. Make sure you have proper SMTP configurations in order to send emails."
+msgstr "Kullanıcılara yeni yanıtlar hakkında e-postayla (belirtilmişse) haber verin. E-postalar göndermek için uygun SMTP yapılandırmaları olduğundan emin olun."
+
+#: includes/Admin/AnyCommentSocialSettings.php:393
+msgid "Allow Instagram authorization"
+msgstr "Instagram yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:399
+msgid "Enter client id. Can be found in <a href=\"%s\" target=\"_blank\">Manage Clients</a>"
+msgstr "İstemci kimliği girin. <a href=\"%s\" target=\"_blank\"> İstemcileri Yönetme </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:405
+msgid "Enter client secret. Can be found in <a href=\"%s\" target=\"_blank\">Manage Clients</a>"
+msgstr "İstemci gizliliğini girin. <a href=\"%s\" target=\"_blank\"> İstemcileri Yönetme </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:427
+msgid "Allow Twitch authorization"
+msgstr "Twitch yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:433
+msgid "Enter client id. It can be found in the <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "İstemci kimliği girin. <a href=\"%s\" target=\"_blank\">Uygulamalar </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:439
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "İstemci gizliliğini girin. <a href=\"%s\" target=\"_blank\"> Uygulamalar </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:557
+msgid "Allow Dribbble authorization"
+msgstr "Dribbble yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:563
+msgid "Enter client id. It can be found in the <a href=\"%s\" target=\"_blank\">your applications</a>"
+msgstr "İstemci kimliği girin. <a href=\"%s\" target=\"_blank\"> Uygulamalarınız </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:569
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">your applications</a>"
+msgstr "İstemci sırrını girin. Bu <a href=\"%s\" target=\"_blank\"> Uygulamalarınız </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:592
+msgid "Allow Yahoo authorization"
+msgstr "Yahoo yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:598
+msgid "Enter app id. It can be found in the <a href=\"%s\" target=\"_blank\">my apps</a>"
+msgstr "Uygulama kimliği girin. <a href=\"%s\" target=\"_blank\"> Uygulamalarım </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:604
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">my apps</a>"
+msgstr "İstemci gizliliğini girin. <a href=\"%s\" target=\"_blank\"> Uygulamalarım </a> bölümünde bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:665
+msgid "How To Set-Up %s"
+msgstr "%s Nasıl Ayarlanır"
+
+#: includes/Admin/AnyCommentSocialSettings.php:666
+msgid "Read"
+msgstr "Oku"
+
+#: includes/Rest/AnyCommentRestComment.php:66
+msgid "Unique post ID"
+msgstr "Benzersiz posta ID"
+
+#: templates/admin/news-sidebar.php:54
+msgid "All News"
+msgstr "Tüm Haberler"
+
+#: includes/Cron/AnyCommentEmailQueueCron.php:44
+#: includes/Cron/AnyCommentServiceSyncCron.php:47
+msgid "Every Minute"
+msgstr "Her dakika"
+
+#: includes/AnyCommentRender.php:264
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:166
+#: includes/Admin/Tables/AnyCommentRatingTable.php:161
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:189
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:160
+msgid "Delete"
+msgstr "Sil"
+
+#: includes/AnyCommentRender.php:287
+msgid "I accept the <a href=\"%s\"%s>User Agreement</a>"
+msgstr "<a href=\"%s\"%s> Kullanıcı Sözleşmesi </a>ni kabul ediyorum"
+
+#: includes/Admin/AnyCommentGenericSettings.php:484
+msgid "Show link to user in the social media or website when available (name of the user will be clickable)."
+msgstr "Sosyal medyada veya Web sitesindeki kullanıcıya bağlantıyı göster (kullanıcının adı tıklanabilir olacaktır)."
+
+#: includes/Admin/AnyCommentGenericSettings.php:531
+msgid "User Agreement Link"
+msgstr "Kullanıcı Sözleşmesi Bağlantısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:532
+msgid "Link to User Agreement, where described how your process users data once they authorize via social network and/or add new comment."
+msgstr "Kullanıcılarınızın, sosyal ağ üzerinden yetkilendirdikten sonra ve/veya yeni yorum eklediklerinde, işleminizin verilerini nasıl açıkladıklarını açıklayan Kullanıcı Sözleşmesi'ne bağlantı verin."
+
+#: includes/AnyCommentRender.php:246
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: includes/AnyCommentRender.php:273
+msgid "Cancel"
+msgstr "Çıkış"
+
+#: includes/AnyCommentRender.php:281
+#: includes/Admin/AnyCommentGenericSettings.php:429
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:295
+msgid "Light"
+msgstr "Açık"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:296
+msgid "Dark"
+msgstr "Koyu"
+
+#: includes/Admin/AnyCommentWPComments.php:37
+#: includes/Admin/AnyCommentWPComments.php:62
+msgid "Likes"
+msgstr "Beğeniler"
+
+#: includes/Admin/AnyCommentWPComments.php:63
+msgid "Social URL"
+msgstr "Sosyal URL"
+
+#: includes/AnyCommentRender.php:245
+msgid "Oops, something went wrong..."
+msgstr "Oops, bir şey yanlış gitti..."
+
+#: includes/AnyCommentRender.php:257
+msgid "reply to"
+msgstr "yanıtla"
+
+#: includes/AnyCommentRender.php:259
+msgid "Your comment..."
+msgstr "Yorumunuz..."
+
+#: includes/Admin/AnyCommentGenericSettings.php:483
+msgid "Show Profile URL"
+msgstr "Profil URL 'sini göster"
+
+#: includes/Admin/AnyCommentGenericSettings.php:808
+msgid "Moderate First"
+msgstr "Önce Moderatör"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:231
+msgid "WP User Avatar"
+msgstr "WP User Avatar"
+
+#: includes/Admin/AnyCommentGenericSettings.php:427
+msgid "Subscriber"
+msgstr "Abone"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:207
+msgid "Filter all new comments through <a href=\"%s\">Akismet Anti-Spam</a> plugin."
+msgstr "Tüm yeni yorumları <a href=\"%s\">Akismet Anti-Spam</a> eklentisi aracılığıyla filtrele."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:238
+msgid "Use <a href=\"%s\">WP User Avatar</a> for handling avatars in the plugin."
+msgstr "Bu eklentide avatar için<a href=\"%s\">WP User Avatar</a> eklentisini kullan."
+
+#: includes/Admin/AnyCommentGenericSettings.php:348
+#: includes/Admin/AnyCommentGenericSettings.php:426
+msgid "Social Network Subscriber"
+msgstr "Sosyal Ağ Abonesi"
+
+#: includes/Admin/AnyCommentGenericSettings.php:423
+msgid "Register User Group"
+msgstr "Kullanıcı Grubunu Kaydet"
+
+#: includes/Admin/AnyCommentGenericSettings.php:433
+msgid "When users will authorize via plugin, they are being registered and be assigned with group selected above."
+msgstr "Kullanıcılara eklenti yoluyla yetki verilirse, onlar kaydedilip ve yukarıda seçilen gruba atanacaktır."
+
+#: includes/Admin/AnyCommentGenericSettings.php:462
+msgid "Load on Scroll"
+msgstr "Kaydırma ile Yorum Yükleme"
+
+#: includes/Admin/AnyCommentGenericSettings.php:463
+msgid "Load comments when user scrolls to it."
+msgstr "Kullanıcı ona kaydırıldığında yorumları yükleyin."
+
+#: includes/Rest/AnyCommentRestLikes.php:78
+#: includes/Rest/AnyCommentRestLikes.php:96
+#: includes/Rest/AnyCommentRestRate.php:80
+#: includes/Rest/AnyCommentRestSubscriptions.php:75
+#: includes/Rest/AnyCommentRestDocuments.php:119
+#: includes/Rest/AnyCommentRestDocuments.php:125
+msgid "Sorry, post does not exist."
+msgstr "Üzgünüm, bu yazı yok."
+
+#: includes/Rest/AnyCommentRestLikes.php:82
+#: includes/Rest/AnyCommentRestLikes.php:90
+msgid "Sorry, comment that you liked does not exist."
+msgstr "Üzgünüm, sizin beğendiğiniz yorum yok."
+
+#: includes/Rest/AnyCommentRestLikes.php:127
+msgid "Cannot create existing like."
+msgstr "Varolan beğeni oluşturulamıyor."
+
+#: templates/admin/dashboard.php:21
+msgid "Please take a few seconds and <a href=\"%s\" target=\"_blank\">rate us on WordPress.org</a>. You are the one who can help to grow and make this plugin better!"
+msgstr "Lütfen birkaç saniye ayırın ve <a href=\"%s\" target=\"_blank\"> bizi WordPress.org'da derecelendirin </a>. Büyümeye ve bu eklentiyi daha iyi hale getirmeye yardım edebilecek olan sizsiniz!"
+
+#: includes/Admin/AnyCommentSocialSettings.php:241
+#: includes/Rest/AnyCommentSocialAuth.php:273 includes/AnyCommentSocials.php:42
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/Admin/AnyCommentSocialSettings.php:207
+#: includes/Rest/AnyCommentSocialAuth.php:274 includes/AnyCommentSocials.php:35
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/AnyCommentSocials.php:28
+msgid "VK"
+msgstr "VK"
+
+#: includes/AnyCommentSocials.php:56
+msgid "Github"
+msgstr "Github"
+
+#: includes/AnyCommentRender.php:251
+#: includes/Admin/AnyCommentGenericSettings.php:1096
+#: includes/Admin/AnyCommentSocialSettings.php:691
+#: includes/Admin/AnyCommentIntegrationSettings.php:518
+#: includes/Options/AnyCommentOptionManager.php:249
+msgid "Save"
+msgstr "Kaydet"
+
+#: includes/Models/AnyCommentEmailQueue.php:646
+#: includes/AnyCommentRender.php:252 includes/AnyCommentRender.php:262
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: includes/AnyCommentRender.php:277
+msgid "Logout"
+msgstr "Çıkış"
+
+#: includes/Admin/AnyCommentGenericSettings.php:369
+msgid "Generic"
+msgstr "Genel"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:200
+msgid "Akismet Anti-Spam"
+msgstr "Akismet anti-spam"
+
+#: includes/Admin/AnyCommentGenericSettings.php:376
+msgid "Enable Comments"
+msgstr "Yorumları Etkinleştir"
+
+#: includes/Admin/AnyCommentGenericSettings.php:537
+msgid "Thanks"
+msgstr "Teşekkürler"
+
+#: includes/Admin/AnyCommentSocialSettings.php:178
+#: includes/Admin/AnyCommentSocialSettings.php:212
+#: includes/Admin/AnyCommentSocialSettings.php:246
+#: includes/Admin/AnyCommentSocialSettings.php:280
+#: includes/Admin/AnyCommentSocialSettings.php:314
+#: includes/Admin/AnyCommentSocialSettings.php:348
+#: includes/Admin/AnyCommentSocialSettings.php:392
+#: includes/Admin/AnyCommentSocialSettings.php:426
+#: includes/Admin/AnyCommentSocialSettings.php:460
+#: includes/Admin/AnyCommentSocialSettings.php:488
+#: includes/Admin/AnyCommentSocialSettings.php:522
+#: includes/Admin/AnyCommentSocialSettings.php:556
+#: includes/Admin/AnyCommentSocialSettings.php:591
+#: includes/Admin/AnyCommentIntegrationSettings.php:261
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:224
+msgid "Consumer Secret"
+msgstr "Tüketici Gizliliği"
+
+#: includes/Admin/AnyCommentSocialSettings.php:360
+msgid "App Key"
+msgstr "Uygulama Anahtarı"
+
+#: includes/Rest/AnyCommentRestLikes.php:60
+#: includes/Rest/AnyCommentRestComment.php:93
+#: includes/Rest/AnyCommentRestComment.php:121
+#: includes/Rest/AnyCommentRestComment.php:1179
+msgid "Unique identifier for the object."
+msgstr "Nesne için benzersiz tanımlayıcı."
+
+#: includes/Rest/AnyCommentRestComment.php:542
+msgid "Sorry, comments are closed for this item."
+msgstr "Bu gönderi için yorum alanı kapalı."
+
+#: includes/Rest/AnyCommentRestComment.php:1235
+msgid "Content for the object, as it exists in the database."
+msgstr "Veritabanında bulunduğu gibi nesne için içerik."
+
+#: includes/Rest/AnyCommentRestComment.php:1248
+msgid "The date the object was published, in the site's timezone."
+msgstr "Nesnenin yayınlandığı tarih, sitenin saat diliminde."
+
+#: includes/Rest/AnyCommentRestComment.php:1370
+msgid "Ensure result set excludes specific IDs."
+msgstr "Sonuç kümesinin belirli ID'leri hariç tuttuğundan emin olun."
+
+#: templates/admin/dashboard.php:16 templates/admin/tabs.php:4
+msgid "Dashboard"
+msgstr "Başlangıç"
+
+#: templates/admin/news-sidebar.php:2
+msgid "News"
+msgstr "Haberler"
+
+#: templates/admin/tab-dashboard.php:77
+#: includes/Admin/AnyCommentIntegrationSettings.php:279
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: templates/admin/tabs.php:7
+msgid "Social"
+msgstr "Sosyal"
+
+#: templates/admin/tabs.php:11
+msgid "Settings"
+msgstr "Seçenekler"
+
+#: includes/Admin/AnyCommentSocialSettings.php:275
+#: includes/Rest/AnyCommentSocialAuth.php:275 includes/AnyCommentSocials.php:49
+msgid "Google"
+msgstr "Google"
+
+#: includes/Admin/AnyCommentSocialSettings.php:343
+#: includes/Rest/AnyCommentSocialAuth.php:277 includes/AnyCommentSocials.php:63
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: includes/AnyCommentRender.php:247
+msgid "Load more"
+msgstr "Daha fazla yükle"
+
+#: includes/AnyCommentRender.php:250
+msgid "Send"
+msgstr "Gönder"
+
+#: includes/AnyCommentRender.php:260
+msgid "No comments to display"
+msgstr "Görüntülenecek için yorum yok"
+
+#: includes/AnyCommentRender.php:261
+msgid "Add Anycomment to your site"
+msgstr "Sitenize Anycomment ekleyin"
+
+#: includes/AnyCommentRender.php:274
+msgid "Quick Login"
+msgstr "Hızlı Giriş"
+
+#: includes/Admin/AnyCommentGenericSettings.php:377
+msgid "When on, comments are visible. When off, default WordPress' comments shown. This can be used to configure social networks on fresh installation."
+msgstr "Açık olduğunda, yorumlar görülebilir. Kapalı olduğunda, varsayılan WordPress yorumlar gösterilir. Bu, yeni kurulumda sosyal ağları yapılandırmak için kullanılabilir."
+
+#: includes/Admin/AnyCommentGenericSettings.php:456
+msgid "Number of Comments Loaded"
+msgstr "Yüklenen Yorum Sayısı"
+
+#: includes/Admin/AnyCommentGenericSettings.php:538
+msgid "Show AnyComment's link in the footer of comments. Copyright helps to bring awareness of such plugin and bring people to allow us to understand that it is a wanted product and give more often updated."
+msgstr "Yorumların alt kısmındaki AnyComment bağlantısını gösterin. Telif hakkı, bu tür bir eklenti hakkında farkındalık yaratmaya ve insanların aranan bir ürün olduğunu anlamamıza ve daha sık güncellenen bilgiler vermemize yardımcı olur."
+
+#. Plugin Name of the plugin
+#: templates/admin/dashboard.php:30 templates/admin/dashboard.php:31
+#: includes/Admin/AnyCommentAdminPages.php:75
+#: includes/Admin/AnyCommentAdminPages.php:76
+msgid "AnyComment"
+msgstr "AnyComment"
+
+#: includes/Admin/AnyCommentSocialSettings.php:193
+#: includes/Admin/AnyCommentSocialSettings.php:227
+#: includes/Admin/AnyCommentSocialSettings.php:261
+#: includes/Admin/AnyCommentSocialSettings.php:295
+#: includes/Admin/AnyCommentSocialSettings.php:329
+#: includes/Admin/AnyCommentSocialSettings.php:370
+#: includes/Admin/AnyCommentSocialSettings.php:407
+#: includes/Admin/AnyCommentSocialSettings.php:441
+#: includes/Admin/AnyCommentSocialSettings.php:469
+#: includes/Admin/AnyCommentSocialSettings.php:503
+#: includes/Admin/AnyCommentSocialSettings.php:537
+#: includes/Admin/AnyCommentSocialSettings.php:571
+#: includes/Admin/AnyCommentSocialSettings.php:606
+msgid "Callback URL"
+msgstr "Geri alma URL'si"
+
+#: includes/Admin/AnyCommentSocialSettings.php:179
+msgid "Allow VK authorization"
+msgstr "VK yetkilendirmesine Izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:184
+#: includes/Rest/AnyCommentRestServiceSync.php:72
+msgid "Application ID"
+msgstr "Uygulama ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:185
+msgid "Enter app id. Can be found in <a href=\"%s\" target=\"_blank\">apps</a> page"
+msgstr "Uygulama kimliğini girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:190
+msgid "Secure key"
+msgstr "Güvenli anahtar"
+
+#: includes/Admin/AnyCommentSocialSettings.php:191
+msgid "Enter secure key. Can be found in <a href=\"%s\" target=\"_blank\">apps</a> page"
+msgstr "Güvenli anahtarı girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:213
+msgid "Allow Twitter authorization"
+msgstr "Twitter yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:218
+msgid "Consumer Key"
+msgstr "Tüketici anahtarı"
+
+#: includes/Admin/AnyCommentSocialSettings.php:219
+msgid "Enter consumer key. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Tüketici anahtarı girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:225
+msgid "Enter consumer secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Tüketici gizliliğini girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:247
+msgid "Allow Facebook authorization"
+msgstr "Facebook yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:252
+#: includes/Admin/AnyCommentSocialSettings.php:354
+#: includes/Admin/AnyCommentSocialSettings.php:597
+msgid "App ID"
+msgstr "Uygulama ID'si"
+
+#: includes/Admin/AnyCommentSocialSettings.php:253
+msgid "Enter app id. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Uygulama kimliğini girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:258
+#: includes/Admin/AnyCommentSocialSettings.php:367
+msgid "App Secret"
+msgstr "Uygulama Gizliliği"
+
+#: includes/Admin/AnyCommentSocialSettings.php:281
+msgid "Allow Google authorization"
+msgstr "Google yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:286
+#: includes/Admin/AnyCommentSocialSettings.php:320
+#: includes/Admin/AnyCommentSocialSettings.php:398
+#: includes/Admin/AnyCommentSocialSettings.php:432
+#: includes/Admin/AnyCommentSocialSettings.php:562
+msgid "Client ID"
+msgstr "İstemci ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:287
+#: includes/Admin/AnyCommentSocialSettings.php:321
+msgid "Enter client id. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "İstemci kimliğini girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:292
+#: includes/Admin/AnyCommentSocialSettings.php:326
+#: includes/Admin/AnyCommentSocialSettings.php:404
+#: includes/Admin/AnyCommentSocialSettings.php:438
+#: includes/Admin/AnyCommentSocialSettings.php:500
+#: includes/Admin/AnyCommentSocialSettings.php:534
+#: includes/Admin/AnyCommentSocialSettings.php:568
+#: includes/Admin/AnyCommentSocialSettings.php:603
+msgid "Client Secret"
+msgstr "İstemci Gizliliği"
+
+#: includes/Admin/AnyCommentSocialSettings.php:293
+#: includes/Admin/AnyCommentSocialSettings.php:327
+msgid "Enter client secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "İstemci gizliliğini girin. Bunu <a href=\"%s\" target=\"_blank\"> uygulamalar </a> sayfasında bulabilirsiniz"
+
+#: includes/Admin/AnyCommentSocialSettings.php:315
+msgid "Allow GitHub authorization"
+msgstr "GitHub yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:349
+msgid "Allow Odnoklassniki authorization"
+msgstr "Odnoklassniki yetkilendirmesine izin ver"
+
+#: includes/Admin/AnyCommentSocialSettings.php:355
+msgid "Enter app id. Can be found in the email sent to you by Odnoklassniki"
+msgstr "Uygulama kimliği girin. Size Odnoklassniki tarafından gönderilen e-postada bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:361
+msgid "Enter app key. Can be found in the email sent to you by Odnoklassniki"
+msgstr "Uygulama anahtarını girin. Size Odnoklassniki tarafından gönderilen e-postada bulunabilir"
+
+#: includes/Admin/AnyCommentSocialSettings.php:368
+msgid "Enter client secret. Can be found in the email sent to you by Odnoklassniki"
+msgstr "İstemci kimliğini girin. Size Odnoklassniki tarafından gönderilen e-postada bulunabilir"
+
+#: includes/Rest/AnyCommentRestLikes.php:100
+#: includes/Rest/AnyCommentRestLikes.php:104
+#: includes/Rest/AnyCommentRestComment.php:530
+#: includes/Rest/AnyCommentRestComment.php:534
+#: includes/Rest/AnyCommentRestRate.php:84
+#: includes/Rest/AnyCommentRestRate.php:88
+#: includes/Rest/AnyCommentRestSubscriptions.php:79
+#: includes/Rest/AnyCommentRestSubscriptions.php:83
+#: includes/Rest/AnyCommentRestDocuments.php:129
+#: includes/Rest/AnyCommentRestDocuments.php:133
+msgid "Sorry, you are not allowed to create a comment on this post."
+msgstr "Üzgünüz, bu yazı üzerinde bir yorum oluşturmak için izin verilmez."
+
+#: includes/Rest/AnyCommentRestComment.php:104
+msgid "The password for the parent post of the comment (if the post is password protected)."
+msgstr "Yorumun ana gönderisinin şifresi (eğer posta şifre korumalı ise)."
+
+#: includes/Rest/AnyCommentRestComment.php:149
+#: includes/Rest/AnyCommentRestComment.php:444
+#: includes/Rest/AnyCommentRestComment.php:538
+msgid "Sorry, you are not allowed to read the post for this comment."
+msgstr "Üzgünüz, bu yorumun yayınını okuma izniniz yok."
+
+#: includes/Rest/AnyCommentRestComment.php:151
+msgid "Sorry, you are not allowed to read comments without a post."
+msgstr "Üzgünüz, yazı yazmadan yorumları okuma izniniz yok."
+
+#: includes/Rest/AnyCommentRestComment.php:157
+#: includes/Rest/AnyCommentRestComment.php:434
+msgid "Sorry, you are not allowed to edit comments."
+msgstr "Üzgünüz, Yorum düzenlemenize izin verilmez."
+
+#: includes/Rest/AnyCommentRestComment.php:179
+msgid "Query parameter not permitted: %s"
+msgstr "Sorgu parametresine izin verilmiyor: %s"
+
+#: includes/Rest/AnyCommentRestComment.php:397
+msgid "Invalid comment ID."
+msgstr "Geçersiz yorum ID."
+
+#: includes/Rest/AnyCommentRestComment.php:411
+#: includes/Rest/AnyCommentRestComment.php:777
+msgid "Invalid post ID."
+msgstr "Geçersiz gönderi ID."
+
+#: includes/Rest/AnyCommentRestComment.php:440
+msgid "Sorry, you are not allowed to read this comment."
+msgstr "Üzgünüz, bu yorumu okuma izniniz yok."
+
+#. translators: %s: request parameter
+#: includes/Rest/AnyCommentRestComment.php:497
+#: includes/Rest/AnyCommentRestComment.php:506
+#: includes/Rest/AnyCommentRestComment.php:515
+msgid "Sorry, you are not allowed to edit '%s' for comments."
+msgstr "Üzgünüz, yorumlarınız için '%s' dosyasını düzenleme izniniz yok."
+
+#: includes/Rest/AnyCommentRestComment.php:521
+#: includes/Rest/AnyCommentRestComment.php:526
+msgid "Sorry, you are not allowed to create this comment without a post."
+msgstr "Üzgünüz, bu yorumu yazı yazmadan oluşturmanıza izin verilmez."
+
+#: includes/Rest/AnyCommentRestComment.php:560
+msgid "Cannot create existing comment."
+msgstr "Mevcut yorum oluşturulamıyor."
+
+#: includes/Rest/AnyCommentRestComment.php:649
+#: includes/Rest/AnyCommentRestComment.php:803
+msgid "Comment field exceeds maximum length allowed."
+msgstr "Yorum alanı izin verilen en fazla uzunluğu aşıyor."
+
+#: includes/Rest/AnyCommentRestComment.php:669
+msgid "Creating comment failed."
+msgstr "Yorum oluşturma başarısız oldu."
+
+#: includes/Rest/AnyCommentRestComment.php:739
+msgid "Sorry, you are not allowed to edit this comment."
+msgstr "Üzgünüz, bu yorumu düzenlemenize izin verilmez."
+
+#: includes/Rest/AnyCommentRestComment.php:765
+msgid "Sorry, you are not allowed to change the comment type."
+msgstr "Üzgünüm, yorum türünü değiştirmesine izin verilmez."
+
+#: includes/Rest/AnyCommentRestComment.php:786
+msgid "Updating comment status failed."
+msgstr "Yorum durumunu güncelleştirme başarısız oldu."
+
+#: includes/Rest/AnyCommentRestComment.php:809
+msgid "Updating comment failed."
+msgstr "Yorum güncelleme başarısız oldu."
+
+#: includes/Rest/AnyCommentRestComment.php:854
+msgid "Sorry, you are not allowed to delete this comment."
+msgstr "Üzgünüz, bu yorumu silmenize için izin verilmez."
+
+#. translators: %s: force=true
+#: includes/Rest/AnyCommentRestComment.php:893
+msgid "The comment does not support trashing. Set '%s' to delete."
+msgstr "Yorum çöpe gönderilmeyi desteklemiyor. Silmek için '%s' öğesini ayarlayın."
+
+#: includes/Rest/AnyCommentRestComment.php:897
+msgid "The comment has already been trashed."
+msgstr "Yorum çöpe gönderildi."
+
+#: includes/Rest/AnyCommentRestComment.php:906
+msgid "The comment cannot be deleted."
+msgstr "Yorum silinemez."
+
+#: includes/Rest/AnyCommentRestComment.php:1135
+msgid "Invalid comment author ID."
+msgstr "Geçersiz yorum Yazar ID'si."
+
+#: includes/Rest/AnyCommentRestComment.php:1185
+msgid "The ID of the user object, if author was a user."
+msgstr "Kullanıcı nesnesinin ID'si, yazar bir kullanıcı ise."
+
+#: includes/Rest/AnyCommentRestComment.php:1190
+msgid "Email address for the object author."
+msgstr "Nesne yazarı için e-posta adresi."
+
+#: includes/Rest/AnyCommentRestComment.php:1196
+msgid "IP address for the object author."
+msgstr "Nesne yazarı için IP adresi."
+
+#: includes/Rest/AnyCommentRestComment.php:1202
+msgid "Display name for the object author."
+msgstr "Nesne yazarı için görünen ad."
+
+#: includes/Rest/AnyCommentRestComment.php:1210
+msgid "URL for the object author."
+msgstr "Nesne yazarı için URL."
+
+#: includes/Rest/AnyCommentRestComment.php:1216
+msgid "User agent for the object author."
+msgstr "Nesne yazarı için kullanıcı aracısı."
+
+#: includes/Rest/AnyCommentRestComment.php:1224
+msgid "The content for the object."
+msgstr "Nesne için içerik."
+
+#: includes/Rest/AnyCommentRestComment.php:1240
+msgid "HTML content for the object, transformed for display."
+msgstr "Nesne için HTML içeriği, görüntü için dönüştürülmüş."
+
+#: includes/Rest/AnyCommentRestComment.php:1254
+msgid "The date the object was published, as GMT."
+msgstr "Nesne yayınlanma tarihi, GMT olarak."
+
+#: includes/Rest/AnyCommentRestComment.php:1260
+msgid "URL to the object."
+msgstr "Nesneye URL."
+
+#: includes/Rest/AnyCommentRestComment.php:1267
+msgid "The ID for the parent of the object."
+msgstr "Nesnenin üst ID'si."
+
+#: includes/Rest/AnyCommentRestComment.php:1273
+msgid "The ID of the associated post object."
+msgstr "İlişkili yazı nesnesinin kimliği."
+
+#: includes/Rest/AnyCommentRestComment.php:1279
+msgid "State of the object."
+msgstr "Nesnenin durumu."
+
+#: includes/Rest/AnyCommentRestComment.php:1287
+msgid "Type of Comment for the object."
+msgstr "Nesne için yorum türü."
+
+#. translators: %d: avatar image size in pixels
+#: includes/Rest/AnyCommentRestComment.php:1302
+msgid "Avatar URL with image size of %d pixels."
+msgstr "Resim boyutu %d piksel olan Avatar URL'si."
+
+#: includes/Rest/AnyCommentRestComment.php:1310
+msgid "Avatar URLs for the object author."
+msgstr "Nesne yazarının Avatar URL'si."
+
+#: includes/Rest/AnyCommentRestComment.php:1335
+msgid "Limit response to comments published after a given ISO8601 compliant date."
+msgstr "Belirli bir ISO8601 uyumlu tarihten sonra yayınlanan yorumlara verilen yanıtı sınırlayın."
+
+#: includes/Rest/AnyCommentRestComment.php:1341
+msgid "Limit result set to comments assigned to specific user IDs. Requires authorization."
+msgstr "Sınırlama sonucu, belirli kullanıcı kimliklerine atanan yorumlara ayarlanır. Yetkilendirme gerektirir."
+
+#: includes/Rest/AnyCommentRestComment.php:1349
+msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
+msgstr "Sonuç kümesinin, belirli kullanıcı kimliklerine atanan yorumları hariç tuttuğundan emin olun. Yetkilendirme gerektirir."
+
+#: includes/Rest/AnyCommentRestComment.php:1358
+msgid "Limit result set to that from a specific author email. Requires authorization."
+msgstr "Sınırlama sonucu belirli bir yazar e-postasından belirlenir. Yetkilendirme gerektirir."
+
+#: includes/Rest/AnyCommentRestComment.php:1364
+msgid "Limit response to comments published before a given ISO8601 compliant date."
+msgstr "Belirli bir ISO8601 uyumlu tarihten önce yayınlanan yorumlara yanıtı sınırlayın."
+
+#: includes/Rest/AnyCommentRestComment.php:1379
+msgid "Limit result set to specific IDs."
+msgstr "Sınır sonucu belirli kimliklere ayarlanır."
+
+#: includes/Rest/AnyCommentRestComment.php:1388
+msgid "Offset the result set by a specific number of items."
+msgstr "Sonuç kümesini belirli bir sayıda öğe ile dengeleyin."
+
+#: includes/Rest/AnyCommentRestComment.php:1393
+msgid "Order sort attribute ascending or descending."
+msgstr "Sıralama sıralama özniteliği artan veya azalan sıralama."
+
+#: includes/Rest/AnyCommentRestComment.php:1403
+msgid "Sort collection by object attribute."
+msgstr "Koleksiyonu nesne niteliğine göre sırala."
+
+#: includes/Rest/AnyCommentRestComment.php:1419
+msgid "Limit result set to comments of specific parent IDs."
+msgstr "Sınır sonucu, belirli üst kimliklerin yorumlarına ayarlanır."
+
+#: includes/Rest/AnyCommentRestComment.php:1428
+msgid "Ensure result set excludes specific parent IDs."
+msgstr "Sonuç kümesinin belirli ebeveyn kimliklerini hariç tuttuğundan emin olun."
+
+#: includes/Rest/AnyCommentRestComment.php:1437
+msgid "Limit result set to comments assigned to specific post IDs."
+msgstr "Sınırlama sonucu, belirli posta kimliğine atanan yorumlara ayarlanır."
+
+#: includes/Rest/AnyCommentRestComment.php:1446
+msgid "Limit result set to comments assigned a specific status. Requires authorization."
+msgstr "Sınırlama sonucu, belirli bir duruma atanan yorumlara ayarlanır. Yetkilendirme gerektirir."
+
+#: includes/Rest/AnyCommentRestComment.php:1454
+msgid "Limit result set to comments assigned a specific type. Requires authorization."
+msgstr "Sınırlama sonucu, belirli bir tür atanan yorumlara ayarlanır. Yetkilendirme gerektirir."
+
+#: includes/Rest/AnyCommentRestComment.php:1461
+msgid "The password for the post if it is password protected."
+msgstr "Şifre korumalı ise yazının şifresi."
+
+#: templates/admin/tab-help.php:21
+msgid "Official Website"
+msgstr "Resmi İnternet Sitesi"
+
+#: templates/admin/news-sidebar.php:47
+msgid "No news yet"
+msgstr "Henüz haber yok"
+
+#: templates/admin/tab-dashboard.php:17 templates/admin/tab-dashboard.php:21
+msgid "Commentators"
+msgstr "Yorumcular"
+
+#: templates/admin/tab-dashboard.php:30 templates/admin/tab-dashboard.php:33
+msgid "All Comments"
+msgstr "Tüm Yorumlar"
+
+#: templates/admin/tab-dashboard.php:42
+msgid "Overal Statistics"
+msgstr "Tüm İstatistikler"
+
+#: templates/admin/tab-dashboard.php:66
+#: includes/Widgets/Native/CommentList.php:29
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: templates/admin/tab-dashboard.php:118
+msgid "Most Active Users"
+msgstr "En Etkin Kullanıcılar"
+
+#: templates/admin/tab-dashboard.php:133
+msgid "No users yet"
+msgstr "Henüz kullanıcı yok"
+
+#: templates/admin/tabs.php:15
+msgid "Integration"
+msgstr "Entegrasyon"
+
+#. Description of the plugin
+msgid "AnyComment is an advanced commenting system for WordPress."
+msgstr "AnyComment, WordPress için gelişmiş bir yorumlama sistemidir."
+
+#. Plugin URI of the plugin
+msgid "https://anycomment.io"
+msgstr "https://anycomment.io"
+
+#. Author of the plugin
+msgid "Bologer"
+msgstr "Bologer"
+
+#. Author URI of the plugin
+msgid "http://bologer.ru"
+msgstr "http://bologer.ru"
+
+#: includes/AnyCommentRender.php:255
+msgid "oldest"
+msgstr "daha eski"
+
+#: includes/AnyCommentRender.php:256
+msgid "newest"
+msgstr "daha yeni"
+
+#: includes/AnyCommentRender.php:254
+msgid "Sort by"
+msgstr "Sırala"
+
+#: includes/Admin/AnyCommentSocialSettings.php:259
+msgid "Enter app secret. Can be found in the list of <a href=\"%\" target=\"_blank\">apps</a>"
+msgstr "Uygulama gizli anahtarını girin. <a href=\"%\" target=\"_blank\">Uygulamalar </a> listesinde bulunabilir"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:292
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/Debug/DebugReportGenerator.php:55
+msgid "Generic Settings"
+msgstr "Genel Ayarlar"
+
+#: includes/AnyCommentRender.php:263
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:133
+#: includes/Admin/Tables/AnyCommentRatingTable.php:130
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:124
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:154
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:129
+msgid "Edit"
+msgstr "Düzenle"

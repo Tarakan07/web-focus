@@ -1,0 +1,42 @@
+<svg width="341" height="181" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M288.3 71.3a67.5 67.5 0 11-135 0h135z" fill="#31D67B"/>
+  <mask id="a" maskUnits="userSpaceOnUse" x="153" y="71" width="136" height="68">
+    <path d="M288.3 71.3a67.5 67.5 0 11-135 0h135z" fill="#A57CFE"/>
+  </mask>
+  <g mask="url(#a)" stroke="#000">
+    <path d="M127.2 85.4C167.8 49 202 48.5 229.7 84.2c27.8 35.7 62 35.3 102.6-1.2"/>
+    <path d="M130.6 115.8c34.8-42.1 68.5-47.6 101.3-16.4 32.7 31.3 66.4 25.8 101.2-16.3"/>
+    <path d="M129.5 124c39-38.3 73.1-40 102.4-5.6 29.2 34.6 63.3 32.7 102.4-5.4"/>
+    <path d="M128.6 132C172 98.7 206 101 231 138.7c24.9 37.7 59 40 102.3 6.7M160 45.8c37.4-24.6 65.2-20.6 83.2 11.8C261.2 90 289 94 326.5 69.5"/>
+  </g>
+  <path fill="#A57CFE" d="M288.3 57.8h-224v-16h224z"/>
+  <path d="M125.3 53l-9.5 9.6M118.8 52.6l-9.5 9.5M112.3 52.6l-9.5 9.5M105.8 52.6L96.3 62M99.3 52.6L89.8 62M92.8 52.6L83.3 62M86.3 52.6L76.8 62" stroke="#000"/>
+  <circle cx="83.2" cy="118.5" r="30.5" fill="#8052E4"/>
+  <circle cx="89.1" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="94.8" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="100.6" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="106.1" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="112.1" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="117.8" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="123.6" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="129.3" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="135.1" cy="97.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="89.1" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="94.8" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="89.1" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="94.8" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="100.6" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="106.3" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="112.1" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="117.8" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="123.6" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="129.3" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="135.1" cy="108.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="100.6" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="106.1" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="112.1" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="117.8" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="123.6" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="129.3" cy="103.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="135.1" cy="103.1" r="1.4" fill="#D4D4D4"/>
+</svg>

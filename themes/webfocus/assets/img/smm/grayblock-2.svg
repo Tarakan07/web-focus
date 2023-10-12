@@ -1,0 +1,41 @@
+<svg width="341" height="180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#A57CFE" d="M152 99h152v41H152z"/>
+  <circle cx="124.5" cy="98.5" r="54.5" fill="#31D67B"/>
+  <circle cx="151.5" cy="81.5" r="54" stroke="#000"/>
+  <circle cx="39.4" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="45.1" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="50.9" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="56.6" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="62.4" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.1" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="73.9" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="79.6" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="85.4" cy="69.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="39.4" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="45.1" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="39.4" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="45.1" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="50.9" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="56.6" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="62.4" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.1" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="73.9" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="79.6" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="85.4" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="50.9" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="56.6" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="62.4" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.1" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="73.9" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="79.6" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="85.4" cy="75.1" r="1.4" fill="#D4D4D4"/>
+  <g clip-path="url(#clip0)" fill="#000">
+    <path d="M233.8 43c.2 0 .3 0 .4.2l9.3 9.3c.2.2.2.5 0 .7l-8.6 8.6 9 9c.2.1.2.5 0 .7l-8.5 8.5 9 9c.2.2.2.5 0 .7l-8.6 8.6 9 9v.7l-9 8.8a.5.5 0 11-.6-.7l8.4-8.5-9-9a.5.5 0 010-.6h.1v-.1l8.6-8.5-9-9a.5.5 0 01-.1-.4l.1-.4 8.5-8.5-9-9a.5.5 0 010-.7h.1l8.5-8.6-9-9a.5.5 0 010-.6l.4-.2zM247.7 43c.2 0 .3 0 .4.2l9.3 9.3c.2.2.2.5 0 .7l-8.6 8.6 9 9c.2.1.2.5 0 .7l-8.6 8.5 9 9c.3.2.3.5 0 .7l-8.5 8.6 9 9v.7l-9 8.8a.5.5 0 11-.6-.7l8.4-8.5-9-9a.5.5 0 010-.6h.1v-.1l8.6-8.5-9-9a.5.5 0 01-.1-.4l.1-.4 8.5-8.5-9-9a.5.5 0 010-.7h.1l8.5-8.6-9-9a.5.5 0 010-.6l.4-.2zM261.6 43c.2 0 .3 0 .4.2l9.3 9.3c.2.2.2.5 0 .7l-8.6 8.6 9 9c.2.1.2.5 0 .7L263 80l9 9c.2.2.2.5 0 .7l-8.5 8.6 9 9v.7l-9 8.8a.5.5 0 01-.7-.7l8.5-8.5-9-9a.5.5 0 010-.6h.1v-.1l8.5-8.5-8.9-9a.5.5 0 01-.1-.4l.1-.4 8.5-8.5-9-9a.5.5 0 010-.7h.1l8.5-8.6-9-9a.5.5 0 010-.6l.4-.2z"/>
+  </g>
+  <circle cx="66.5" cy="143.5" r="7.5" fill="#8052E4"/>
+  <defs>
+    <clipPath id="clip0">
+      <path fill="#fff" transform="matrix(1 0 0 -1 216 117)" d="M0 0h74v74H0z"/>
+    </clipPath>
+  </defs>
+</svg>

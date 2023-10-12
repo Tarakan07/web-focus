@@ -1,0 +1,88 @@
+# Translation of Plugins - Simple Sitemap &#8211; Create a Responsive HTML Sitemap - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Simple Sitemap &#8211; Create a Responsive HTML Sitemap - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-15 13:19:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Simple Sitemap &#8211; Create a Responsive HTML Sitemap - Stable (latest release)\n"
+
+#: lib/classes/plugin-admin-pages/class-settings-welcome.php:68
+msgid "Welcome to "
+msgstr "ようこそ: "
+
+#: lib/classes/plugin-admin-pages/class-settings-new-features.php:97
+msgid "Simple Sitemap New Features & Updates!"
+msgstr "Simple Sitemap 新機能 & アップデート !"
+
+#: lib/classes/plugin-admin-pages/class-settings-new-features.php:66
+msgid "New Features"
+msgstr "新機能"
+
+#: shared/rest-api-endpoints.php:118
+msgid "No permissions to view post data."
+msgstr "投稿データを閲覧する権限がありません。"
+
+#: api/classes/modules/create-duplicate-post.php:157
+msgid "Duplicate"
+msgstr "複製"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:240
+msgid "Displays a list of taxonomy terms for any registered taxonomy (e.g. categories)."
+msgstr "登録されている任意のタクソノミー (カテゴリー など) のタクソノミーのターム一覧を表示します。"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:234
+msgid "Displays a list of posts grouped by category, OR tags."
+msgstr "カテゴリーやタグでグループ化された投稿一覧を表示します。"
+
+#. translators: %d: ID of a post
+#: shared/class-wpgo-walker-page.php:100
+msgid "#%d (no title)"
+msgstr "#%d (タイトルなし)"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:246
+msgid "Displays a sitemap based on a nav menu."
+msgstr "ナビメニューに基づいてサイトマップを表示します。"
+
+#: api/classes/links.php:26 shared/links.php:56
+msgid "Get Started"
+msgstr "利用を始める"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:252
+msgid "Displays a list of child pages for a specific parent page."
+msgstr "特定の親ページに対する子ページの一覧を表示します。"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:230
+msgid "Displays a list of posts for one or more post types."
+msgstr "1つまたは複数の投稿タイプの投稿一覧を表示します。"
+
+#. Author URI of the plugin
+msgid "http://www.wpgoplugins.com"
+msgstr "http://www.wpgoplugins.com"
+
+#. Description of the plugin
+msgid "HTML sitemap to display content as a single linked list of posts, pages, or custom post types. You can even display posts in groups sorted by taxonomy!"
+msgstr "HTML サイトマップを使って、投稿、ページ、カスタム投稿タイプなどのコンテンツを個別のリンクリストとして表示します。タクソノミーごとにグループ分けして表示することもできます !"
+
+#. Author of the plugin
+msgid "David Gwyer"
+msgstr "David Gwyer"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/simple-sitemap/"
+msgstr "https://ja.wordpress.org/plugins/simple-sitemap/"
+
+#. Plugin Name of the plugin
+#: lib/classes/plugin-admin-pages/class-settings.php:82
+#: lib/classes/plugin-admin-pages/class-settings.php:156
+#: lib/classes/register-blocks.php:44
+msgid "Simple Sitemap"
+msgstr "Simple Sitemap"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:84
+msgid "Simple Sitemap Settings Page"
+msgstr "Simple Sitemap 設定ページ"

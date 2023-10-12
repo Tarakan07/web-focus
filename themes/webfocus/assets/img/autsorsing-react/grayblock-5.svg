@@ -1,0 +1,35 @@
+<svg width="341" height="180" viewBox="0 0 341 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="341" height="180" fill="#F5F5F5"/>
+<path d="M214 39V135.5" stroke="black"/>
+<path d="M218 39V135.5" stroke="black"/>
+<path d="M222 39V135.5" stroke="black"/>
+<path d="M226 39V135.5" stroke="black"/>
+<path d="M230 39V135.5" stroke="black"/>
+<path d="M234 39V135.5" stroke="black"/>
+<path d="M238 39V135.5" stroke="black"/>
+<path d="M242 39V135.5" stroke="black"/>
+<path d="M210 39V135.5" stroke="black"/>
+<path d="M95.5 125C82 124 56.2 113.3 55 84.5C55 48.5 82.5 39 96 39C115.5 39 196.5 39 242.5 39" stroke="black"/>
+<path d="M95.2964 125H167.5" stroke="black"/>
+<path d="M140 36C140 31.7565 138.367 27.6869 135.46 24.6863C132.553 21.6857 128.611 20 124.5 20C120.389 20 116.447 21.6857 113.54 24.6863C110.633 27.6869 109 31.7565 109 36L124.5 36H140Z" fill="#AB85FF"/>
+<path d="M158 36C158 33.0826 156.63 30.2847 154.192 28.2218C151.754 26.1589 148.448 25 145 25C141.552 25 138.246 26.1589 135.808 28.2218C133.37 30.2847 132 33.0826 132 36L145 36H158Z" fill="#AB85FF"/>
+<path d="M117 36C117 34.1435 116.052 32.363 114.364 31.0503C112.676 29.7375 110.387 29 108 29C105.613 29 103.324 29.7375 101.636 31.0503C99.9482 32.363 99 34.1435 99 36L108 36H117Z" fill="#AB85FF"/>
+<circle cx="207.5" cy="113.5" r="41.5" fill="#31D67B"/>
+<rect x="48" y="136" width="245" height="24" fill="#8052E4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 266.324 97.0823)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 253.917 97.0823)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 241.509 97.0823)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 229.102 97.0823)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 266.324 109.491)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 253.917 109.491)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 241.509 109.491)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 229.102 109.491)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 229.102 121.897)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 241.509 121.897)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 253.917 121.897)" fill="#D4D4D4"/>
+<circle r="3.10184" transform="matrix(-1 0 0 1 266.324 121.897)" fill="#D4D4D4"/>
+<path d="M111.037 125V78.676M111.037 78.676L110.425 79.9451M111.037 78.676L111.649 79.9451" stroke="black"/>
+<path d="M121.213 125L121.213 60.2733M121.213 60.2733L120.578 62.0467M121.213 60.2733L121.847 62.0467" stroke="black"/>
+<path d="M100.906 125V95.8095M100.906 95.8095L100.271 96.6093M100.906 95.8095L101.54 96.6093" stroke="black"/>
+<path d="M131.365 125V104.059M131.365 104.059L130.731 104.633M131.365 104.059L132 104.633" stroke="black"/>
+</svg>

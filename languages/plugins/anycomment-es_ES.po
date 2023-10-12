@@ -1,0 +1,2633 @@
+# Translation of Plugins - AnyComment - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - AnyComment - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-11 18:42:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - AnyComment - Stable (latest release)\n"
+
+#: includes/Admin/AnyCommentSocialSettings.php:596
+msgid "Try out our <a href=\"%s\" target=\"_blank\">AnyComment Cloud</a>. We already configured all of the socials for you, just choose what you need."
+msgstr "Prueba nuestra <a href=\"%s\" target=\"_blank\">AnyComment Cloud</a>. Ya hemos configurado todas las redes sociales por ti, simplemente elige la que necesitas."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:224
+msgid "Replace WooCommer's review form with AnyComment."
+msgstr "Reemplazar el sistema de reseñas de WooCommerce con AnyComment."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:223
+msgid "Replace Review Form"
+msgstr "Reemplazar el formulario de reseñas"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:218
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/Admin/AnyCommentGenericSettings.php:432
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: includes/AnyCommentRender.php:305
+msgid "Comments:"
+msgstr "Comentarios:"
+
+#: templates/admin/tab-help.php:10
+msgid "WordPress Forum"
+msgstr "Foro de WordPress"
+
+#: includes/Admin/AnyCommentAdminPages.php:120
+msgid "Hide"
+msgstr "Ocultar"
+
+#: includes/Admin/AnyCommentAdminPages.php:119
+msgid "Skip"
+msgstr "Omitir"
+
+#: includes/Admin/AnyCommentAdminPages.php:118
+msgid "Back"
+msgstr "Atrás"
+
+#: includes/Admin/AnyCommentAdminPages.php:117
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/Controller/CacheController.php:35
+msgid "Cache was successfully flushed!"
+msgstr "¡La caché ha sido eliminada correctamente!"
+
+#: includes/Controller/ImportController.php:38
+msgid "Comments were imported successfully."
+msgstr "Los comentarios han sido importados correctamente."
+
+#: includes/Controller/ImportController.php:32
+msgid "Comments from HyperComments were removed."
+msgstr "Los comentarios de HyperComments han sido eliminados. "
+
+#: includes/Controller/ToolController.php:48
+msgid "Comments opened successfully."
+msgstr "Los comentarios han sido abiertos correctamente."
+
+#: includes/Controller/ToolController.php:43
+msgid "Failed to open comments - unknown type."
+msgstr "No se han podido abrir los comentarios - tipo desconocido."
+
+#: templates/admin/notifications/sync-information.php:216
+msgid "Synchronization with cloud is not configured yet. Click button below to learn more about it."
+msgstr "La sincronización con la nube todavía no se ha configurado. Haz clic en el botón de abajo para saber más sobre ello."
+
+#: templates/admin/notifications/sync-information.php:213
+msgid "Synchronization required"
+msgstr "Se necesita sincronizar"
+
+#: templates/admin/notifications/sync-information.php:152
+msgid "Synced %s comment out of %s, finished %s in total."
+msgid_plural "Synced %s comments out of %s, finished %s in total."
+msgstr[0] "Sincronizado %s comentario de %s, finalizado %s en total."
+msgstr[1] "Sincronizados %s comentarios de %s, finalizados %s en total."
+
+#: templates/admin/notifications/sync-information.php:95
+msgid "All Comments Synced!"
+msgstr "¡Todos los comentarios han sido sincronizados!"
+
+#: templates/admin/tabs.php:20
+msgid "Addons"
+msgstr "Extensiones"
+
+#: templates/admin/tab-addons.php:55
+msgid "Already installed"
+msgstr "Ya instalado"
+
+#: templates/admin/tab-addons.php:51
+msgid "Download"
+msgstr "Descargar"
+
+#: templates/admin/tab-addons.php:8
+msgid "It is an advanced analytics for AnyComment & it is free!"
+msgstr "Es un análisis avanzado para AnyComment, ¡y es gratis!"
+
+#: templates/admin/tab-tools.php:68
+msgid "Download report"
+msgstr "Descargar el informe"
+
+#: templates/admin/tab-tools.php:64
+msgid "You may use button below to download debug report and send it AnyComment support."
+msgstr "Puedes usar el botón de abajo para descargar un informe de depuración y enviárselo al soporte de AnyComment."
+
+#: templates/admin/tour-steps.php:44
+msgid "By default AnyComment is not replacing your comment form, so you have time to configure the plugin. Enable this option, once you finished with configuration."
+msgstr "Por defecto, AnyComment no reemplaza tu formulario de comentarios, así que tienes tiempo para configurar el plugin. Activa esta opción cuando hayas terminado la configuración. "
+
+#: templates/admin/tour-steps.php:36
+msgid "After you configure socials networks, it is required to go to \"General\" settings and enable \"Enable Comments\" option, to replace native comment block with AnyComment's version."
+msgstr "Después de que configures las redes sociales, es necesario que vayas a los ajustes «Generales» y actives la opción «Activar los comentarios» para reemplazar el bloque nativo de comentarios con la versión de AnyComment."
+
+#: templates/admin/tour-steps.php:31
+msgid "For simplicity reasons, we prepared in-depth configuration guide per each social network"
+msgstr "Por simplicidad, hemos preparado una guía de configuración más detallada por cada red social. "
+
+#: templates/admin/tour-steps.php:26
+msgid "Configure social networks which fit most to your website. Green indicated by the name of the social network would mean it is available to users for signup."
+msgstr "Configura las redes sociales que se ajusten mejor a tu web. Si el nombre de la red social está en verde, significa que los usuarios pueden registrarse a través de ella. "
+
+#: templates/admin/tour-steps.php:19
+msgid "In this tab you are supposed to set-up social networks. Each social network has in-depth configuration guide."
+msgstr "En esta pestaña se supone que debes configurar las redes sociales. Cada red social tiene una guía de configuración más detallada. "
+
+#: templates/admin/tour-steps.php:13
+msgid "Have a look at this block. Here, you would find possible conflicts with other plugins. However, do not pay close attention. You can ignore it if AnyComment functioning properly."
+msgstr "Échale un vistazo a este bloque. Aquí encontrarás posibles conflictos con otros plugins. Pero no le prestes mucha atención. Puedes ignorarlo si AnyComment está funcionando correctamente. "
+
+#: templates/admin/tour-steps.php:6
+msgid "On this page you see generic information about comments. Statistics, active users and total number of comments. Some of the other pages would have similar guide once you enter such page."
+msgstr "En esta página verás información genérica acerca de los comentarios. Estadísticas, usuarios activos y el número total de comentarios. En algunas de las otras páginas verás información similar una vez que entres a ellas. "
+
+#: includes/Admin/AnyCommentGenericSettings.php:1042
+msgid "Choose how comments would be sorted."
+msgstr "Elige cómo se ordenarán los comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1039
+msgid "Oldest to newest"
+msgstr "Del más antiguo al más nuevo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1038
+msgid "Newest to oldest"
+msgstr "Del más nuevo al más antiguo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1031
+msgid "Number of comments to be seen by search engines. Lower the number - faster comments would load."
+msgstr "Número de comentarios para ser vistos por los motores de búsqueda. Mientras más bajo sea, más rápido cargarán los comentarios. "
+
+#: includes/Admin/AnyCommentGenericSettings.php:1030
+msgid "Limit Comments"
+msgstr "Límite de comentarios"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1026
+msgid "Allow search engines to discover comments."
+msgstr "Permitir a los motores de búsqueda descubrir los comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1025
+msgid "Search Engine Visibility"
+msgstr "Visibilidad en los motores de búsqueda"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1020
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/Admin/AnyCommentGenericSettings.php:986
+msgid "URL where file can served. For example, when directory specified, it is required to specify path where image would served. When empty, %s would be used. Notice that AnyComment would add year and month automatically to the URL."
+msgstr "La URL desde la cual se servirá el archivo. Por ejemplo, cuando el directorio esté indicado, es obligatorio indicar la ruta desde la cual se servirá la imagen. Cuando esté vacía, %s será usado. Ten en cuenta que AnyComment añadirá el año y el mes de manera automática a la URL. "
+
+#: includes/Admin/AnyCommentGenericSettings.php:985
+msgid "Save directory serve"
+msgstr "Guardar el directorio para servir"
+
+#: includes/Admin/AnyCommentGenericSettings.php:980
+msgid "Absolute path where all files would be stored, including social avatars. When empty, %s would be used. Notice folder must have correct permission & owner. Notice that AnyComment would add year and month automatically to the folder you specify to limit number of files per directory."
+msgstr "Ruta absoluta donde se almacenarán todos los archivos, incluyendo los avatares sociales. Cuando esté vacía, %s será usado. Ten en cuenta que la carpeta debe tener los permisos y propietarios correctos. Ten en cuenta que AnyComment añadirá el año y el mes de manera automática a la carpeta que indiques para limitar el número de archivos por directorio."
+
+#: includes/Admin/AnyCommentGenericSettings.php:979
+msgid "Save directory"
+msgstr "Guardar el directorio"
+
+#: includes/Admin/AnyCommentGenericSettings.php:829
+msgid "Comment should be marked for moderation when matched word from this list of comma-separated values. Also you may replace words with the folowing syntax: \"word:*\", where word is the matching word and after \":\" is the replacement character. Example, \"wor:*\" would make \"Hello world\" as \"Hello ***ld\""
+msgstr "El comentario será marcado para moderar cuando alguna de sus palabras coincida con la de esta lista de valores separados por coma. También puedes reemplazar palabras con la siguiente sintaxis: «palabra:*», donde «palabra» es la palabra que debe coincidir y lo que va detrás de « : »  es el carácter que reemplazará dicha palabra. Por ejemplo, «mun:*» convertiría «Hola, mundo» en «Hola, ***do». "
+
+#: templates/comments.php:27
+msgid "In order to use AnyComment.Cloud, you need to <a href=\"%s\" target=\"_blank\">register</a>, add website and click \"Synchronize\". This notification is not shown to regular users, just administrators and moderators."
+msgstr "Para usar AnyComment.Cloud, necesitas <a href=\"%s\" target=\"_blank\">registrarte</a>, añadir una web y hacer clic en «Sincronizar». Este aviso no lo verán los usuarios normales, solo los administradores y moderadores."
+
+#: includes/Rest/AnyCommentRestServiceSync.php:73
+msgid "API Key"
+msgstr "Clave de la API"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:193
+msgid "Synchronize all comments from website with <a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a>."
+msgstr "Sincroniza todos los comentarios de la web con <a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a>."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:192
+msgid "Synchronize comments with service"
+msgstr "Sincronizar los comentarios con el servicio"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:187
+msgid "Display comments from <a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a> instead of original AnyComment form."
+msgstr "Mostrar comentarios de <a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a> en lugar de los comentarios originales de AnyComment."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:186
+msgid "Display comments"
+msgstr "Mostrar los comentarios"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:178
+msgid "AnyComment.Cloud"
+msgstr "AnyComment.Cloud"
+
+#: includes/Options/AnyCommentOptionManager.php:129
+msgid "No page slug provided"
+msgstr "No se ha proporcionado el slug de la página"
+
+#: includes/Options/AnyCommentOptionManager.php:124
+msgid "Invalid nonce"
+msgstr "Nonce no válido"
+
+#: includes/Options/AnyCommentOptionManager.php:99
+msgid "Failed to save form. Please try again."
+msgstr "No se ha podido guardar el formulario. Por favor, inténtalo de nuevo."
+
+#: includes/Options/AnyCommentOptionManager.php:93
+msgid "Saved successfully"
+msgstr "Guardado correctamente"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:52
+msgid "You have Clearfy activated, please make sure \"Remove REST API Links\" is \"Off\" under \"Performance\" tab and all options under \"Server headers and response\" in \"SEO\" tab are \"Off\" as it may cause problems to load comments."
+msgstr "Tienes Clearfy activado. Por favor, asegúrate de que está desactivado «Eliminar los enlaces de la API REST» en la pestaña «Rendimiento» y que todas las opciones en «Cabeceras del servidor y respuesta», en la pestaña «SEO», estén desactivadas, ya que podrían causar problemas al cargar comentarios. "
+
+#: includes/Admin/AnyCommentProblemNotifier.php:44
+msgid "You have iThemes Security activated, please make sure \"Filter Long URL Strings\" is \"Off\" as it may cause problems."
+msgstr "Tienes iThemes Security activado. Por favor, asegúrate de que esté desactivado «Filtrar las cadenas largas de la URL», ya que podría causar problemas."
+
+#: includes/Models/AnyCommentEmailQueue.php:718
+msgid "Hello,"
+msgstr "Hola,"
+
+#: includes/Models/AnyCommentEmailQueue.php:639
+msgid "Hello %s,"
+msgstr "Hola %s,"
+
+#: templates/admin/tab-shortcodes.php:18
+msgid "- %s: to display only socials icons without starting paragraph, <br>- %s: URL where to redirect user after authorization"
+msgstr "- %s: para mostrar solo los iconos sociales sin el párrafo inicial, <br>- %s: la URL a la que redirigir al usuario tras ser autorizado"
+
+#: templates/admin/tab-shortcodes.php:17
+msgid "Possible options:"
+msgstr "Opciones posibles:"
+
+#: includes/Admin/AnyCommentGenericSettings.php:817
+msgid "Moderate only first comment any further should be posted without pre moderation. When \"Moderate First\" option enabled, comments from users with at least one approved comment would be accepted automatically."
+msgstr "Solo el primer comentario será moderado y los demás serán publicados sin moderación previa. Cuando la opción \"moderar primero\" esté activada, los comentarios de usuarios que tengan al menos un comentario aprobado serán aceptados de manera automática. "
+
+#: includes/Admin/AnyCommentGenericSettings.php:816
+msgid "Moderate first comment only"
+msgstr "Moderar solo el primer comentario"
+
+#: includes/Debug/DebugReportGenerator.php:51
+msgid "Extensions Loaded"
+msgstr "Extensiones cargadas"
+
+#: includes/Models/AnyCommentEmailQueue.php:725
+msgid "Moderate"
+msgstr "Moderar"
+
+#: includes/Models/AnyCommentEmailQueue.php:719
+msgid "New comment for %s on %s."
+msgstr "Un nuevo comentario para %s en %s."
+
+#: includes/Models/AnyCommentEmailQueue.php:647
+msgid "%s replied to the following:"
+msgstr "%s respondió a lo siguiente:"
+
+#: includes/Models/AnyCommentEmailQueue.php:640
+msgid "New reply for %s on %s."
+msgstr "Nueva respuesta para %s en %s."
+
+#: templates/admin/notifications/sync-information.php:223
+msgid "Learn more"
+msgstr "Más información"
+
+#: templates/admin/tab-addons.php:7
+msgid "AnyComment Analytics"
+msgstr "AnyComment Analytics"
+
+#: templates/admin/tab-tools.php:57
+msgid "This action would delete all imported comments from HyperComment that were improted via this tool."
+msgstr "Esta acción borrará todos los comentarios de HyperComment que han sido importados a través de esta herramienta. "
+
+#: templates/admin/tab-tools.php:56
+msgid "Revert"
+msgstr "Revertir"
+
+#: templates/admin/tab-tools.php:48
+msgid "Clicking on \"Import\"  would copy all comments from provided XML document via URL to your website. It would automatically match posts, pages and create comments for them. It means after page reloaded, you may go and check for imported comments."
+msgstr "Al hacer clic en \"importar\", copiarás todos los comentarios provistos por el documento XML, a través de la URL, a tu web. De manera automática emparejará las entradas, páginas, y generará los comentarios para ellas. Esto significa que, una vez que la página se recargue, puedes ir y comprobar los comentarios importados. "
+
+#: templates/admin/tab-tools.php:47
+msgid "Import"
+msgstr "Importar"
+
+#: templates/admin/tab-tools.php:33
+msgid "Enter URL to XML file to start importing comments from HyperComments."
+msgstr "Introduce la URL a un archivo XML para comenzar a importar comentarios de HyperComments."
+
+#: templates/admin/tab-tools.php:31
+msgid "Import HyperComments"
+msgstr "Importar HyperComments"
+
+#: includes/Admin/AnyCommentGenericSettings.php:579
+msgid "Show updated icon on each comment once it was modified."
+msgstr "Mostrar un icono de actualizado en cada comentario una vez que haya sido modificado. "
+
+#: includes/Admin/AnyCommentGenericSettings.php:578
+msgid "Show updated info"
+msgstr "Mostrar información de actualizado"
+
+#: includes/Widgets/Native/CommentList.php:238
+msgid "Number words before \"...\":"
+msgstr "Número de palabras antes de \"...\":"
+
+#: includes/AnyCommentRender.php:267
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1059
+msgid "Write custom CSS, it will be only related to AnyComment. Notice: you may require to drop the cache after your changes if you have any caching plugin installed."
+msgstr "Escribe CSS personalizado, sólo estará relacionado con AnyComment. Aviso: es posible que tengas que vaciar la caché después de hacer cambios si tienes algún plugin de caché instalado."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1058
+msgid "Custom CSS"
+msgstr "CSS Personallizado"
+
+#: includes/Admin/AnyCommentGenericSettings.php:430
+#: includes/Admin/AnyCommentGenericSettings.php:1052
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/Admin/AnyCommentGenericSettings.php:447
+msgid "Choose comment date & time format."
+msgstr "Elija el formato de fecha y hora de los comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:444
+msgid "Absolute (format taken from WordPress)"
+msgstr "Absoluto (formato tomado de WordPress)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:443
+msgid "Relative (e.g. 1 minute ago)"
+msgstr "Relativo (por ejemplo, hace 1 minuto)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:440
+msgid "Date & Time Format"
+msgstr "Formato de fecha y hora"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:254
+msgid "You have enabled reCAPTCHA, but did not specify fields: site key and site secret. These two fields are required."
+msgstr "Has habilitado reCAPTCHA, pero no has especificado los campos: clave de sitio y secreto de sitio. Estos dos campos son obligatorios."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:134
+msgid "You are using %s for caching. Go to \"Settings\" and make sure option \"304 Not Modified...\" is unchecked. If you're experiencing some problem with AnyComment, try to deactivate it and check whether problem was resolved"
+msgstr "Estás utilizando %s para el almacenamiento en caché. Ve a \"Ajustes\" y asegúrate de que la opción \"304 No modificado...\" no está seleccionada. Si tienes algún problema con AnyComment, intenta desactivarlo y comprueba si se ha resuelto el problema"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:305
+msgid "Position"
+msgstr "Posición"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:289
+msgid "Users affected by capcha."
+msgstr "Usuarios afectados por captcha."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:264
+msgid "Enable reCAPTCHA. Make sure you have set API keys below as it will not work properly without them."
+msgstr "Activar reCAPTCHA. Asegúrate de haber configurado debajo las claves del API porque si no no funcionará."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:248
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:239
+msgid "Force WP User Avatars"
+msgstr "Forzar el uso de avatares de WP"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:208
+msgid "Filter Spam via Akismet"
+msgstr "Filtrar spam con Akismet"
+
+#: includes/Admin/AnyCommentSocialSettings.php:490
+msgid "Enter client secret. It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "Introduce el secreto del cliente. Puedes encontrarlo después de <a href=\"%s\" target=\"_blank\">registrar</a> tu aplicación web"
+
+#: includes/Admin/AnyCommentSocialSettings.php:478
+msgid "Allow Mail.Ru authorization"
+msgstr "Permitir autorización de Mail.Ru"
+
+#: includes/Admin/AnyCommentSocialSettings.php:456
+msgid "Enter password (NOT your email password). It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "Introduce la contraseña (NO la contraseña de tu correo electrónico). Puedes encontrarlo después de <a href=\"%s\" target=\"_blank\">registrar</a> tu aplicación web"
+
+#: includes/Admin/AnyCommentSocialSettings.php:450
+#: includes/Admin/AnyCommentSocialSettings.php:484
+msgid "Enter id. It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "Introduce el id. Puedes encontrarlo después de <a href=\"%s\" target=\"_blank\">registrar</a> tu aplicación web"
+
+#: includes/Admin/AnyCommentSocialSettings.php:449
+#: includes/Admin/AnyCommentSocialSettings.php:483
+msgid "ID"
+msgstr "ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:444
+msgid "Allow Yandex authorization"
+msgstr "Permitir autorización de Yandex"
+
+#: includes/Admin/AnyCommentSocialSettings.php:472
+#: includes/AnyCommentSocials.php:91 includes/Rest/AnyCommentSocialAuth.php:280
+msgid "Mail.Ru"
+msgstr "Mail.Ru"
+
+#: includes/Admin/AnyCommentSocialSettings.php:438
+#: includes/AnyCommentSocials.php:84 includes/Rest/AnyCommentSocialAuth.php:279
+msgid "Yandex"
+msgstr "Yandex"
+
+#: includes/Rest/AnyCommentRestLikes.php:160
+msgid "dislike"
+msgstr "no me gusta"
+
+#: includes/Rest/AnyCommentRestLikes.php:160
+msgid "like"
+msgstr "me gusta"
+
+#: includes/Rest/AnyCommentRestLikes.php:159
+msgid "Failed to %s"
+msgstr "Error al %s"
+
+#: includes/Rest/AnyCommentRestLikes.php:111
+msgid "Sorry, rating type can be only %s or %s."
+msgstr "Lo siento, el tipo de valoración sólo puede ser %s o %s."
+
+#: includes/Rest/AnyCommentRestLikes.php:50
+msgid "Like - %d or dislike - %d."
+msgstr "Me gusta - %d o no me gusta - %d."
+
+#: includes/Rest/AnyCommentRestLikes.php:46
+msgid "Post id."
+msgstr "Id de entrada."
+
+#: includes/Rest/AnyCommentRestLikes.php:42
+msgid "Comment id."
+msgstr "Id de comentario."
+
+#: includes/Admin/AnyCommentGenericSettings.php:852
+msgid "Show comments in real-time. Users on the page would be notified about new comments by green alert and see comment without page reload."
+msgstr "Mostrar comentarios en tiempo real. Los usuarios de la página serán notificados de los nuevos comentarios por medio de una alerta verde y verán los comentarios sin necesidad de recargar la página."
+
+#: includes/Admin/AnyCommentGenericSettings.php:851
+msgid "Real-time updates"
+msgstr "Actualizaciones en tiempo real"
+
+#: includes/Admin/AnyCommentGenericSettings.php:403
+msgid "Type of rating used for single comment. Option \"Likes\" would display only heart like, whereas \"Likes and dislikes\" would display up and down options."
+msgstr "Tipo de calificación utilizado para comentarios individuales. La opción Me gusta mostraría sólo los corazones de Me gusta, mientras que la opción \"Me gusta y no me gusta\" mostraría las opciones hacia arriba y hacia abajo."
+
+#: includes/Admin/AnyCommentGenericSettings.php:400
+msgid "Likes and dislikes"
+msgstr "Me gusta y no me gusta"
+
+#: includes/Admin/AnyCommentGenericSettings.php:399
+msgid "Likes only"
+msgstr "Solo me gusta"
+
+#: includes/Admin/AnyCommentGenericSettings.php:396
+msgid "Comment rating"
+msgstr "Valoración del comentario"
+
+#: includes/Admin/AnyCommentSocialSettings.php:422
+msgid "Enter key. It can be found in the <a href=\"%s\" target=\"_blank\">Register Steam Web API Key</a>"
+msgstr "Introduce la clave. Puedes encontrarla en la página de <a href=\"%s\" target=\"_blank\">registrar clave de API web de Steam</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:421
+msgid "Key"
+msgstr "Key (llave)"
+
+#: includes/Admin/AnyCommentSocialSettings.php:416
+msgid "Allow Steam authorization"
+msgstr "Permitir autorización de Steam"
+
+#: includes/Admin/AnyCommentSocialSettings.php:410
+#: includes/AnyCommentSocials.php:98 includes/Rest/AnyCommentSocialAuth.php:281
+msgid "Steam"
+msgstr "Steam"
+
+#: includes/Widgets/Native/CommentList.php:284
+msgid "Author avatar size:"
+msgstr "Tamaño del avatar del autor:"
+
+#: includes/Widgets/Native/CommentList.php:275
+msgid "Author name color:"
+msgstr "Color del nombre del autor:"
+
+#: includes/Widgets/Native/CommentList.php:267
+msgid "Comment text color:"
+msgstr "Color del texto del comentario:"
+
+#: includes/Widgets/Native/CommentList.php:259
+msgid "Background color:"
+msgstr "Color del fondo:"
+
+#: includes/Widgets/Native/CommentList.php:253
+msgid "Font size:"
+msgstr "Tamaño de fuente:"
+
+#: includes/Widgets/Native/CommentList.php:246
+msgid "Number of comments to show:"
+msgstr "Número de comentarios a mostrar:"
+
+#: includes/Widgets/Native/CommentList.php:232
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/Widgets/Native/CommentList.php:137
+msgid "ago"
+msgstr "hace"
+
+#: includes/Widgets/Native/CommentList.php:26
+msgid "Your site&#8217;s most recent comments displayed using AnyComment."
+msgstr "Los comentarios más recientes de tu sitio mostrados con AnyComment."
+
+#: templates/admin/tab-help.php:30
+msgid "Demo"
+msgstr "Demo"
+
+#: templates/admin/tab-help.php:7
+msgid "or use this name \"%s\" to search"
+msgstr "o usa el nombre «%s» para buscar"
+
+#: includes/AnyCommentRender.php:304
+msgid "or as guest:"
+msgstr "o como invitado:"
+
+#: includes/AnyCommentRender.php:302
+msgid "Hide this message"
+msgstr "Ocultar este mensaje"
+
+#: includes/AnyCommentRender.php:274
+msgid "You may subscribe to new comments for this post by entering your email below:"
+msgstr "Puedes suscribirte a los nuevos comentarios de esta entrada introduciendo tu correo electrónico a continuación:"
+
+#: includes/AnyCommentRender.php:273
+msgid "You may subscribe to new comments by clicking \"Subscribe\" button below:"
+msgstr "Puede suscribirse a los nuevos comentarios haciendo clic en el botón \"Suscribirse\" a continuación:"
+
+#: includes/AnyCommentRender.php:270
+msgid "Check you email to confirm subscription"
+msgstr "Comprueba tu correo electrónico para confirmar la suscripción"
+
+#: templates/admin/tables/subscriptions.php:37
+msgid "Failed to delete selected subscribers."
+msgstr "No se pudieron eliminar los suscriptores seleccionados."
+
+#: templates/admin/tables/subscriptions.php:33
+msgid "Selected subscribers were deleted."
+msgstr "Los suscriptores seleccionados fueron eliminados."
+
+#: templates/admin/tables/rating.php:38
+msgid "Failed to delete selected ratings."
+msgstr "No se han eliminado las valoraciones seleccionadas."
+
+#: templates/admin/tables/rating.php:34
+msgid "Selected ratings were deleted."
+msgstr "Se eliminaron las valoraciones seleccionadas."
+
+#: templates/admin/tables/files.php:33
+msgid "Files were deleted."
+msgstr "Los archivos fueron borrados."
+
+#: templates/admin/tables/emails.php:37
+msgid "Failed to delete selected emails."
+msgstr "No se pudieron eliminar los correos electrónicos seleccionados."
+
+#: templates/admin/tables/emails.php:33
+msgid "Selected emails were deleted."
+msgstr "Los correos electrónicos seleccionados fueron eliminados."
+
+#: templates/admin/dashboard.php:40
+msgid "Telegram"
+msgstr "Telegram"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:87
+msgid "Sorry, this email is unavailable for subscription."
+msgstr "Lo siento, este correo electrónico no está disponible para la suscripción."
+
+#: includes/Models/AnyCommentEmailQueue.php:409
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: includes/Models/AnyCommentEmailQueue.php:304
+#: includes/Models/AnyCommentEmailQueue.php:306
+msgid "Subscription Confirmation For %s"
+msgstr "Confirmación de suscripción para %s"
+
+#: includes/EmailEndpoints.php:67
+msgid "Your email confirmed. You will redirected back to post in a moment."
+msgstr "Tu correo electrónico ha sido confirmado. En un momento serás redirigido a la entrada."
+
+#: includes/EmailEndpoints.php:66
+msgid "You were unsubscribed successfully. You will be redirect back to the post in a momemnt."
+msgstr "Te has dado de baja con éxito. En un momento serás redirigido a la entrada."
+
+#: includes/Debug/DebugReportGenerator.php:58
+msgid "Active Plugins"
+msgstr "Plugins activos"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:181
+msgid "Confirmation"
+msgstr "Confirmación"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:180
+msgid "Is Active?"
+msgstr "¿Está activo?"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:82
+msgid "No subscribers yet."
+msgstr "Aún no hay suscriptores."
+
+#: includes/Admin/Tables/AnyCommentRatingTable.php:82
+msgid "No rating yet."
+msgstr "No calificado aun."
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:208
+msgid "Is Sent?"
+msgstr "¿Ha sido enviado?"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:206
+msgid "Subject"
+msgstr "Asunto"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:204
+msgid "Comment"
+msgstr "Comentario"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:111
+msgid "Edit this comment"
+msgstr "Editar este comentario"
+
+#: includes/Admin/AnyCommentSubscriptionsPage.php:34
+#: includes/Admin/AnyCommentSubscriptionsPage.php:35
+#: templates/admin/tables/subscriptions.php:12
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+#: includes/Admin/AnyCommentRatingPage.php:26
+#: includes/Admin/AnyCommentRatingPage.php:27
+#: includes/Admin/Tables/AnyCommentRatingTable.php:177
+#: templates/admin/tables/rating.php:11
+msgid "Rating"
+msgstr "Valoración"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:60
+msgid "You have All In One WP Security activated, please make sure \"Disallow Unauthorized REST Requests\" is unchecked in <a href=\"%s\">here</a> and \"Bad Query Strings\" is unchecked in <a href=\"%s\">here</a> tab as it may cause problems to load comments."
+msgstr "Tienes activado All In One WP Security, por favor asegúrate de que la opción \"Bloquear peticiones REST no autorizadas\" esté desmarcada <a href=\"%s\">aquí</a> y que \"Bad Query Strings\" esté desmarcado <a href=\"%s\">aquí</a> ya que puede causar problemas con la carga de comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:934
+msgid "Confirmation link as button"
+msgstr "Enlace de confirmación como botón"
+
+#: includes/Admin/AnyCommentGenericSettings.php:933
+msgid "Confirmation link as text"
+msgstr "Enlace de confirmación como texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:924
+msgid "Email template for confirming subscription."
+msgstr "Plantilla del correo electrónico para confirmar la suscripción."
+
+#: includes/Admin/AnyCommentGenericSettings.php:923
+msgid "Subscription Confirmation Email Template"
+msgstr "Plantilla del correo electrónico de confirmación de suscripción"
+
+#: includes/Admin/AnyCommentGenericSettings.php:896
+msgid "Unsubscribe URL as text"
+msgstr "URL de baja como texto"
+
+#: includes/Admin/AnyCommentEmailQueuePage.php:34
+#: includes/Admin/AnyCommentEmailQueuePage.php:35
+#: templates/admin/tables/emails.php:12
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: templates/admin/tab-shortcodes.php:16
+msgid "Use this shortcode do display list of available social networks."
+msgstr "Utiliza este shortcode para mostrar la lista de redes sociales disponibles."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:130
+#: includes/Rest/AnyCommentRestSubscriptions.php:137
+msgid "Error, failed to subscribe. Please try again later."
+msgstr "Error, fallo en la suscripción. Por favor, inténtalo de nuevo más tarde."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:91
+msgid "This email is already subscribed for this post."
+msgstr "Este correo electrónico ya está suscrito a esta entrada."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:65
+msgid "Sorry, email is required."
+msgstr "Lo siento, el correo electrónico es obligatorio."
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:47
+msgid "Post ID to subscribe to"
+msgstr "ID de entrada a la suscribrse"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:43
+msgid "User email to subscribe"
+msgstr "Correo electrónico de usuario al que suscribirse"
+
+#: includes/Integrations/AnyCommentWooCommerce.php:47
+msgid "Reviews (%d)"
+msgstr "Valoraciones (%d)"
+
+#: includes/Hooks/AnyCommentNativeLoginForm.php:59
+msgid "or use any social:"
+msgstr "o usa cualquier red social:"
+
+#: includes/Admin/AnyCommentGenericSettings.php:888
+msgid "Email template for subscriptions."
+msgstr "Plantilla de correo electrónico para suscripciones."
+
+#: includes/Admin/AnyCommentGenericSettings.php:887
+msgid "Subscription Email Template"
+msgstr "Plantilla de correo electrónico de suscripción"
+
+#: includes/Admin/AnyCommentGenericSettings.php:881
+msgid "Show subscription form and notify active post subscribers. Make sure you have proper SMTP configurations in order to send emails."
+msgstr "Mostrar el formulario de suscripción y notificar a los suscriptores activos de la entrada. Asegúrate de que tienes la configuración SMTP adecuadas para enviar mensajes de correo electrónico."
+
+#: includes/Admin/AnyCommentGenericSettings.php:880
+msgid "Notify Post Subscribers"
+msgstr "Notificar a los suscriptores de la entrada"
+
+#: includes/Admin/AnyCommentGenericSettings.php:872
+msgid "Notify on new replies"
+msgstr "Notificación de nuevas respuestas"
+
+#: includes/Admin/AnyCommentGenericSettings.php:846
+msgid "Send name shown to email recipient. This could be your blog name."
+msgstr "Nombre usado como remitente del correo electrónico. Puede ser el nombre de tu blog."
+
+#: includes/Admin/AnyCommentGenericSettings.php:845
+msgid "Sender Name"
+msgstr "Nombre del Remitente"
+
+#: includes/Admin/AnyCommentGenericSettings.php:479
+msgid "Show admin bar for regular WordPress users and those who logged in via social."
+msgstr "Mostrar la barra de administración para los usuarios normales de WordPress y para aquellos que se conectaron por vía social."
+
+#: includes/Admin/AnyCommentGenericSettings.php:478
+msgid "Show Admin Bar"
+msgstr "Mostrar barra de administración"
+
+#: includes/Admin/AnyCommentGenericSettings.php:472
+msgid "Show list of available socials under WordPress's native login form."
+msgstr "Mostrar la lista de redes sociales disponibles en el formulario de inicio de sesión nativo de WordPress."
+
+#: includes/Admin/AnyCommentGenericSettings.php:471
+msgid "Show Login Page Socials"
+msgstr "Mostrar los sociales de la página de acceso"
+
+#: includes/AnyCommentRender.php:271
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: includes/AnyCommentRender.php:269
+msgid "You were subscribed successfully"
+msgstr "Se ha suscrito correctamente"
+
+#: includes/AnyCommentRender.php:251
+msgid "Edited"
+msgstr "Editado"
+
+#: includes/AnyCommentRender.php:250
+msgid "Waiting moderation"
+msgstr "Esperando moderación"
+
+#: includes/Models/AnyCommentEmailQueue.php:269
+#: includes/Models/AnyCommentEmailQueue.php:271
+msgid "New Comment in %s"
+msgstr "Nuevo comentario en %s"
+
+#: includes/Rest/AnyCommentRestComment.php:601
+msgid "Please login to leave a comment"
+msgstr "Inicia sesión para dejar un comentario"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:182
+msgid "It looks like you have hooks related to REST API in %s which may cause failure to load comments. If you are not sure how to fix it, contact plugin developer in on the contacts available in 'Help' tab."
+msgstr "Parece que tienes ganchos relacionados con la API REST en %s, lo que puede provocar que no se carguen los comentarios. Si no estás seguro de cómo arreglarlo, contacta con el desarrollador del plugin en los contactos disponibles en la pestaña 'Ayuda'."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:174
+msgid "You are using %s. If you're experiencing some problem with AnyComment, try to set option 'Show in REST API' as 'true' in 'Add/Edit Taxonomies' or deactivate it and check whether problem was resolved"
+msgstr "Estás utilizando %s. Si tienes algún problema con AnyComment, intenta configurar la opción `Mostrar en REST API' como `verdadero' en `Añadir/Editar Taxonomías' o desactivarla y comprobar si el problema ha sido resuelto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:563
+msgid "Socials only"
+msgstr "Sólo sociales"
+
+#: includes/Admin/AnyCommentGenericSettings.php:562
+msgid "WordPress only"
+msgstr "Sólo WordPress"
+
+#: includes/Admin/AnyCommentGenericSettings.php:561
+msgid "Anyone"
+msgstr "Cualquiera"
+
+#: includes/Admin/AnyCommentGenericSettings.php:453
+msgid "Number of minutes user can update his comment. \"0\" or empty for no limit."
+msgstr "Número de minutos que el usuario puede actualizar su comentario. \"0\" o vacío para sin límite."
+
+#: includes/Admin/AnyCommentGenericSettings.php:452
+msgid "Comment Update Time"
+msgstr "Tiempo de actualización de comentarios"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:276
+msgid "reCAPTCHA site secret. Can be found <a href=\"%s\">here</a> (register your website if does not exist). Please note that you should choose \"Invisible\" type in order for it to work."
+msgstr "Secreto del sitio de reCAPTCHA. Lo puedes encontrar <a href=\"%s\">aquí </a> (registra tu sitio web si no existe). Ten en cuenta que debes elegir el tipo \"Invisible\" para que funcione."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:270
+msgid "reCAPTCHA site key. Can be found <a href=\"%s\">here</a> (register your website if does not exist). Please note that you should choose \"Invisible\" type in order for it to work."
+msgstr "Clave de sitio reCAPTCHA. Lo puedes encontrar <a href=\"%s\">aquí </a> (registra su sitio web si no existe). Ten en cuenta que debe elegir el tipo \"Invisible\" para que funcione."
+
+#: includes/Admin/AnyCommentGenericSettings.php:715
+msgid "Global padding for all comments. You may use \"px\", \"em\" or \"%\"."
+msgstr "Relleno global para todos los comentarios. Puedes utilizar \"px\", \"em\" o \"%\"."
+
+#: includes/Admin/AnyCommentGenericSettings.php:714
+msgid "Global padding"
+msgstr "Relleno global"
+
+#: includes/Admin/AnyCommentGenericSettings.php:708
+msgid "Global margin for all comments. You may use \"px\", \"em\" or \"%\"."
+msgstr "Margen global para todos los comentarios. Puedes utilizar \"px\", \"em\" o \"%\"."
+
+#: includes/Admin/AnyCommentGenericSettings.php:707
+msgid "Global margin"
+msgstr "Margen global"
+
+#: includes/Admin/AnyCommentGenericSettings.php:701
+msgid "Global background border radius. Could be useful when you have background different then website primary color."
+msgstr "Radio de borde de fondo global. Puede ser útil cuando tienes un fondo diferente al color primario del sitio web."
+
+#: includes/Admin/AnyCommentGenericSettings.php:700
+msgid "Global background border radius"
+msgstr "Radio de borde de fondo global"
+
+#: includes/Admin/AnyCommentGenericSettings.php:695
+msgid "Global background color used for all comments."
+msgstr "Color de fondo global utilizado para todos los comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:694
+msgid "Global background color"
+msgstr "Color de fondo global"
+
+#: includes/Admin/AnyCommentGenericSettings.php:567
+msgid "Users who able to leave comments."
+msgstr "Usuarios que pueden dejar comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:552
+msgid "Elements"
+msgstr "Elementos"
+
+#: includes/AnyCommentRender.php:280
+#: includes/Rest/AnyCommentRestComment.php:688
+msgid "Comment will be shown once reviewed by moderator."
+msgstr "El comentario se mostrará cuando sea revisado por el moderador."
+
+#: includes/AnyCommentRender.php:303
+msgid "Login with"
+msgstr "Iniciar session con"
+
+#: includes/AnyCommentRender.php:278
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: includes/AnyCommentRender.php:277
+msgid "Guest"
+msgstr "Invitado"
+
+#: includes/AnyCommentRender.php:260
+msgid "editing"
+msgstr "edición"
+
+#: includes/Rest/AnyCommentRestRate.php:132
+msgid "Sorry, something went wrong. Please try to rate again."
+msgstr "Lo siento, algo salió mal. Por favor, intenta puntuar de nuevo."
+
+#: includes/Rest/AnyCommentRestRate.php:74
+msgid "Sorry, rating should be between 1 and 5."
+msgstr "Lo siento, la puntuación debe estar entre 1 y 5."
+
+#: includes/Rest/AnyCommentRestRate.php:70
+msgid "Sorry, rating is required."
+msgstr "Lo siento, la valoración es obligatoria."
+
+#: includes/Rest/AnyCommentRestRate.php:64
+#: includes/Rest/AnyCommentRestSubscriptions.php:69
+msgid "Sorry, post is required."
+msgstr "Lo siento, la entrada es obligatoria."
+
+#: includes/Rest/AnyCommentRestRate.php:46
+msgid "Rating from 1-5."
+msgstr "Calificación de 1 a 5."
+
+#: includes/Admin/AnyCommentGenericSettings.php:520
+msgid "Shorten long comments with \"Read more\" message."
+msgstr "Acortar los comentarios largos con el mensaje \"Leer más\"."
+
+#: includes/Admin/AnyCommentGenericSettings.php:519
+msgid "Shorten Long Comments"
+msgstr "Acortar comentarios largos"
+
+#: includes/Admin/AnyCommentGenericSettings.php:513
+msgid "Display 5 star rating above comments."
+msgstr "Mostrar la valoración de 5 estrellas encima de los comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:512
+msgid "Display Rating"
+msgstr "Mostrar valoración"
+
+#: includes/AnyCommentRender.php:287 includes/Rest/AnyCommentRestRate.php:101
+msgid "You have already rated"
+msgstr "Ya lo has valorado"
+
+#: templates/admin/tab-tools.php:28
+msgid "Open WooCommerce Product Comments"
+msgstr "Abrir comentarios de productos de WooCommerce"
+
+#: templates/admin/tab-tools.php:26
+msgid "Open Pages Comments"
+msgstr "Abrir comentarios de páginas"
+
+#: templates/admin/tab-tools.php:24
+msgid "Open Posts Comments"
+msgstr "Abrir comentarios de entradas"
+
+#: templates/admin/tab-tools.php:22
+msgid "Open All Comments"
+msgstr "Abrir todos los comentarios"
+
+#: templates/admin/tab-tools.php:20
+msgid "Other Helpers"
+msgstr "Otras ayudas"
+
+#: templates/admin/tab-tools.php:17
+msgid "Flush Comments"
+msgstr "Vaciar comentarios"
+
+#: templates/admin/tab-tools.php:15
+msgid "Flush All"
+msgstr "Vaciar todos"
+
+#: templates/admin/tab-tools.php:13
+msgid "Cache Manager"
+msgstr "Gestor de caché"
+
+#: includes/Debug/DebugReportGenerator.php:59
+msgid "Generated at"
+msgstr "Generado en"
+
+#: includes/Debug/DebugReportGenerator.php:49
+msgid "Locale"
+msgstr "Locale"
+
+#: includes/Debug/DebugReportGenerator.php:48
+msgid "PHP Version"
+msgstr "Versión de PHP"
+
+#: includes/Debug/DebugReportGenerator.php:47
+msgid "WordPress Version"
+msgstr "Versión de WordPress"
+
+#: includes/Debug/DebugReportGenerator.php:46
+msgid "AnyComment Version"
+msgstr "AnyComment Version"
+
+#: templates/admin/tab-tools.php:63
+msgid "Debug Information"
+msgstr "Información de depuración"
+
+#: templates/admin/tab-tools.php:9
+msgid "This page will have helpers and debug information related to the plugin. For example, version of plugin, WordPress or PHP. Also you may drop comments or global plugins cache, open comments for all posts, pages or WooCommerce products (when plugin activated)."
+msgstr "Esta página tendrá ayuda e información de depuración relacionada con el plugin. Por ejemplo, la versión del plugin, WordPress o PHP. También puedes vaciar la caché de comentarios o la caché global de plugins, abrir comentarios para todos las entradas, páginas o productos de WooCommerce (cuando el plugin está activado)."
+
+#: templates/admin/tab-tools.php:8 templates/admin/tabs.php:32
+msgid "Tools"
+msgstr "Herramientas"
+
+#: templates/admin/tabs.php:28
+msgid "Help"
+msgstr "Ayuda"
+
+#: templates/admin/tab-help.php:27
+msgid "All Guides"
+msgstr "Todas las guías"
+
+#: templates/admin/tab-help.php:24
+msgid "Set-up Socials"
+msgstr "Configurar sociales"
+
+#: templates/admin/tab-help.php:18
+msgid "Resources"
+msgstr "Recursos"
+
+#: templates/admin/tab-help.php:13
+msgid "GitHub Repository"
+msgstr "Repositorio de GitHub"
+
+#: templates/admin/tab-help.php:7
+msgid "Telegram Channel"
+msgstr "Canal de Telegram"
+
+#: templates/admin/tab-help.php:15
+msgid "Vkontakte Group"
+msgstr "Grupo de Vkontakte"
+
+#: templates/admin/tab-help.php:4
+msgid "Easiest way to get help is to use one of the links below"
+msgstr "La manera más fácil de obtener ayuda es usar uno de los siguientes enlaces"
+
+#: templates/admin/tab-help.php:2
+msgid "Need Help"
+msgstr "Necesitas Ayuda"
+
+#: includes/Admin/AnyCommentGenericSettings.php:968
+msgid "Allow to upload files."
+msgstr "Permitir subir archivos."
+
+#: includes/Admin/AnyCommentGenericSettings.php:967
+msgid "Allow File Uploads"
+msgstr "Permitir la subida de archivos"
+
+#: includes/Admin/AnyCommentGenericSettings.php:645
+msgid "Show clean formatting option in editor toolbar."
+msgstr "Mostrar la opción de limpiar formato en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:644
+msgid "Clean formatting"
+msgstr "Limpiar formato"
+
+#: includes/Admin/AnyCommentGenericSettings.php:638
+msgid "Show link option in editor toolbar."
+msgstr "Mostrar opción de enlace en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:637
+msgid "Link"
+msgstr "Enlace"
+
+#: includes/Admin/AnyCommentGenericSettings.php:631
+msgid "Show unordered list option in editor toolbar."
+msgstr "Mostrar la opción de lista desordenada en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:630
+msgid "Unordered list"
+msgstr "Lista desordenada"
+
+#: includes/Admin/AnyCommentGenericSettings.php:624
+msgid "Show ordered list option in editor toolbar."
+msgstr "Mostrar la opción de lista ordenada en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:623
+msgid "Ordered list"
+msgstr "Lista ordenada"
+
+#: includes/Admin/AnyCommentGenericSettings.php:617
+msgid "Show quote option in editor toolbar."
+msgstr "Mostrar opción de cita en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:616
+msgid "Quote"
+msgstr "Cita"
+
+#: includes/Admin/AnyCommentGenericSettings.php:610
+msgid "Show underline option in editor toolbar."
+msgstr "Mostrar la opción subrayar en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:609
+msgid "Underline"
+msgstr "Subrayado"
+
+#: includes/Admin/AnyCommentGenericSettings.php:603
+msgid "Show italic option in editor toolbar."
+msgstr "Mostrar la opción cursiva en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:602
+msgid "Italic"
+msgstr "Cursiva"
+
+#: includes/Admin/AnyCommentGenericSettings.php:596
+msgid "Show bold option in editor toolbar."
+msgstr "Mostrar la opción negrita en la barra de herramientas del editor."
+
+#: includes/Admin/AnyCommentGenericSettings.php:595
+msgid "Bold"
+msgstr "Negrita"
+
+#: includes/Admin/AnyCommentGenericSettings.php:589
+msgid "Enable editor toolbar (show options to modify comment text - bold, italics, etc)."
+msgstr "Habilitar la barra de herramientas del editor (mostrar opciones para modificar el texto de los comentarios - negrita, cursiva, etc.)."
+
+#: includes/Admin/AnyCommentGenericSettings.php:588
+msgid "Enable Toolbar"
+msgstr "Habilitar barra de herramientas"
+
+#: includes/AnyCommentUser.php:50
+msgctxt "REST API Comments Count"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: includes/AnyCommentRender.php:313
+msgid " of "
+msgstr " de "
+
+#: includes/AnyCommentRender.php:312
+msgid "Next (Right arrow key)"
+msgstr "Siguiente (Tecla Flecha Derecha)"
+
+#: includes/AnyCommentRender.php:311
+msgid "Previous (Left arrow key)"
+msgstr "Anterior (Tecla Flecha Izquierda)"
+
+#: includes/AnyCommentRender.php:310
+msgid "Close (Esc)"
+msgstr "Cerrar (Esc)"
+
+#: includes/Rest/AnyCommentRestDocuments.php:104
+msgid "Sorry, such file is unavailable"
+msgstr "Lo siento, ese archivo no está disponible"
+
+#: includes/Rest/AnyCommentRestDocuments.php:99
+msgid "File does not exist."
+msgstr "El archivo no existe."
+
+#: includes/Rest/AnyCommentRestDocuments.php:92
+msgid "Sorry, guests unable to delete files."
+msgstr "Lo siento, los invitados no pueden borrar archivos."
+
+#: includes/Rest/AnyCommentRestDocuments.php:59
+msgid "File ID"
+msgstr "ID del archivo"
+
+#: includes/Admin/AnyCommentSocialSettings.php:581
+msgid "Allow WordPress native authorization"
+msgstr "Permitir la autorización nativa de WordPress"
+
+#: includes/Admin/AnyCommentSocialSettings.php:580
+msgid "Enable Native"
+msgstr "Habilitar nativa"
+
+#: includes/Admin/AnyCommentGenericSettings.php:823
+msgid "Comment with links should be marked for moderation."
+msgstr "Los comentarios con enlaces deben ser marcados para su moderación."
+
+#: includes/Admin/AnyCommentGenericSettings.php:822
+msgid "Links on Hold"
+msgstr "Enlaces en espera"
+
+#: includes/Rest/AnyCommentSocialAuth.php:703
+msgid "login"
+msgstr "iniciar sesión"
+
+#: includes/Rest/AnyCommentSocialAuth.php:703
+msgid "email"
+msgstr "email"
+
+#: includes/Rest/AnyCommentSocialAuth.php:701
+msgid "Please use %s to login as this %s seems to be already taken."
+msgstr "Por favor, utiliza %s para iniciar sesión, ya que este %s parece que ya está tomado."
+
+#: includes/Admin/AnyCommentSocialSettings.php:301
+#: includes/Rest/AnyCommentSocialAuth.php:274 templates/admin/dashboard.php:52
+msgid "GitHub"
+msgstr "GitHub"
+
+#: includes/Admin/AnyCommentSocialSettings.php:164
+#: includes/Rest/AnyCommentSocialAuth.php:270 templates/admin/dashboard.php:44
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: includes/Admin/AnyCommentGenericSettings.php:384
+#: includes/Admin/AnyCommentGenericSettings.php:1035
+#: includes/AnyCommentRender.php:255
+msgid "Sorting"
+msgstr "Orden"
+
+#: includes/Rest/AnyCommentRestComment.php:570
+msgid "Captcha is incorrect. Please try again."
+msgstr "El captcha es incorrecto. Por favor, inténtalo de nuevo."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:310
+msgid "Inline"
+msgstr "Integrado"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:309
+msgid "Bottom left"
+msgstr "Abajo a la izquierda"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:308
+msgid "Bottom right"
+msgstr "Abajo a la derecha"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:275
+msgid "reCAPTCHA Site secret"
+msgstr "Clave secreta de reCAPTCHA"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:269
+msgid "reCAPTCHA Site key"
+msgstr "Clave de sitio de reCAPTCHA"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:286
+msgid "For logged in only"
+msgstr "Sólo para usuarios conectados"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:285
+msgid "For guests only"
+msgstr "Sólo para invitados"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:284
+msgid "For all"
+msgstr "Para todos"
+
+#: includes/Admin/AnyCommentGenericSettings.php:754
+msgid "Avatar border radius. You may use \"px\" or \"%\". \"50%\" will make avatars rounded."
+msgstr "Radio del borde del Avatar. Puedes utilizar \"px\" o \"%\". \"50%\" hará que los avatares sean redondos."
+
+#: includes/Admin/AnyCommentGenericSettings.php:753
+msgid "Avatar Border Radius"
+msgstr "Radio del borde del avatar"
+
+#: includes/Admin/AnyCommentGenericSettings.php:417
+msgid "Robohash (from Gravatar)"
+msgstr "Robohash (de Gravatar)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:416
+msgid "Retro (from Gravatar)"
+msgstr "Retro (de Gravatar)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:415
+msgid "Wavatar (from Gravatar)"
+msgstr "Wavatar (de Gravatar)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:414
+msgid "Monsteroid (from Gravatar)"
+msgstr "Monsteroide (de Gravatar)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:413
+msgid "Identicon (from Gravatar)"
+msgstr "Identicon (de Gravatar)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:412
+msgid "No avatar (from Gravatar)"
+msgstr "Sin avatar (de Gravatar)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:411
+msgid "No avatar (from AnyComment)"
+msgstr "Sin avatar (de AnyComment)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:420
+msgid "Default avatar when user does not have any."
+msgstr "Avatar por defecto cuando el usuario no tiene ninguno."
+
+#: includes/Admin/AnyCommentGenericSettings.php:408
+msgid "Default Avatar"
+msgstr "Avatar por defecto"
+
+#: includes/Admin/AnyCommentSocialSettings.php:575
+#: includes/AnyCommentSocials.php:122
+#: includes/Rest/AnyCommentSocialAuth.php:282
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/Rest/AnyCommentSocialAuth.php:695
+msgid "Please use normal login form, as this email is associated with a WordPress user."
+msgstr "Por favor, utiliza el formulario de inicio de sesión normal, este correo electrónico está asociado con un usuario de WordPress."
+
+#: templates/admin/tabs.php:24
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: templates/admin/tab-shortcodes.php:8
+msgid "Use this shortcode do display comment box in custom place (e.g. landing page)."
+msgstr "Utiliza este shortcode para mostrar el cuadro de comentarios en un lugar personalizado (por ejemplo, en una página de aterrizaje)."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:94
+msgid "You are using %s. This plugin is used to disable comments, please deactivate it as it may cause problems."
+msgstr "Estás utilizando %s. Este plugin se utiliza para desactivar comentarios, por favor desactívalo ya que puede causar problemas."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:70
+#: includes/Admin/AnyCommentProblemNotifier.php:78
+#: includes/Admin/AnyCommentProblemNotifier.php:86
+msgid "You are using %s for comments. This is same type of plugin as AnyComment, please deactivate it as it may cause problems."
+msgstr "Está utilizando %s para comentarios. Este es el mismo tipo de plugin que AnyComment, por favor desactívalo ya que puede causar problemas."
+
+#: includes/Admin/AnyCommentGenericSettings.php:906
+#: includes/Admin/AnyCommentGenericSettings.php:939
+msgid "More info"
+msgstr "Más información"
+
+#: includes/Admin/AnyCommentGenericSettings.php:901
+msgid "Reply link as button"
+msgstr "Enlace de respuesta como botón"
+
+#: includes/Admin/AnyCommentGenericSettings.php:900
+msgid "Reply link as text"
+msgstr "Enlace de respuesta como texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:899
+msgid "Comment text nicely formatted"
+msgstr "Texto de comentario bien formateado"
+
+#: includes/Admin/AnyCommentGenericSettings.php:898
+msgid "Comment text"
+msgstr "Texto del comentario"
+
+#: includes/Admin/AnyCommentGenericSettings.php:897
+#: includes/Admin/AnyCommentGenericSettings.php:932
+msgid "Post title in HTML link"
+msgstr "Título de la entrada en el enlace HTML"
+
+#: includes/Admin/AnyCommentGenericSettings.php:895
+#: includes/Admin/AnyCommentGenericSettings.php:931
+msgid "Post URL as text"
+msgstr "URL de entrada como texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:894
+#: includes/Admin/AnyCommentGenericSettings.php:930
+msgid "Post title as text"
+msgstr "Título de entrada como texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:893
+#: includes/Admin/AnyCommentGenericSettings.php:929
+msgid "Blog name in HTML link"
+msgstr "Nombre del blog en el enlace HTML"
+
+#: includes/Admin/AnyCommentGenericSettings.php:892
+#: includes/Admin/AnyCommentGenericSettings.php:928
+msgid "Blog link as text"
+msgstr "Enlace al blog como texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:891
+#: includes/Admin/AnyCommentGenericSettings.php:927
+msgid "Blog name as text"
+msgstr "Nombre del blog como texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:573
+msgid "Use this rearrange guest form fields or remove something. {name} is required and if you do not add it, it will be added by plugin. {name} is name field, {email} is email field, {website} is website field."
+msgstr "Utiliza esta opción para reorganizar los campos del formulario de invitado o eliminar algo. {name} es obligatorio y si no lo añades, el plugin lo hará. {name} es el campo de nombre, {email} es el campo de correo electrónico, {website} es el campo de sitio web."
+
+#: includes/Admin/AnyCommentGenericSettings.php:572
+msgid "Guest Fields"
+msgstr "Campos de invitados"
+
+#: includes/Admin/AnyCommentGenericSettings.php:388
+msgid "Oldest first"
+msgstr "Antiguos primero"
+
+#: includes/Admin/AnyCommentGenericSettings.php:387
+msgid "Newest first"
+msgstr "Más Recientes"
+
+#: includes/Admin/AnyCommentGenericSettings.php:391
+msgid "Default sorting."
+msgstr "Orden por defecto."
+
+#: templates/admin/notifications.php:19
+msgid "Good job! It looks like everything is okay."
+msgstr "¡Buen trabajo! Parece que todo está bien."
+
+#: templates/admin/notifications.php:6
+msgid "Please do not treat every notice below as a problem. They are generated based on the plugins you use, based on the WordPress version you run and environment you have. They should be treated as suggestions."
+msgstr "Por favor, no trates cada uno de los siguientes avisos como un problema. Se generan en función de los plugins que utilices, en función de la versión de WordPress que utilices y del entorno que tengas. Deberían tratarse como sugerencias."
+
+#: templates/admin/tables/files.php:37
+msgid "Failed to delete selected files."
+msgstr "No se pudieron eliminar los archivos seleccionados."
+
+#: templates/admin/dashboard.php:72
+msgid "Possible Problems"
+msgstr "Posibles problemas"
+
+#: includes/Rest/AnyCommentRestDocuments.php:158
+msgid "Missing file data"
+msgstr "Faltan datos de archivo"
+
+#: includes/Rest/AnyCommentRestDocuments.php:137
+msgid "Sorry, you have reached upload limit. Wait a little bit before uploading again."
+msgstr "Lo siento, has alcanzado el límite de subidas. Espera un poco antes de volver a subir archivos."
+
+#: includes/Rest/AnyCommentRestDocuments.php:115
+msgid "Sorry, guest users cannot upload files"
+msgstr "Lo siento, los usuarios invitados no pueden subir archivos"
+
+#: includes/Rest/AnyCommentRestDocuments.php:43
+#: includes/Rest/AnyCommentRestRate.php:50
+msgid "Post ID"
+msgstr "ID de la entrada"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:209
+#: includes/Admin/Tables/AnyCommentRatingTable.php:179
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:182
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:175
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:174
+msgid "URL"
+msgstr "URL"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:207
+#: includes/Admin/Tables/AnyCommentRatingTable.php:178
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:173
+msgid "IP"
+msgstr "IP"
+
+#: includes/Admin/Tables/AnyCommentRatingTable.php:176
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:179
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:172
+msgid "User"
+msgstr "Usuario"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:203
+#: includes/Admin/Tables/AnyCommentRatingTable.php:175
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:178
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:171
+msgid "Post"
+msgstr "Entrada"
+
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:79
+msgid "No files uploaded yet."
+msgstr "Aún no hay archivos subidos."
+
+#: includes/Admin/AnyCommentProblemNotifier.php:102
+#: includes/Admin/AnyCommentProblemNotifier.php:110
+#: includes/Admin/AnyCommentProblemNotifier.php:118
+#: includes/Admin/AnyCommentProblemNotifier.php:126
+#: includes/Admin/AnyCommentProblemNotifier.php:142
+#: includes/Admin/AnyCommentProblemNotifier.php:150
+#: includes/Admin/AnyCommentProblemNotifier.php:158
+#: includes/Admin/AnyCommentProblemNotifier.php:166
+msgid "You are using %s for caching. If you're experiencing some problem with AnyComment, try to deactivate it and check whether problem was resolved"
+msgstr "Estás utilizando %s para el almacenamiento en caché. Si tienes algún problema con AnyComment, intenta desactivarlo y comprueba si se ha resuelto el problema"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:36
+msgid "WordPress version you are using is lower then 3.7. AnyComment rely on REST API. WordPress introduced it in 3.7."
+msgstr "La versión de WordPress que estás utilizando es inferior a la 3.7. AnyComment depende de la API de REST. WordPress la introdujo en 3.7."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1010
+msgid "Maximum allowed file size in megabytes. For example, regular PNG image is about ~ 1.5-2MB, JPEG are even smaller."
+msgstr "Tamaño máximo de archivo permitido en megabytes. Por ejemplo, la imagen PNG normal es de aproximadamente ~ 1.5-2MB, JPEG es aún más pequeña."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1009
+msgid "File Size"
+msgstr "Tamaño de archivo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1004
+msgid "If user will cross the limit (defined above) within specified period (in seconds) in this field, he will be give a warning."
+msgstr "Si el usuario cruza el límite (definido anteriormente) dentro del período especificado (en segundos) en este campo, se le dará un aviso."
+
+#: includes/Admin/AnyCommentGenericSettings.php:1003
+msgid "File Upload Limit Period"
+msgstr "Período límite de subida de archivos"
+
+#: includes/Admin/AnyCommentGenericSettings.php:998
+msgid "Maximum number of files to upload per period defined in the field below."
+msgstr "Número máximo de archivos a subir por período definido en el campo de abajo."
+
+#: includes/Admin/AnyCommentGenericSettings.php:997
+msgid "File Upload Limit"
+msgstr "Tamaño máximo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:992
+msgid "Comma-separated list of allowed MIME types (e.g. .png, .jpg, etc). Alternatively, you may write \"image/*\" for all image types or \"audio/*\" for audios."
+msgstr "Lista separada por comas de los tipos MIME permitidos (por ejemplo, .png,.jpg, etc.). Alternativamente, puede escribir \"image/*\" para todos los tipos de imagen o \"audio/*\" para los de audio."
+
+#: includes/Admin/AnyCommentGenericSettings.php:991
+msgid "File MIME Types"
+msgstr "Tipos MIME de archivos"
+
+#: includes/Admin/AnyCommentGenericSettings.php:974
+msgid "Guest users can upload documents. Please be careful about this setting as some users may potentially misuse this and periodically upload unwanted files."
+msgstr "Los usuarios invitados pueden subir documentos. Ten cuidado con esta configuración, ya que algunos usuarios pueden hacer un mal uso de ella y cargar periódicamente archivos no deseados."
+
+#: includes/Admin/AnyCommentGenericSettings.php:973
+msgid "File Upload By Guests"
+msgstr "Subida de archivos por invitados"
+
+#: includes/Admin/AnyCommentGenericSettings.php:794
+msgid "Button background color when hovered or focused."
+msgstr "Color de fondo de los botones cuando se pasa el ratón por encima o reciben foco."
+
+#: includes/Admin/AnyCommentGenericSettings.php:793
+msgid "Button Background Color Active"
+msgstr "Color de fondo de botón activo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:787
+msgid "Button background color."
+msgstr "Color de fondo del botón."
+
+#: includes/Admin/AnyCommentGenericSettings.php:786
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: includes/Admin/AnyCommentGenericSettings.php:780
+msgid "Button text color."
+msgstr "Color del texto del Botón."
+
+#: includes/Admin/AnyCommentGenericSettings.php:779
+msgid "Button Color"
+msgstr "Botón: Color"
+
+#: includes/Admin/AnyCommentGenericSettings.php:774
+msgid "Button border radius."
+msgstr "Radio de borde del botón."
+
+#: includes/Admin/AnyCommentGenericSettings.php:773
+msgid "Button Radius"
+msgstr "Radio del botón"
+
+#: includes/Admin/AnyCommentGenericSettings.php:767
+msgid "Child comment avatar size. Usually, this is reply comment."
+msgstr "Tamaño del avatar de los comentarios hijos. Normalmente, son respuestas a comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:766
+msgid "Avatar Child Size"
+msgstr "Tamaño de avatar hijo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:760
+msgid "Parent comment avatar size."
+msgstr "Tamaño de avatar del comentario padre."
+
+#: includes/Admin/AnyCommentGenericSettings.php:759
+msgid "Avatar Parent Size"
+msgstr "Tamaño de avatar padre"
+
+#: includes/Admin/AnyCommentGenericSettings.php:747
+msgid "Attachment background color. For example, user may attach PNG image with transparent background. This color will be used as background behind the image."
+msgstr "Color de fondo de los archivos adjuntos. Por ejemplo, el usuario puede adjuntar una imagen PNG con fondo transparente. Este color se utilizará como fondo detrás de la imagen."
+
+#: includes/Admin/AnyCommentGenericSettings.php:746
+msgid "Attachment Background Color"
+msgstr "Color de fondo de adjunto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:740
+msgid "Attachments text color. For example, YouTube attachments do not have previews, instead they have \"YouTube\" text over."
+msgstr "Color del texto de los archivos adjuntos. Por ejemplo, los archivos adjuntos de YouTube no tienen vistas previas, sino que tienen el texto \"YouTube\" por encima."
+
+#: includes/Admin/AnyCommentGenericSettings.php:739
+msgid "Attachment Text Color"
+msgstr "Color de texto de adjunto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:733
+msgid "Form fields background color."
+msgstr "Color de fondo de los campos de formulario."
+
+#: includes/Admin/AnyCommentGenericSettings.php:732
+msgid "Form Fields Background"
+msgstr "Fondo de los campos de formulario"
+
+#: includes/Admin/AnyCommentGenericSettings.php:727
+msgid "Semi hidden color. This is used for dates, action links, etc."
+msgstr "Color semi oculto. Se utiliza para fechas, enlaces de acción, etc."
+
+#: includes/Admin/AnyCommentGenericSettings.php:726
+msgid "Semi Hidden Color"
+msgstr "Color semioculto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:688
+msgid "Links color."
+msgstr "Color de los enlaces."
+
+#: includes/Admin/AnyCommentGenericSettings.php:687
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: includes/Admin/AnyCommentGenericSettings.php:682
+msgid "Global text color."
+msgstr "Color de texto global."
+
+#: includes/Admin/AnyCommentGenericSettings.php:681
+msgid "Text Color"
+msgstr "Color del Texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:675
+msgid "Global font family."
+msgstr "Familia tipográfica global."
+
+#: includes/Admin/AnyCommentGenericSettings.php:674
+msgid "Font Choice"
+msgstr "Selección de fuentes"
+
+#: includes/Admin/AnyCommentGenericSettings.php:669
+msgid "Overal text size. You may use \"px\", \"pt\", \"em\" or \"%\"."
+msgstr "Tamaño de texto general. Puedes utilizar \"px\", \"pt\", \"em\" o \"%\"."
+
+#: includes/Admin/AnyCommentGenericSettings.php:668
+msgid "Text Size"
+msgstr "Tamaño de texto"
+
+#: includes/Admin/AnyCommentGenericSettings.php:721
+msgid "Border radius. You may use \"px\", \"em\" or \"%\"."
+msgstr "Radio del borde. Puedes utilizar \"px\", \"em\" o \"%\"."
+
+#: includes/Admin/AnyCommentGenericSettings.php:720
+msgid "Border radius"
+msgstr "Radio del borde"
+
+#: includes/Admin/AnyCommentGenericSettings.php:662
+msgid "Use custom design. Enable this option to display design changes from below."
+msgstr "Utilizar un diseño personalizado. Habilita esta opción para mostrar los cambios de diseño desde abajo."
+
+#: includes/Admin/AnyCommentGenericSettings.php:661
+msgid "Custom Design"
+msgstr "Diseño a medida"
+
+#: includes/Admin/AnyCommentGenericSettings.php:493
+msgid "Detect & display tweets from Twitter as embedded widget."
+msgstr "Detectar y mostrar tweets de Twitter como widgets incrustados."
+
+#: includes/Admin/AnyCommentGenericSettings.php:492
+msgid "Display Twitter Embeds"
+msgstr "Mostrar incrustaciones de Twitter"
+
+#: includes/Admin/AnyCommentFilesPage.php:34
+#: includes/Admin/AnyCommentFilesPage.php:35
+#: includes/Admin/AnyCommentGenericSettings.php:961
+#: templates/admin/tables/files.php:12
+msgid "Files"
+msgstr "Archivos"
+
+#: includes/AnyCommentRender.php:301
+msgid "Show less"
+msgstr "Mostrar menos"
+
+#: includes/AnyCommentRender.php:300
+msgid "Read more"
+msgstr "Leer más"
+
+#: includes/AnyCommentRender.php:299
+msgid "No file selected or select proper extension"
+msgstr "No se ha seleccionado ningún archivo o selecciona la extensión adecuada"
+
+#: includes/AnyCommentRender.php:297
+msgid "You may upload %s file(s) at maximum"
+msgstr "Puedes subir %s archivo(s) como máximo"
+
+#: includes/AnyCommentRender.php:296
+msgid "File %s is too big"
+msgstr "El archivo %s es demasiado grande"
+
+#: includes/AnyCommentRender.php:295
+msgid "Uploaded!"
+msgstr "¡Subido!"
+
+#: includes/AnyCommentRender.php:294
+msgid "Uploading..."
+msgstr "Subiendo..."
+
+#: includes/AnyCommentRender.php:293
+msgid "Upload file"
+msgstr "Subir archivo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:507
+msgid "Display image link from comment as attachment."
+msgstr "Mostrar el enlace de la imagen del comentario como archivo adjunto."
+
+#: includes/Admin/AnyCommentGenericSettings.php:506
+msgid "Display Image Attachments"
+msgstr "Mostrar adjuntos de imagen"
+
+#: includes/Admin/AnyCommentGenericSettings.php:500
+msgid "Display video link from comment as attachment."
+msgstr "Mostrar el enlace de vídeo de un comentario como archivo adjunto."
+
+#: includes/Admin/AnyCommentGenericSettings.php:499
+msgid "Display Video Attachments"
+msgstr "Mostrar adjuntos de vídeo"
+
+#: includes/Admin/AnyCommentGenericSettings.php:839
+msgid "Notifications"
+msgstr "Avisos"
+
+#: includes/Admin/AnyCommentGenericSettings.php:804
+msgid "Moderation"
+msgstr "Moderación"
+
+#: includes/Admin/AnyCommentGenericSettings.php:655
+msgid "Design"
+msgstr "Diseño"
+
+#: includes/Models/AnyCommentEmailQueue.php:237
+#: includes/Models/AnyCommentEmailQueue.php:239
+msgid "New Comment on %s"
+msgstr "Nuevo comentario en %s"
+
+#: includes/Models/AnyCommentEmailQueue.php:195
+#: includes/Models/AnyCommentEmailQueue.php:197
+msgid "Re: Comment on %s"
+msgstr "Re: Comentario sobre %s"
+
+#: includes/Rest/AnyCommentRestComment.php:629
+msgid "Provide valid email address."
+msgstr "Proporciona una dirección de correo electrónico válida."
+
+#: includes/Rest/AnyCommentRestComment.php:625
+msgid "Email field is required."
+msgstr "El campo correo electrónico es obligatorio."
+
+#: includes/Rest/AnyCommentRestComment.php:621
+msgid "Name is required."
+msgstr "Nombre requerido."
+
+#: includes/Rest/AnyCommentRestComment.php:607
+msgid "Please use any of the available social networks to leave a comment"
+msgstr "Por favor, utiliza cualquiera de las redes sociales disponibles para dejar un comentario"
+
+#: includes/Rest/AnyCommentRestComment.php:590
+#: includes/Rest/AnyCommentRestComment.php:794
+msgid "Comment cannot be empty."
+msgstr "El comentario no puede estar vacío."
+
+#: includes/Rest/AnyCommentRestComment.php:489
+msgid "User with such email is registered. Please login to leave a comment."
+msgstr "El usuario con ese correo electrónico está registrado. Por favor, inicia sesión para dejar un comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:487
+msgid "Email was used as social authorization. Please login using this method."
+msgstr "El correo electrónico fue utilizado como autorización social. Por favor, identifícate usando este método."
+
+#: includes/Admin/AnyCommentGenericSettings.php:564
+msgid "Guests only"
+msgstr "Sólo usuarios invitados"
+
+#: includes/Admin/AnyCommentGenericSettings.php:558
+msgid "Comment form"
+msgstr "Formulario de comentarios"
+
+#: includes/AnyCommentRender.php:286 templates/admin/dashboard.php:48
+msgid "Website"
+msgstr "Sitio web"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:205
+#: includes/AnyCommentRender.php:285
+msgid "Email"
+msgstr "Correo electronico"
+
+#: includes/AnyCommentRender.php:284
+msgid "Name"
+msgstr "Nombre"
+
+#: templates/admin/news-sidebar.php:52
+msgid "All News"
+msgstr "Todas las Noticias"
+
+#: templates/admin/news-sidebar.php:25
+msgid "New"
+msgstr "Nuevo"
+
+#: includes/Rest/AnyCommentRestComment.php:66
+msgid "Unique post ID"
+msgstr "ID único de entrada"
+
+#: includes/Cron/AnyCommentEmailQueueCron.php:44
+#: includes/Cron/AnyCommentServiceSyncCron.php:47
+msgid "Every Minute"
+msgstr "Cada minuto"
+
+#: includes/Admin/AnyCommentSocialSettings.php:621
+msgid "Read"
+msgstr "Lectura"
+
+#: includes/Admin/AnyCommentSocialSettings.php:620
+msgid "How To Set-Up %s"
+msgstr "Cómo configurar %s"
+
+#: includes/Admin/AnyCommentSocialSettings.php:559
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">my apps</a>"
+msgstr "Introduce el secreto del cliente. Puedes encontrarlo en <a href=\"%s\" target=\"_blank\">mis apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:553
+msgid "Enter app id. It can be found in the <a href=\"%s\" target=\"_blank\">my apps</a>"
+msgstr "Introduce el app id. Puedes encontrarlo en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:547
+msgid "Allow Yahoo authorization"
+msgstr "Permitir la autorización de Yahoo"
+
+#: includes/Admin/AnyCommentSocialSettings.php:524
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">your applications</a>"
+msgstr "Introduce el secreto del cliente. Puedes encontrarlo en <a href=\"%s\" target=\"_blank\">tus aplicaciones</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:518
+msgid "Enter client id. It can be found in the <a href=\"%s\" target=\"_blank\">your applications</a>"
+msgstr "Introduce el ID de cliente. Puede encontrarlo en <a href=\"%s\" target=\"_blank\">sus aplicaciones </a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:512
+msgid "Allow Dribbble authorization"
+msgstr "Permitir la autorización de Dribbble"
+
+#: includes/Admin/AnyCommentSocialSettings.php:394
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el secreto del cliente. Puedes encontrarlo en <a href=\"%s\" target=\"_blank\">mis apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:388
+msgid "Enter client id. It can be found in the <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el ID de cliente. Puedes encontrarlo en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:382
+msgid "Allow Twitch authorization"
+msgstr "Permitir autorización de Twitch"
+
+#: includes/Admin/AnyCommentGenericSettings.php:828
+msgid "Spam Words"
+msgstr "Palabras de spam"
+
+#: includes/Admin/AnyCommentGenericSettings.php:811
+msgid "Moderators should check comment before it appears."
+msgstr "Los moderadores deben revisar los comentarios antes de que aparezcan."
+
+#: includes/Admin/AnyCommentGenericSettings.php:873
+msgid "Notify users by email (if specified) about new replies. Make sure you have proper SMTP configurations in order to send emails."
+msgstr "Notificar a los usuarios por correo electrónico (si se ha especificado) sobre las nuevas respuestas. Asegúrese de que tienes la configuración SMTP adecuada para enviar mensajes de correo electrónico."
+
+#: includes/Admin/AnyCommentGenericSettings.php:866
+msgid "Notify administrator via email about new comment."
+msgstr "Notificar al administrador por correo electrónico acerca de un nuevo comentario."
+
+#: includes/Admin/AnyCommentGenericSettings.php:865
+msgid "Notify Administrator"
+msgstr "Avisar al administrador"
+
+#: includes/Admin/AnyCommentGenericSettings.php:858
+msgid "Interval (in seconds) to check for new comments. Minimum 5 and maximum is 100 seconds."
+msgstr "Intervalo (en segundos) para comprobar si hay nuevos comentarios. Mínimo 5 y máximo 100 segundos."
+
+#: includes/Admin/AnyCommentGenericSettings.php:857
+msgid "New Comment Interval Checking"
+msgstr "Intervalo de comprobación de nuevos comentarios"
+
+#: includes/Admin/AnyCommentGenericSettings.php:459
+msgid "Number of comments to load initially and per page."
+msgstr "Número de comentarios a cargar inicialmente y por página."
+
+#: includes/Admin/AnyCommentSocialSettings.php:540
+#: includes/AnyCommentSocials.php:105
+#: includes/Rest/AnyCommentSocialAuth.php:278
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: includes/Admin/AnyCommentSocialSettings.php:506
+#: includes/AnyCommentSocials.php:77 includes/Rest/AnyCommentSocialAuth.php:277
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: includes/Admin/AnyCommentSocialSettings.php:376
+#: includes/AnyCommentSocials.php:70 includes/Rest/AnyCommentSocialAuth.php:276
+msgid "Twitch"
+msgstr "Twitch"
+
+#: includes/AnyCommentRender.php:282
+msgid "New comment was added"
+msgstr "Se ha añadido un nuevo comentario"
+
+#: includes/Models/AnyCommentEmailQueue.php:501
+msgid "See"
+msgstr "Ver"
+
+#: includes/AnyCommentRender.php:289
+msgid "I accept the <a href=\"%s\"%s>User Agreement</a>"
+msgstr "Acepto las <a href=\"%s\"%s>condiciones de uso</a>"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:176
+#: includes/Admin/Tables/AnyCommentRatingTable.php:149
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:151
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:146
+#: includes/AnyCommentRender.php:266
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/Admin/AnyCommentGenericSettings.php:534
+msgid "Link to User Agreement, where described how your process users data once they authorize via social network and/or add new comment."
+msgstr "Enlace a las condiciones de uso, donde se describe cómo procesan los datos de los usuarios una vez que éstos los autorizan a través de la red social y/o añaden nuevos comentarios."
+
+#: includes/Admin/AnyCommentGenericSettings.php:533
+msgid "User Agreement Link"
+msgstr "Enlace de acuerdo de usuario"
+
+#: includes/Admin/AnyCommentGenericSettings.php:486
+msgid "Show link to user in the social media or website when available (name of the user will be clickable)."
+msgstr "Mostrar el enlace al usuario en los medios sociales o en el sitio web cuando esté disponible (se podrá hacer clic en el nombre del usuario)."
+
+#: includes/Admin/AnyCommentGenericSettings.php:431
+#: includes/AnyCommentRender.php:283
+msgid "Author"
+msgstr "Autor"
+
+#: includes/AnyCommentRender.php:275
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/AnyCommentRender.php:261
+msgid "Your comment..."
+msgstr "Tu comentario..."
+
+#: includes/AnyCommentRender.php:259
+msgid "reply to"
+msgstr "responder a"
+
+#: includes/AnyCommentRender.php:248
+msgid "Loading..."
+msgstr "Cargando…"
+
+#: includes/AnyCommentRender.php:247
+msgid "Oops, something went wrong..."
+msgstr "Vaya, algo ha salido mal..."
+
+#: includes/Admin/AnyCommentWPComments.php:63
+msgid "Social URL"
+msgstr "URL red social"
+
+#: includes/Admin/AnyCommentWPComments.php:37
+#: includes/Admin/AnyCommentWPComments.php:62
+msgid "Likes"
+msgstr "Likes"
+
+#: includes/Admin/AnyCommentGenericSettings.php:485
+msgid "Show Profile URL"
+msgstr "Mostrar URL del perfil"
+
+#: includes/Admin/AnyCommentGenericSettings.php:810
+msgid "Moderate First"
+msgstr "Moderar primero"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:297
+msgid "Light"
+msgstr "Claro"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:298
+msgid "Dark"
+msgstr "Oscuro"
+
+#: templates/admin/dashboard.php:22
+msgid "Please take a few seconds and <a href=\"%s\" target=\"_blank\">rate us on WordPress.org</a>. You are the one who can help to grow and make this plugin better!"
+msgstr "Por favor, tómate unos segundos y <a href=\"%s\" target=\"_blank\">valóranos en WordPress.org</a>. ¡Tú eres el que puede ayudar a crecer y mejorar este plugin!"
+
+#: includes/Rest/AnyCommentRestLikes.php:128
+msgid "Cannot create existing like."
+msgstr "No se puede crear un me gusta existente."
+
+#: includes/Rest/AnyCommentRestLikes.php:83
+#: includes/Rest/AnyCommentRestLikes.php:91
+msgid "Sorry, comment that you liked does not exist."
+msgstr "Lo siento, el comentario que te ha gustado no existe."
+
+#: includes/Rest/AnyCommentRestDocuments.php:119
+#: includes/Rest/AnyCommentRestDocuments.php:125
+#: includes/Rest/AnyCommentRestLikes.php:79
+#: includes/Rest/AnyCommentRestLikes.php:97
+#: includes/Rest/AnyCommentRestRate.php:80
+#: includes/Rest/AnyCommentRestSubscriptions.php:75
+msgid "Sorry, post does not exist."
+msgstr "Lo siento, la entrada no existe."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:240
+msgid "Use <a href=\"%s\">WP User Avatar</a> for handling avatars in the plugin."
+msgstr "Usar <a href=\"%s\">WP User Avatar</a> para manejar los avatares en el plugin."
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:233
+msgid "WP User Avatar"
+msgstr "WP Avatar Usuario"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:209
+msgid "Filter all new comments through <a href=\"%s\">Akismet Anti-Spam</a> plugin."
+msgstr "Filtrar todos los comentarios nuevos a través del plugin <a href=\"%s\">Akismet Anti-Spam</a>."
+
+#: includes/Admin/AnyCommentGenericSettings.php:465
+msgid "Load comments when user scrolls to it."
+msgstr "Cargar comentarios cuando el usuario se desplaza hacia ellos."
+
+#: includes/Admin/AnyCommentGenericSettings.php:464
+msgid "Load on Scroll"
+msgstr "Cargar al desplazarsse"
+
+#: includes/Admin/AnyCommentGenericSettings.php:429
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: includes/Admin/AnyCommentGenericSettings.php:435
+msgid "When users will authorize via plugin, they are being registered and be assigned with group selected above."
+msgstr "Cuando los usuarios autorizan a través del plugin, se registran y se les asigna el grupo seleccionado anteriormente."
+
+#: includes/Admin/AnyCommentGenericSettings.php:425
+msgid "Register User Group"
+msgstr "Registrar grupo de usuarios"
+
+#: includes/Admin/AnyCommentGenericSettings.php:350
+#: includes/Admin/AnyCommentGenericSettings.php:428
+msgid "Social Network Subscriber"
+msgstr "Suscriptor de red social"
+
+#. Author URI of the plugin
+msgid "http://bologer.ru"
+msgstr "http://bologer.ru"
+
+#. Author of the plugin
+msgid "Bologer"
+msgstr "Bologer"
+
+#. Description of the plugin
+msgid "AnyComment is an advanced commenting system for WordPress."
+msgstr "AnyComment es un sistema avanzado de comentarios para WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://anycomment.io"
+msgstr "https://anycomment.io"
+
+#: includes/AnyCommentRender.php:276
+msgid "Quick Login"
+msgstr "Inicio rápido"
+
+#: includes/AnyCommentRender.php:257
+msgid "oldest"
+msgstr "más antiguo"
+
+#: includes/AnyCommentRender.php:258
+msgid "newest"
+msgstr "el más nuevo"
+
+#: includes/AnyCommentRender.php:256
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: includes/AnyCommentRender.php:279
+msgid "Logout"
+msgstr "Salir"
+
+#: includes/AnyCommentRender.php:252
+msgid "Send"
+msgstr "Enviar"
+
+#: templates/admin/news-sidebar.php:45
+msgid "No news yet"
+msgstr "Aún no hay noticias"
+
+#: templates/admin/news-sidebar.php:2
+msgid "News"
+msgstr "Noticias"
+
+#: templates/admin/tab-dashboard.php:127
+msgid "No users yet"
+msgstr "Aún no hay usuarios"
+
+#: templates/admin/tab-dashboard.php:112
+msgid "Most Active Users"
+msgstr "Usuarios más activos"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:281
+#: templates/admin/tab-dashboard.php:75
+msgid "Users"
+msgstr "Usuarios"
+
+#: includes/Widgets/Native/CommentList.php:29
+#: templates/admin/tab-dashboard.php:64
+msgid "Comments"
+msgstr "Comentarios"
+
+#: templates/admin/tab-dashboard.php:42
+msgid "Overal Statistics"
+msgstr "Estadísticas generales"
+
+#: templates/admin/tab-dashboard.php:30 templates/admin/tab-dashboard.php:33
+msgid "All Comments"
+msgstr "Todos los comentarios"
+
+#: templates/admin/tab-dashboard.php:17 templates/admin/tab-dashboard.php:21
+msgid "Commentators"
+msgstr "Comentaristas"
+
+#: templates/admin/tabs.php:8
+msgid "Social"
+msgstr "Social"
+
+#: templates/admin/tab-help.php:21
+msgid "Official Website"
+msgstr "Web oficial"
+
+#: templates/admin/dashboard.php:16 templates/admin/tabs.php:5
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: includes/Admin/AnyCommentSocialSettings.php:360
+msgid "Enter client secret. Can be found in the email sent to you by Odnoklassniki"
+msgstr "Introduce el secreto del cliente. Puedes encontrarlo en el correo electrónico enviado por Odnoklassniki"
+
+#: includes/Admin/AnyCommentSocialSettings.php:353
+msgid "Enter app key. Can be found in the email sent to you by Odnoklassniki"
+msgstr "Introduce la clave de la aplicación. Puedes encontrarlo en el correo electrónico enviado por Odnoklassniki"
+
+#: includes/Admin/AnyCommentSocialSettings.php:352
+msgid "App Key"
+msgstr "App Key"
+
+#: includes/Admin/AnyCommentSocialSettings.php:347
+msgid "Enter app id. Can be found in the email sent to you by Odnoklassniki"
+msgstr "Introduzca el identificador de la aplicación. Se puede encontrar en el correo electrónico enviado por Odnoklassniki"
+
+#: includes/Admin/AnyCommentSocialSettings.php:341
+msgid "Allow Odnoklassniki authorization"
+msgstr "Permitir la autorización de Odnoklassniki"
+
+#: includes/Admin/AnyCommentSocialSettings.php:307
+msgid "Allow GitHub authorization"
+msgstr "Permitir la autorización de GitHub"
+
+#: includes/Admin/AnyCommentSocialSettings.php:285
+#: includes/Admin/AnyCommentSocialSettings.php:319
+msgid "Enter client secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el secreto de cliente. Puedes encontrarlo en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:284
+#: includes/Admin/AnyCommentSocialSettings.php:318
+#: includes/Admin/AnyCommentSocialSettings.php:393
+#: includes/Admin/AnyCommentSocialSettings.php:455
+#: includes/Admin/AnyCommentSocialSettings.php:489
+#: includes/Admin/AnyCommentSocialSettings.php:523
+#: includes/Admin/AnyCommentSocialSettings.php:558
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: includes/Admin/AnyCommentSocialSettings.php:279
+#: includes/Admin/AnyCommentSocialSettings.php:313
+msgid "Enter client id. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el ID de cliente. Puedes encontrarlo en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:278
+#: includes/Admin/AnyCommentSocialSettings.php:312
+#: includes/Admin/AnyCommentSocialSettings.php:387
+#: includes/Admin/AnyCommentSocialSettings.php:517
+msgid "Client ID"
+msgstr "Client ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:273
+msgid "Allow Google authorization"
+msgstr "Permitir la autorización de Google"
+
+#: includes/Admin/AnyCommentSocialSettings.php:251
+msgid "Enter app secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el app secret. Puedes encontrarlo en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:250
+#: includes/Admin/AnyCommentSocialSettings.php:359
+msgid "App Secret"
+msgstr "App Secret"
+
+#: includes/Admin/AnyCommentSocialSettings.php:245
+msgid "Enter app id. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el app id. Puedes encontrarlo en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:244
+#: includes/Admin/AnyCommentSocialSettings.php:346
+#: includes/Admin/AnyCommentSocialSettings.php:552
+msgid "App ID"
+msgstr "App ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:239
+msgid "Allow Facebook authorization"
+msgstr "Permitir la autorización de Facebook"
+
+#: includes/Admin/AnyCommentSocialSettings.php:217
+msgid "Enter consumer secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce el secreto del consumidor. Puede encontrarse en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:216
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: includes/Admin/AnyCommentSocialSettings.php:211
+msgid "Enter consumer key. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "Introduce la clave de consumidor final. Puede encontrarse en la lista de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:210
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: includes/Admin/AnyCommentSocialSettings.php:205
+msgid "Allow Twitter authorization"
+msgstr "Permitir la autorización de Twitter"
+
+#: includes/Admin/AnyCommentSocialSettings.php:183
+msgid "Enter secure key. Can be found in <a href=\"%s\" target=\"_blank\">apps</a> page"
+msgstr "Introduce la clave de seguridad. Puede encontrarse en la página de <a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:182
+msgid "Secure key"
+msgstr "Clave segura"
+
+#: includes/Admin/AnyCommentSocialSettings.php:177
+msgid "Enter app id. Can be found in <a href=\"%s\" target=\"_blank\">apps</a> page"
+msgstr "Introduce el identificador de la aplicación. Puede encontrarse en la página de<a href=\"%s\" target=\"_blank\">apps</a>"
+
+#: includes/Admin/AnyCommentSocialSettings.php:176
+#: includes/Rest/AnyCommentRestServiceSync.php:69
+msgid "Application ID"
+msgstr "ID de Solicitud"
+
+#: includes/Admin/AnyCommentSocialSettings.php:171
+msgid "Allow VK authorization"
+msgstr "Permitir autorización de VK"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:263
+#: includes/Admin/AnyCommentSocialSettings.php:170
+#: includes/Admin/AnyCommentSocialSettings.php:204
+#: includes/Admin/AnyCommentSocialSettings.php:238
+#: includes/Admin/AnyCommentSocialSettings.php:272
+#: includes/Admin/AnyCommentSocialSettings.php:306
+#: includes/Admin/AnyCommentSocialSettings.php:340
+#: includes/Admin/AnyCommentSocialSettings.php:381
+#: includes/Admin/AnyCommentSocialSettings.php:415
+#: includes/Admin/AnyCommentSocialSettings.php:443
+#: includes/Admin/AnyCommentSocialSettings.php:477
+#: includes/Admin/AnyCommentSocialSettings.php:511
+#: includes/Admin/AnyCommentSocialSettings.php:546
+msgid "Enable"
+msgstr "Activar"
+
+#: includes/Admin/AnyCommentSocialSettings.php:185
+#: includes/Admin/AnyCommentSocialSettings.php:219
+#: includes/Admin/AnyCommentSocialSettings.php:253
+#: includes/Admin/AnyCommentSocialSettings.php:287
+#: includes/Admin/AnyCommentSocialSettings.php:321
+#: includes/Admin/AnyCommentSocialSettings.php:362
+#: includes/Admin/AnyCommentSocialSettings.php:396
+#: includes/Admin/AnyCommentSocialSettings.php:424
+#: includes/Admin/AnyCommentSocialSettings.php:458
+#: includes/Admin/AnyCommentSocialSettings.php:492
+#: includes/Admin/AnyCommentSocialSettings.php:526
+#: includes/Admin/AnyCommentSocialSettings.php:561
+msgid "Callback URL"
+msgstr "URL de respuesta"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1098
+#: includes/Admin/AnyCommentIntegrationSettings.php:520
+#: includes/Admin/AnyCommentSocialSettings.php:646
+#: includes/AnyCommentRender.php:253
+#: includes/Options/AnyCommentOptionManager.php:289
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:202
+msgid "Akismet Anti-Spam"
+msgstr "Akismet Anti-Spam"
+
+#: templates/admin/tabs.php:16
+msgid "Integration"
+msgstr "Integración"
+
+#: includes/Admin/AnyCommentGenericSettings.php:540
+msgid "Show AnyComment's link in the footer of comments. Copyright helps to bring awareness of such plugin and bring people to allow us to understand that it is a wanted product and give more often updated."
+msgstr "Mostrar el enlace de AnyComment en el pie de página de los comentarios. Los derechos de autor ayudan a dar a conocer este tipo de plugin y a que la gente nos permita entender que es un producto apreciado y que se actualiza con más frecuencia."
+
+#: includes/Admin/AnyCommentGenericSettings.php:539
+msgid "Thanks"
+msgstr "Gracias"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:294
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/Admin/AnyCommentGenericSettings.php:458
+msgid "Number of Comments Loaded"
+msgstr "Número de comentarios cargados"
+
+#: includes/Admin/AnyCommentGenericSettings.php:379
+msgid "When on, comments are visible. When off, default WordPress' comments shown. This can be used to configure social networks on fresh installation."
+msgstr "Cuando está activado, los comentarios son visibles. Cuando está desactivado, se muestran los comentarios predeterminados de WordPress. Esto se puede utilizar para configurar redes sociales en una nueva instalación."
+
+#: includes/Admin/AnyCommentGenericSettings.php:378
+msgid "Enable Comments"
+msgstr "Habilitar comentarios"
+
+#: includes/Debug/DebugReportGenerator.php:55
+msgid "Generic Settings"
+msgstr "Ajustes generales"
+
+#: includes/Admin/AnyCommentGenericSettings.php:371
+msgid "Generic"
+msgstr "Genérico"
+
+#: templates/admin/tabs.php:12
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Plugin Name of the plugin
+#: includes/Admin/AnyCommentAdminPages.php:75
+#: includes/Admin/AnyCommentAdminPages.php:76 templates/admin/dashboard.php:31
+#: templates/admin/dashboard.php:32
+msgid "AnyComment"
+msgstr "AnyComment"
+
+#: includes/AnyCommentRender.php:263
+msgid "Add Anycomment to your site"
+msgstr "Añade Anycomment a tu sitio"
+
+#: includes/AnyCommentRender.php:262
+msgid "No comments to display"
+msgstr "No hay comentarios que mostrar"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:111
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:141
+#: includes/Admin/Tables/AnyCommentRatingTable.php:118
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:118
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:115
+#: includes/AnyCommentRender.php:265
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/AnyCommentRender.php:254 includes/AnyCommentRender.php:264
+#: includes/Models/AnyCommentEmailQueue.php:646
+msgid "Reply"
+msgstr "Responder"
+
+#: includes/AnyCommentRender.php:249
+msgid "Load more"
+msgstr "Cargar más"
+
+#: includes/Admin/AnyCommentSocialSettings.php:335
+#: includes/AnyCommentSocials.php:63 includes/Rest/AnyCommentSocialAuth.php:275
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: includes/AnyCommentSocials.php:56
+msgid "Github"
+msgstr "GitHub"
+
+#: includes/Admin/AnyCommentSocialSettings.php:267
+#: includes/AnyCommentSocials.php:49 includes/Rest/AnyCommentSocialAuth.php:273
+msgid "Google"
+msgstr "Google"
+
+#: includes/Admin/AnyCommentSocialSettings.php:233
+#: includes/AnyCommentSocials.php:42 includes/Rest/AnyCommentSocialAuth.php:271
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/Admin/AnyCommentSocialSettings.php:199
+#: includes/AnyCommentSocials.php:35 includes/Rest/AnyCommentSocialAuth.php:272
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/AnyCommentSocials.php:28
+msgid "VK"
+msgstr "VK"
+
+#: includes/Rest/AnyCommentRestComment.php:1461
+msgid "The password for the post if it is password protected."
+msgstr "La contraseña para la entrada si está protegida por contraseña."
+
+#: includes/Rest/AnyCommentRestComment.php:1454
+msgid "Limit result set to comments assigned a specific type. Requires authorization."
+msgstr "Limitar el conjunto de resultados a los comentarios asignados a un tipo específico. Requiere autorización."
+
+#: includes/Rest/AnyCommentRestComment.php:1446
+msgid "Limit result set to comments assigned a specific status. Requires authorization."
+msgstr "Limitar el conjunto de resultados a los comentarios asignados a un estado específico. Requiere autorización."
+
+#: includes/Rest/AnyCommentRestComment.php:1437
+msgid "Limit result set to comments assigned to specific post IDs."
+msgstr "Limitar el resultado a comentarios asignados a ID de entrada específicos."
+
+#: includes/Rest/AnyCommentRestComment.php:1428
+msgid "Ensure result set excludes specific parent IDs."
+msgstr "Asegúrate de que el conjunto de resultados excluya los IDs superiores específicos."
+
+#: includes/Rest/AnyCommentRestComment.php:1419
+msgid "Limit result set to comments of specific parent IDs."
+msgstr "Limita el resultado a comentarios con ID superiores específicos."
+
+#: includes/Rest/AnyCommentRestComment.php:1403
+msgid "Sort collection by object attribute."
+msgstr "Ordenar el conjunto por el atributo del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1393
+msgid "Order sort attribute ascending or descending."
+msgstr "Ordenar atributo de manera ascendente o descendente."
+
+#: includes/Rest/AnyCommentRestComment.php:1388
+msgid "Offset the result set by a specific number of items."
+msgstr "Saltar un número específico de artículos en los resultados."
+
+#: includes/Rest/AnyCommentRestComment.php:1379
+msgid "Limit result set to specific IDs."
+msgstr "Limitar el resultado a IDs específicos."
+
+#: includes/Rest/AnyCommentRestComment.php:1370
+msgid "Ensure result set excludes specific IDs."
+msgstr "Asegurar que los resultados excluyan IDs específicas."
+
+#: includes/Rest/AnyCommentRestComment.php:1364
+msgid "Limit response to comments published before a given ISO8601 compliant date."
+msgstr "Limita la respuesta a comentarios publicados antes de una fecha dada compatible con ISO8601."
+
+#: includes/Rest/AnyCommentRestComment.php:1358
+msgid "Limit result set to that from a specific author email. Requires authorization."
+msgstr "Limitar el conjunto de resultados a aquellos con un correo electrónico de autor específico. Requiere autorización."
+
+#: includes/Rest/AnyCommentRestComment.php:1349
+msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
+msgstr "Asegurarse de que el conjunto de resultados excluye los comentarios asignados a IDs de usuario específicos. Requiere autorización."
+
+#: includes/Rest/AnyCommentRestComment.php:1341
+msgid "Limit result set to comments assigned to specific user IDs. Requires authorization."
+msgstr "Limitar el conjunto de resultados a comentarios asignados a identificadores de usuario específicos. Requier autorización."
+
+#: includes/Rest/AnyCommentRestComment.php:1335
+msgid "Limit response to comments published after a given ISO8601 compliant date."
+msgstr "Limita la respuesta a comentarios publicados después de una fecha dada compatible con ISO8601."
+
+#: includes/Rest/AnyCommentRestComment.php:1310
+msgid "Avatar URLs for the object author."
+msgstr "URL del avatar del autor del objeto."
+
+#. translators: %d: avatar image size in pixels
+#: includes/Rest/AnyCommentRestComment.php:1302
+msgid "Avatar URL with image size of %d pixels."
+msgstr "URL del Avatar con un tamaño de imagen de %d píxeles."
+
+#: includes/Rest/AnyCommentRestComment.php:1287
+msgid "Type of Comment for the object."
+msgstr "Tipo de comentario para el objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1279
+msgid "State of the object."
+msgstr "Estado del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1273
+msgid "The ID of the associated post object."
+msgstr "El ID del objeto asociado a la publicación."
+
+#: includes/Rest/AnyCommentRestComment.php:1267
+msgid "The ID for the parent of the object."
+msgstr "El ID del superior del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1260
+msgid "URL to the object."
+msgstr "URL del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1254
+msgid "The date the object was published, as GMT."
+msgstr "La fecha de publicación del objeto, como GMT."
+
+#: includes/Rest/AnyCommentRestComment.php:1248
+msgid "The date the object was published, in the site's timezone."
+msgstr "La fecha de publicación del objeto, en el huso horario del sitio."
+
+#: includes/Rest/AnyCommentRestComment.php:1240
+msgid "HTML content for the object, transformed for display."
+msgstr "Contenido HTML para el objeto, transformado para su visualización."
+
+#: includes/Rest/AnyCommentRestComment.php:1235
+msgid "Content for the object, as it exists in the database."
+msgstr "Contenido del objeto, tal como existe en la base de datos."
+
+#: includes/Rest/AnyCommentRestComment.php:1224
+msgid "The content for the object."
+msgstr "El contenido para el objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1216
+msgid "User agent for the object author."
+msgstr "Agente de usuario para el autor del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1210
+msgid "URL for the object author."
+msgstr "URL del autor del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1202
+msgid "Display name for the object author."
+msgstr "Muestra el nombre del autor del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1196
+msgid "IP address for the object author."
+msgstr "Dirección IP del autor del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1190
+msgid "Email address for the object author."
+msgstr "Dirección de correo electrónico del autor del objeto."
+
+#: includes/Rest/AnyCommentRestComment.php:1185
+msgid "The ID of the user object, if author was a user."
+msgstr "El ID del objeto del usuario, si el autor era un usuario."
+
+#: includes/Rest/AnyCommentRestComment.php:1135
+msgid "Invalid comment author ID."
+msgstr "ID de autor de comentario no válido."
+
+#: includes/Rest/AnyCommentRestComment.php:906
+msgid "The comment cannot be deleted."
+msgstr "El comentario no puede ser borrado."
+
+#: includes/Rest/AnyCommentRestComment.php:897
+msgid "The comment has already been trashed."
+msgstr "El comentario ya está en la papelera."
+
+#. translators: %s: force=true
+#: includes/Rest/AnyCommentRestComment.php:893
+msgid "The comment does not support trashing. Set '%s' to delete."
+msgstr "El comentario no se puede enviar a la papelera. Ponlo a '%s' para borrar."
+
+#: includes/Rest/AnyCommentRestComment.php:854
+msgid "Sorry, you are not allowed to delete this comment."
+msgstr "Lo siento, no tienes permisos para borrar este comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:809
+msgid "Updating comment failed."
+msgstr "La actualización del comentario falló."
+
+#: includes/Rest/AnyCommentRestComment.php:786
+msgid "Updating comment status failed."
+msgstr "La actualización del estado del comentario falló."
+
+#: includes/Rest/AnyCommentRestComment.php:765
+msgid "Sorry, you are not allowed to change the comment type."
+msgstr "Lo siento, no tienes permisos para cambiar el tipo de comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:739
+msgid "Sorry, you are not allowed to edit this comment."
+msgstr "Lo siento, no estás autorizado a editar este comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:669
+msgid "Creating comment failed."
+msgstr "Falló la creación del comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:649
+#: includes/Rest/AnyCommentRestComment.php:803
+msgid "Comment field exceeds maximum length allowed."
+msgstr "El campo de comentario excede la longitud máxima permitida."
+
+#: includes/Rest/AnyCommentRestComment.php:560
+msgid "Cannot create existing comment."
+msgstr "No se puede crear un comentario ya existente."
+
+#: includes/Rest/AnyCommentRestComment.php:542
+msgid "Sorry, comments are closed for this item."
+msgstr "Lo siento, los comentarios están cerrados para este elemento."
+
+#: includes/Rest/AnyCommentRestComment.php:530
+#: includes/Rest/AnyCommentRestComment.php:534
+#: includes/Rest/AnyCommentRestDocuments.php:129
+#: includes/Rest/AnyCommentRestDocuments.php:133
+#: includes/Rest/AnyCommentRestLikes.php:101
+#: includes/Rest/AnyCommentRestLikes.php:105
+#: includes/Rest/AnyCommentRestRate.php:84
+#: includes/Rest/AnyCommentRestRate.php:88
+#: includes/Rest/AnyCommentRestSubscriptions.php:79
+#: includes/Rest/AnyCommentRestSubscriptions.php:83
+msgid "Sorry, you are not allowed to create a comment on this post."
+msgstr "Lo siento, no tienes permisos para crear un comentario en esta entrada."
+
+#: includes/Rest/AnyCommentRestComment.php:521
+#: includes/Rest/AnyCommentRestComment.php:526
+msgid "Sorry, you are not allowed to create this comment without a post."
+msgstr "Lo siento, no tienes permisos para crear este comentario sin una entrada."
+
+#. translators: %s: request parameter
+#: includes/Rest/AnyCommentRestComment.php:497
+#: includes/Rest/AnyCommentRestComment.php:506
+#: includes/Rest/AnyCommentRestComment.php:515
+msgid "Sorry, you are not allowed to edit '%s' for comments."
+msgstr "Lo siento, no tienes permisos para editar '%s' de los comentarios."
+
+#: includes/Rest/AnyCommentRestComment.php:440
+msgid "Sorry, you are not allowed to read this comment."
+msgstr "Lo siento, no tienes permisos para ver este comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:411
+#: includes/Rest/AnyCommentRestComment.php:777
+msgid "Invalid post ID."
+msgstr "ID de entrada no válido."
+
+#: includes/Rest/AnyCommentRestComment.php:397
+msgid "Invalid comment ID."
+msgstr "El ID del comentario no es válido."
+
+#: includes/Rest/AnyCommentRestComment.php:179
+msgid "Query parameter not permitted: %s"
+msgstr "Parámetro de consulta no permitido: %s"
+
+#: includes/Rest/AnyCommentRestComment.php:157
+#: includes/Rest/AnyCommentRestComment.php:434
+msgid "Sorry, you are not allowed to edit comments."
+msgstr "Lo siento, no tienes permisos para editar comentarios."
+
+#: includes/Rest/AnyCommentRestComment.php:151
+msgid "Sorry, you are not allowed to read comments without a post."
+msgstr "Lo siento, no tienes permisos para leer comentarios sin una entrada."
+
+#: includes/Rest/AnyCommentRestComment.php:149
+#: includes/Rest/AnyCommentRestComment.php:444
+#: includes/Rest/AnyCommentRestComment.php:538
+msgid "Sorry, you are not allowed to read the post for this comment."
+msgstr "Lo siento, no tienes permisos para leer la entrada de este comentario."
+
+#: includes/Rest/AnyCommentRestComment.php:104
+msgid "The password for the parent post of the comment (if the post is password protected)."
+msgstr "La contraseña de la entrada superior del comentario (si la entrada está protegida por contraseña)."
+
+#: includes/Rest/AnyCommentRestComment.php:93
+#: includes/Rest/AnyCommentRestComment.php:121
+#: includes/Rest/AnyCommentRestComment.php:1179
+#: includes/Rest/AnyCommentRestLikes.php:61
+msgid "Unique identifier for the object."
+msgstr "Identificador único para el objeto."

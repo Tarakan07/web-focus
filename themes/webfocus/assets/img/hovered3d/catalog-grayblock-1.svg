@@ -1,0 +1,51 @@
+<svg width="342" height="181" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#A57CFE" d="M173.5 55.5h100v100h-100z"/>
+  <path d="M162 34.5L128.5 55M165 44.5L131.5 65M158.5 24.5l-34 20" stroke="#000"/>
+  <circle cx="289.5" cy="52.5" r="8" fill="#8052E4"/>
+  <path fill="#31D67B" d="M74.5 25.5h61v61h-61z"/>
+  <mask id="a" maskUnits="userSpaceOnUse" x="74" y="25" width="62" height="62">
+    <path transform="translate(74.5 25.5)" fill="#31D67B" d="M0 0h61v61H0z"/>
+  </mask>
+  <g mask="url(#a)" stroke="#4AE991" stroke-width="2">
+    <path d="M0 41c46.7-26.7 80-26.7 100 0 20 26.6 53.3 26.6 100 0"/>
+    <path d="M5.9 92C41.6 52 73.2 41.3 100.7 60.2c27.4 19 59 8.4 94.8-31.7"/>
+    <path d="M2 74.4c48.6-23 81.8-20.3 99.7 7.8 17.8 28.2 51 30.8 99.7 7.9"/>
+  </g>
+  <mask id="b" maskUnits="userSpaceOnUse" x="173" y="55" width="101" height="101">
+    <path transform="translate(173.5 55.5)" fill="#31D67B" d="M0 0h100v100H0z"/>
+  </mask>
+  <g mask="url(#b)" stroke="#4AE991" stroke-width="2">
+    <path d="M51.4 80.8c76.5-43.7 131.1-43.7 164 0 32.7 43.7 87.3 43.7 163.9 0"/>
+    <path d="M61 164.5c58.6-65.7 110.4-83 155.4-52s96.8 13.6 155.4-52.1"/>
+    <path d="M54.6 135.6c79.7-37.5 134.2-33.2 163.4 13 29.3 46 83.8 50.4 163.5 12.8"/>
+  </g>
+  <circle cx="51.9" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="57.6" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="63.4" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.9" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="74.9" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="80.6" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="86.4" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="92.1" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="97.9" cy="80.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="51.9" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="57.6" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="51.9" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="57.6" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="63.4" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="69.1" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="74.9" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="80.6" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="86.4" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="92.1" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="97.9" cy="92.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="63.4" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.9" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="74.9" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="80.6" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="86.4" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="92.1" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <circle cx="97.9" cy="86.6" r="1.4" fill="#D4D4D4"/>
+  <path d="M45.5 81v-6.5H52M105 90.5V97h-6.5" stroke="#000"/>
+  <circle cx="173.5" cy="128.5" r="19" fill="#B491FF"/>
+</svg>

@@ -1,0 +1,61 @@
+<svg width="341" height="180" viewBox="0 0 341 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="139" height="139" rx="69.5" transform="matrix(1 0 0 -1 145.622 159.5)" fill="#AB85FF"/>
+<path d="M271.252 42.4688L351.315 167.11H191.189L271.252 42.4688Z" fill="#8052E4"/>
+<path d="M201.841 42.4688L281.904 167.11H121.777L201.841 42.4688Z" fill="#8052E4"/>
+</g>
+<circle cx="45.9971" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="51.7471" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="57.4971" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="63.2471" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="68.9971" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="74.7471" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="80.4971" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="86.2471" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="91.9971" cy="130.508" r="1.375" fill="#D4D4D4"/>
+<circle cx="45.9971" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="51.7471" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="45.9971" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="51.7471" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="57.4971" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="63.2471" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="68.9971" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="74.7471" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="80.4971" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="86.2471" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="91.9971" cy="142.008" r="1.375" fill="#D4D4D4"/>
+<circle cx="57.4971" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="63.2471" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="68.9971" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="74.7471" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="80.4971" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="86.2471" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<circle cx="91.9971" cy="136.258" r="1.375" fill="#D4D4D4"/>
+<rect width="9" height="49" transform="translate(88.6221 104.633)" fill="#31D67B"/>
+<rect width="9" height="87" transform="translate(105.622 66.6328)" fill="#31D67B"/>
+<rect width="9" height="117" transform="translate(122.622 36.6328)" fill="#31D67B"/>
+<circle cx="288.632" cy="31.6637" r="10.6637" stroke="black"/>
+<circle cx="299.796" cy="31.6639" r="5.08182" stroke="black"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="35" y="39" width="66" height="56">
+<path d="M52.1221 40.1328L60.1221 94.1328" stroke="black"/>
+<path d="M56.6221 40.1328L64.6221 94.1328" stroke="black"/>
+<path d="M61.6221 40.1328L69.6221 94.1328" stroke="black"/>
+<path d="M66.6221 40.1328L74.6221 94.1328" stroke="black"/>
+<path d="M71.6221 39.1328L79.6221 93.1328" stroke="black"/>
+<path d="M76.6221 39.1328L84.6221 93.1328" stroke="black"/>
+<path d="M81.6221 39.1328L89.6221 93.1328" stroke="black"/>
+<path d="M86.6221 39.1328L94.6221 93.1328" stroke="black"/>
+<path d="M91.6221 39.1328L99.6221 93.1328" stroke="black"/>
+<path d="M46.6221 40.1328L54.6221 94.1328" stroke="black"/>
+<path d="M40.6221 40.1328L48.6221 94.1328" stroke="black"/>
+<path d="M35.6221 40.1328L43.6221 94.1328" stroke="black"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M65.1221 94.1328L35.2442 42.3828H94.9999L65.1221 94.1328Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="139" height="139" rx="69.5" transform="matrix(1 0 0 -1 145.622 159.5)" fill="white"/>
+</clipPath>
+</defs>
+</svg>

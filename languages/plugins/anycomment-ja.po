@@ -1,0 +1,2500 @@
+# Translation of Plugins - AnyComment - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - AnyComment - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-06 13:52:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - AnyComment - Stable (latest release)\n"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:218
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/Admin/AnyCommentGenericSettings.php:432
+msgid "Contributor"
+msgstr "寄稿者"
+
+#: templates/admin/tab-addons.php:51
+msgid "Download"
+msgstr "ダウンロード"
+
+#: includes/Admin/AnyCommentAdminPages.php:117
+msgid "Next"
+msgstr "次"
+
+#: includes/Admin/AnyCommentAdminPages.php:120
+msgid "Hide"
+msgstr "非表示"
+
+#: includes/Admin/AnyCommentAdminPages.php:119
+msgid "Skip"
+msgstr "スキップ"
+
+#: includes/Admin/AnyCommentAdminPages.php:118
+msgid "Back"
+msgstr "戻る"
+
+#: templates/admin/tabs.php:20
+msgid "Addons"
+msgstr "アドオン"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1042
+msgid "Choose how comments would be sorted."
+msgstr "コメントの分類の方法を選択します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1031
+msgid "Number of comments to be seen by search engines. Lower the number - faster comments would load."
+msgstr "コメントの数は検索エンジンによって表示されます。数が小さいほど、コメントのダウンロード速度が速くなります。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1030
+msgid "Limit Comments"
+msgstr "コメントの制限"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1026
+msgid "Allow search engines to discover comments."
+msgstr "検索エンジンがコメントを検出できるようにします。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1025
+msgid "Search Engine Visibility"
+msgstr "検索エンジンでの表示"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1039
+msgid "Oldest to newest"
+msgstr "投稿順 (過去から)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1038
+msgid "Newest to oldest"
+msgstr "投稿順 (最新から)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1020
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/Admin/AnyCommentGenericSettings.php:985
+msgid "Save directory serve"
+msgstr "ディレクトリのサービスの保存"
+
+#: includes/Admin/AnyCommentGenericSettings.php:979
+msgid "Save directory"
+msgstr "ディレクトリの保存"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:192
+msgid "Synchronize comments with service"
+msgstr "サービスとのコメントの同期"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:187
+msgid "Display comments from <a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a> instead of original AnyComment form."
+msgstr "元の <a href=\"%s\" target=\"_blank\">AnyComment</a> フォームの代わりに、AnyComment.Cloud からのコメントを表示します。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:186
+msgid "Display comments"
+msgstr "コメントの表示"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:178
+msgid "AnyComment.Cloud"
+msgstr "AnyComment.Cloud"
+
+#: includes/Rest/AnyCommentRestServiceSync.php:73
+msgid "API Key"
+msgstr "API キー"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:193
+msgid "Synchronize all comments from website with <a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">AnyComment.Cloud</a> でサイトからのすべてのコメントを同期しましょう。"
+
+#: includes/Options/AnyCommentOptionManager.php:129
+msgid "No page slug provided"
+msgstr "ページのスラッグが指定されません"
+
+#: includes/Options/AnyCommentOptionManager.php:124
+msgid "Invalid nonce"
+msgstr "無効なナンス"
+
+#: includes/Options/AnyCommentOptionManager.php:99
+msgid "Failed to save form. Please try again."
+msgstr "フォームの保存中にエラーが発生しました。もう一度試してください。"
+
+#: templates/admin/tab-shortcodes.php:17
+msgid "Possible options:"
+msgstr "可能なオプション："
+
+#: includes/Models/AnyCommentEmailQueue.php:639
+msgid "Hello %s,"
+msgstr "%s さん、こんにちは。"
+
+#: includes/Models/AnyCommentEmailQueue.php:718
+msgid "Hello,"
+msgstr "こんにちは。"
+
+#: includes/Options/AnyCommentOptionManager.php:93
+msgid "Saved successfully"
+msgstr "保存しました。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:816
+msgid "Moderate first comment only"
+msgstr "最初のコメントのみをモデレートする"
+
+#: includes/Debug/DebugReportGenerator.php:51
+msgid "Extensions Loaded"
+msgstr "ロードされた拡張機能"
+
+#: includes/Models/AnyCommentEmailQueue.php:725
+msgid "Moderate"
+msgstr "モデレートする"
+
+#: includes/Models/AnyCommentEmailQueue.php:647
+msgid "%s replied to the following:"
+msgstr "%sは以下に応答しました:"
+
+#: includes/Models/AnyCommentEmailQueue.php:640
+msgid "New reply for %s on %s."
+msgstr "%sの%sに対する新しい回答。"
+
+#: includes/Models/AnyCommentEmailQueue.php:719
+msgid "New comment for %s on %s."
+msgstr "%sの%sに対する新しいコメント。"
+
+#: templates/admin/notifications/sync-information.php:223
+msgid "Learn more"
+msgstr "さらに詳しく"
+
+#: templates/admin/tab-addons.php:7
+msgid "AnyComment Analytics"
+msgstr "AnyComment分析"
+
+#: templates/admin/tab-tools.php:31
+msgid "Import HyperComments"
+msgstr "HyperCommentsのインポート"
+
+#: templates/admin/tab-tools.php:47
+msgid "Import"
+msgstr "インポート"
+
+#: templates/admin/tab-tools.php:57
+msgid "This action would delete all imported comments from HyperComment that were improted via this tool."
+msgstr "この行為はこのツールを使用してインポートされたHyperCommentからインポートされたすべてのコメントを削除します。"
+
+#: templates/admin/tab-tools.php:33
+msgid "Enter URL to XML file to start importing comments from HyperComments."
+msgstr "HyperCommentsからのコメントのインポートを開始するには、XML ファイルに URLアドレス を入力します。"
+
+#: templates/admin/tab-tools.php:48
+msgid "Clicking on \"Import\"  would copy all comments from provided XML document via URL to your website. It would automatically match posts, pages and create comments for them. It means after page reloaded, you may go and check for imported comments."
+msgstr "「インポート」(Import)をクリックすると、提供されたXMLドキュメントからサイトにURLアドレスですべてのコメントがコピーされます。それは自動的に投稿、ページを一致させ、それらのためにコメントを作成します。つまり、ページを更新した後で、インポートされたコメントを確認できます。"
+
+#: templates/admin/tab-tools.php:56
+msgid "Revert"
+msgstr "元に戻す"
+
+#: includes/Admin/AnyCommentGenericSettings.php:579
+msgid "Show updated icon on each comment once it was modified."
+msgstr "変更された各コメントに更新のアイコンを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:578
+msgid "Show updated info"
+msgstr "変更についての情報を示す"
+
+#: includes/Widgets/Native/CommentList.php:238
+msgid "Number words before \"...\":"
+msgstr "[..] の前の単語数:"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1058
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: includes/Admin/AnyCommentGenericSettings.php:430
+#: includes/Admin/AnyCommentGenericSettings.php:1052
+msgid "Editor"
+msgstr "エディター"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1059
+msgid "Write custom CSS, it will be only related to AnyComment. Notice: you may require to drop the cache after your changes if you have any caching plugin installed."
+msgstr "カスタム CSS を書くと、 それはAnyCommentとだけ関連しています。 注意：キャッシュ プラグインがインストールされている場合は、変更後にキャッシュをリセットする必要があるでしょう。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:447
+msgid "Choose comment date & time format."
+msgstr "コメントの日時のフォーマットを選びます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:444
+msgid "Absolute (format taken from WordPress)"
+msgstr "絶対（WordPressから取られるフォーマット）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:443
+msgid "Relative (e.g. 1 minute ago)"
+msgstr "相対(例えば、 1分前に)"
+
+#: includes/Admin/AnyCommentGenericSettings.php:440
+msgid "Date & Time Format"
+msgstr "日時のフォーマット"
+
+#: includes/AnyCommentRender.php:267
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:254
+msgid "You have enabled reCAPTCHA, but did not specify fields: site key and site secret. These two fields are required."
+msgstr "reCAPTCHA を有効にしましたが、サイト キーとサイト シークレットのフィールドを指定しませんでした。これら二つのフィールドは必須です。"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:134
+msgid "You are using %s for caching. Go to \"Settings\" and make sure option \"304 Not Modified...\" is unchecked. If you're experiencing some problem with AnyComment, try to deactivate it and check whether problem was resolved"
+msgstr "キャッシュに %s を使用しています。 「設定」(Settings)に移動し、 「304は変更されません...」(304 Not Modified ...) オプションがオフになっていることを確認します。AnyCommentの問題を発生したら、それを無効化させ、問題が解決したかどうかを確認します。"
+
+#: includes/Admin/AnyCommentSocialSettings.php:449
+#: includes/Admin/AnyCommentSocialSettings.php:483
+msgid "ID"
+msgstr "ID"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:305
+msgid "Position"
+msgstr "位置"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:248
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:289
+msgid "Users affected by capcha."
+msgstr "capchaの影響を受けるユーザー。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:264
+msgid "Enable reCAPTCHA. Make sure you have set API keys below as it will not work properly without them."
+msgstr "reCAPTCHA を有効にします。API キーがなければ正しく動作しないため、以下の API キーを設定していることを確認してください。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:239
+msgid "Force WP User Avatars"
+msgstr "強制のWPユーザーアバター"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:208
+msgid "Filter Spam via Akismet"
+msgstr "Akismetによるフィルタースパム"
+
+#: includes/Admin/AnyCommentSocialSettings.php:478
+msgid "Allow Mail.Ru authorization"
+msgstr "Mail.Ruの承認を許可する"
+
+#: includes/Admin/AnyCommentSocialSettings.php:472
+#: includes/AnyCommentSocials.php:91 includes/Rest/AnyCommentSocialAuth.php:280
+msgid "Mail.Ru"
+msgstr "Mail.Ru"
+
+#: includes/Admin/AnyCommentSocialSettings.php:438
+#: includes/AnyCommentSocials.php:84 includes/Rest/AnyCommentSocialAuth.php:279
+msgid "Yandex"
+msgstr "Yandex"
+
+#: includes/Admin/AnyCommentSocialSettings.php:444
+msgid "Allow Yandex authorization"
+msgstr "Yandexによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:490
+msgid "Enter client secret. It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "クライアントシークレットを入力し入力してください。それはアプリケーションを<a href=\"%s\" target=\"_blank\">登録した(register)</a>後見つけることができる"
+
+#: includes/Admin/AnyCommentSocialSettings.php:456
+msgid "Enter password (NOT your email password). It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "パスワードを入力してください(メールのパスワードを入力する必要はありません)。それは あ な た のアプリケーションを<a href=\"%s\" target=\"_blank\">登録した(register)</a>後に見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:450
+#: includes/Admin/AnyCommentSocialSettings.php:484
+msgid "Enter id. It can be found after you <a href=\"%s\" target=\"_blank\">register</a> your web-application"
+msgstr "IDを入力してください。それはアプリケーションの<a href=\"%s\" target=\"_blank\">登録した(register)</a>後に見つけることができます"
+
+#: includes/Rest/AnyCommentRestLikes.php:160
+msgid "dislike"
+msgstr "嫌い"
+
+#: includes/Rest/AnyCommentRestLikes.php:159
+msgid "Failed to %s"
+msgstr "%sに失敗しました"
+
+#: includes/Rest/AnyCommentRestLikes.php:111
+msgid "Sorry, rating type can be only %s or %s."
+msgstr "申し訳ありませんが、評価のタイプは%sまたは%sだけです。"
+
+#: includes/Rest/AnyCommentRestLikes.php:46
+msgid "Post id."
+msgstr "投稿のID。"
+
+#: includes/Rest/AnyCommentRestLikes.php:42
+msgid "Comment id."
+msgstr "コメントのID。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:852
+msgid "Show comments in real-time. Users on the page would be notified about new comments by green alert and see comment without page reload."
+msgstr "リアルタイムでコメントを表示します。ページ上のユーザーは、緑色のアラートによって新しいコメントについて通知され、ページの更新なしでコメントが表示されます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:851
+msgid "Real-time updates"
+msgstr "リアルタイムに更新"
+
+#: includes/Admin/AnyCommentGenericSettings.php:396
+msgid "Comment rating"
+msgstr "コメントの評価"
+
+#: includes/Admin/AnyCommentSocialSettings.php:410
+#: includes/AnyCommentSocials.php:98 includes/Rest/AnyCommentSocialAuth.php:281
+msgid "Steam"
+msgstr "スチーム"
+
+#: includes/Admin/AnyCommentSocialSettings.php:416
+msgid "Allow Steam authorization"
+msgstr "スチームによって認証を許可します"
+
+#: includes/Rest/AnyCommentRestLikes.php:160
+msgid "like"
+msgstr "いいね"
+
+#: includes/Rest/AnyCommentRestLikes.php:50
+msgid "Like - %d or dislike - %d."
+msgstr "いいね - %d または嫌い - %d。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:403
+msgid "Type of rating used for single comment. Option \"Likes\" would display only heart like, whereas \"Likes and dislikes\" would display up and down options."
+msgstr "単一のコメントにの評価タイプ。「いいね」オプションはカウンター付きのハートのようなものだけ表示されますが、「いいねと嫌い」は上下のオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:400
+msgid "Likes and dislikes"
+msgstr "いいねと嫌い"
+
+#: includes/Admin/AnyCommentGenericSettings.php:399
+msgid "Likes only"
+msgstr "いいねだけ"
+
+#: includes/Admin/AnyCommentSocialSettings.php:422
+msgid "Enter key. It can be found in the <a href=\"%s\" target=\"_blank\">Register Steam Web API Key</a>"
+msgstr "カギを入力してください。これは<a href=\"%s\" target=\"_blank\">登録スチームウェブAPIカギ(Register Steam Web API Key)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:421
+msgid "Key"
+msgstr "キー"
+
+#: includes/Widgets/Native/CommentList.php:232
+msgid "Title:"
+msgstr "タイトル:"
+
+#: includes/Widgets/Native/CommentList.php:246
+msgid "Number of comments to show:"
+msgstr "表示するコメント数:"
+
+#: includes/Widgets/Native/CommentList.php:284
+msgid "Author avatar size:"
+msgstr "投稿者のアバターのサイズ:"
+
+#: includes/Widgets/Native/CommentList.php:267
+msgid "Comment text color:"
+msgstr "コメントのテキストの色："
+
+#: includes/Widgets/Native/CommentList.php:275
+msgid "Author name color:"
+msgstr "投稿者名の色："
+
+#: includes/Widgets/Native/CommentList.php:259
+msgid "Background color:"
+msgstr "コメントの背景色："
+
+#: includes/Widgets/Native/CommentList.php:253
+msgid "Font size:"
+msgstr "フォントサイズ："
+
+#: includes/Widgets/Native/CommentList.php:26
+msgid "Your site&#8217;s most recent comments displayed using AnyComment."
+msgstr "AnyCommentを使用して、サイト&#8217;sの最新のコメントを表示します。"
+
+#: includes/Widgets/Native/CommentList.php:137
+msgid "ago"
+msgstr "前"
+
+#: templates/admin/tab-help.php:30
+msgid "Demo"
+msgstr "デモ"
+
+#: templates/admin/tab-help.php:7
+msgid "or use this name \"%s\" to search"
+msgstr "または検索するのに「%s」 という名前を使用します"
+
+#: includes/AnyCommentRender.php:304
+msgid "or as guest:"
+msgstr "またはゲストとして："
+
+#: includes/AnyCommentRender.php:302
+msgid "Hide this message"
+msgstr "このメッセージを非表示にする"
+
+#: includes/AnyCommentRender.php:274
+msgid "You may subscribe to new comments for this post by entering your email below:"
+msgstr "以下のフィールドにメールを入力すると、この投稿のための新しいコメントを購読できます："
+
+#: includes/AnyCommentRender.php:270
+msgid "Check you email to confirm subscription"
+msgstr "購読を確認するためにメールをチェックしてください"
+
+#: includes/AnyCommentRender.php:273
+msgid "You may subscribe to new comments by clicking \"Subscribe\" button below:"
+msgstr "以下の「購読」ボタンをクリックすると、新しいコメントを購読できます。"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:204
+msgid "Comment"
+msgstr "コメント"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:111
+msgid "Edit this comment"
+msgstr "このコメントを編集"
+
+#: includes/Admin/AnyCommentRatingPage.php:26
+#: includes/Admin/AnyCommentRatingPage.php:27
+#: includes/Admin/Tables/AnyCommentRatingTable.php:177
+#: templates/admin/tables/rating.php:11
+msgid "Rating"
+msgstr "評価"
+
+#: includes/Models/AnyCommentEmailQueue.php:409
+msgid "Confirm"
+msgstr "確認"
+
+#: templates/admin/dashboard.php:40
+msgid "Telegram"
+msgstr "Telegram"
+
+#: templates/admin/tables/subscriptions.php:37
+msgid "Failed to delete selected subscribers."
+msgstr "指定の購読者を取除くことは不可能でした。"
+
+#: templates/admin/tables/subscriptions.php:33
+msgid "Selected subscribers were deleted."
+msgstr "指定の購読者は削除されました。"
+
+#: templates/admin/tables/rating.php:38
+msgid "Failed to delete selected ratings."
+msgstr "指定の評価を取除くことは不可能でした。"
+
+#: templates/admin/tables/rating.php:34
+msgid "Selected ratings were deleted."
+msgstr "指定の評価は削除されました。"
+
+#: templates/admin/tables/files.php:33
+msgid "Files were deleted."
+msgstr "ファイルは削除されました。"
+
+#: templates/admin/tables/emails.php:37
+msgid "Failed to delete selected emails."
+msgstr "指定のメールを取除くことは不可能でした。"
+
+#: templates/admin/tables/emails.php:33
+msgid "Selected emails were deleted."
+msgstr "指定のメールは削除されました。"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:87
+msgid "Sorry, this email is unavailable for subscription."
+msgstr "申し訳ありませんが、このメールは購読のために利用できません。"
+
+#: includes/Models/AnyCommentEmailQueue.php:304
+#: includes/Models/AnyCommentEmailQueue.php:306
+msgid "Subscription Confirmation For %s"
+msgstr "%sのための購読の確認"
+
+#: includes/EmailEndpoints.php:67
+msgid "Your email confirmed. You will redirected back to post in a moment."
+msgstr "メールが確認されました。数秒後に投稿にリダイレクトされます。"
+
+#: includes/EmailEndpoints.php:66
+msgid "You were unsubscribed successfully. You will be redirect back to the post in a momemnt."
+msgstr "正常に購読を解除しました。数秒後に投稿にリダイレクトされます。"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:181
+msgid "Confirmation"
+msgstr "確認"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:180
+msgid "Is Active?"
+msgstr "アクティブですか。"
+
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:82
+msgid "No subscribers yet."
+msgstr "まだ購読者はいません。"
+
+#: includes/Admin/Tables/AnyCommentRatingTable.php:82
+msgid "No rating yet."
+msgstr "まだ評価がありません。"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:208
+msgid "Is Sent?"
+msgstr "送られましたか。"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:60
+msgid "You have All In One WP Security activated, please make sure \"Disallow Unauthorized REST Requests\" is unchecked in <a href=\"%s\">here</a> and \"Bad Query Strings\" is unchecked in <a href=\"%s\">here</a> tab as it may cause problems to load comments."
+msgstr "「1つの WP セキュリティのすべて」(All In One WP Security)を有効にしているでは、コメントの読み込みに問題が発生する可能性があるため、<a href=\"%s\">ここで</a>「許可されていない REST 要求を許可しない」(Disallow Unauthorized REST Requests) がオフになっていることと、<a href=\"%s\">ここ</a>で「不正なクエリ文字列」(Bad Query Strings) がオフになっていることを確認してください。"
+
+#: includes/Debug/DebugReportGenerator.php:58
+msgid "Active Plugins"
+msgstr "使用中のプラグイン"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:206
+msgid "Subject"
+msgstr "件名"
+
+#: includes/Admin/AnyCommentSubscriptionsPage.php:34
+#: includes/Admin/AnyCommentSubscriptionsPage.php:35
+#: templates/admin/tables/subscriptions.php:12
+msgid "Subscriptions"
+msgstr "定期購入"
+
+#: includes/Admin/AnyCommentEmailQueuePage.php:34
+#: includes/Admin/AnyCommentEmailQueuePage.php:35
+#: templates/admin/tables/emails.php:12
+msgid "Emails"
+msgstr "メール"
+
+#: includes/Admin/AnyCommentGenericSettings.php:934
+msgid "Confirmation link as button"
+msgstr "ボタンとしての確認のリンク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:933
+msgid "Confirmation link as text"
+msgstr "テキストとしての確認のリンク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:924
+msgid "Email template for confirming subscription."
+msgstr "購読を確認するための電子メールの テンプレート。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:923
+msgid "Subscription Confirmation Email Template"
+msgstr "購読の確認のメールのテンプレート"
+
+#: includes/Admin/AnyCommentGenericSettings.php:896
+msgid "Unsubscribe URL as text"
+msgstr "テキストとしてのURL購読の解除 "
+
+#: templates/admin/tab-shortcodes.php:16
+msgid "Use this shortcode do display list of available social networks."
+msgstr "利用可能なソーシャルネットワークのリストを表示するためにこのショートコードを使用します。"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:130
+#: includes/Rest/AnyCommentRestSubscriptions.php:137
+msgid "Error, failed to subscribe. Please try again later."
+msgstr "購読することは不可能でした。もう一度試してください。"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:91
+msgid "This email is already subscribed for this post."
+msgstr "このメールはすでにこの投稿を購読しています。"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:65
+msgid "Sorry, email is required."
+msgstr "申し訳ありませんが、メールが必要です。"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:47
+msgid "Post ID to subscribe to"
+msgstr "を購読するポストID"
+
+#: includes/Rest/AnyCommentRestSubscriptions.php:43
+msgid "User email to subscribe"
+msgstr "購読するユーザーのメール"
+
+#: includes/Hooks/AnyCommentNativeLoginForm.php:59
+msgid "or use any social:"
+msgstr "またはソーシャルを使用します:"
+
+#: includes/Admin/AnyCommentGenericSettings.php:888
+msgid "Email template for subscriptions."
+msgstr "購読のためのメールのテンプレート。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:887
+msgid "Subscription Email Template"
+msgstr "購読のメールのテンプレート。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:881
+msgid "Show subscription form and notify active post subscribers. Make sure you have proper SMTP configurations in order to send emails."
+msgstr "購読フォームを表示し、アクティブな投稿の購読者に通知します。メールを送信するために、SMTPを構成したことを確認してください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:872
+msgid "Notify on new replies"
+msgstr "新しい返信に通知する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:880
+msgid "Notify Post Subscribers"
+msgstr "投稿の購読者に通知する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:846
+msgid "Send name shown to email recipient. This could be your blog name."
+msgstr "送信者の名前がメールの受信者に表示されます。これはあなたのブログの名前であることができる。 "
+
+#: includes/Admin/AnyCommentGenericSettings.php:845
+msgid "Sender Name"
+msgstr "送信者名"
+
+#: includes/Admin/AnyCommentGenericSettings.php:479
+msgid "Show admin bar for regular WordPress users and those who logged in via social."
+msgstr "通常のWordPressユーザーとソーシャルネットワーク経由でログインしたユーザのための管理バーを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:478
+msgid "Show Admin Bar"
+msgstr "管理バーを表示する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:472
+msgid "Show list of available socials under WordPress's native login form."
+msgstr "WordPressログインのフォームの下に利用可能なソーシャルネットワークのリストを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:471
+msgid "Show Login Page Socials"
+msgstr "ログインページのソーシャルネットワークを表示する"
+
+#: includes/AnyCommentRender.php:269
+msgid "You were subscribed successfully"
+msgstr "正常に登録されました"
+
+#: includes/AnyCommentRender.php:250
+msgid "Waiting moderation"
+msgstr "承認待ち中"
+
+#: includes/Models/AnyCommentEmailQueue.php:269
+#: includes/Models/AnyCommentEmailQueue.php:271
+msgid "New Comment in %s"
+msgstr "%s への新しいコメント"
+
+#: includes/AnyCommentRender.php:251
+msgid "Edited"
+msgstr "編集済み"
+
+#: includes/AnyCommentRender.php:271
+msgid "Subscribe"
+msgstr "購読"
+
+#: includes/Integrations/AnyCommentWooCommerce.php:47
+msgid "Reviews (%d)"
+msgstr "レビュー (%d)"
+
+#: includes/Rest/AnyCommentRestComment.php:601
+msgid "Please login to leave a comment"
+msgstr "コメントを残すためにログインしてください"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:182
+msgid "It looks like you have hooks related to REST API in %s which may cause failure to load comments. If you are not sure how to fix it, contact plugin developer in on the contacts available in 'Help' tab."
+msgstr "%sにREST API関連するフックがあるように見えるため、コメントをロードすることができません。これを修正する方法がわからない場合は、[ヘルプ]タブに示されている連絡先でプラグイン開発者に連絡してください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:563
+msgid "Socials only"
+msgstr "ソーシャルネットワークだけ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:562
+msgid "WordPress only"
+msgstr "WordPressだけ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:561
+msgid "Anyone"
+msgstr "だれでも"
+
+#: includes/Admin/AnyCommentGenericSettings.php:453
+msgid "Number of minutes user can update his comment. \"0\" or empty for no limit."
+msgstr "ユーザーがコメントを更新できる分数。「0」または空のまま-無制限になります。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:452
+msgid "Comment Update Time"
+msgstr "コメントの更新の時間"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:174
+msgid "You are using %s. If you're experiencing some problem with AnyComment, try to set option 'Show in REST API' as 'true' in 'Add/Edit Taxonomies' or deactivate it and check whether problem was resolved"
+msgstr "%sを使用しています。AnyComment で問題が発生している場合は、「タクソノミーの追加/編集」で「REST API で表示」 オプションを「本当」 に設定するか、プラグインを無効にして問題が解決したかどうかを確認します。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:276
+msgid "reCAPTCHA site secret. Can be found <a href=\"%s\">here</a> (register your website if does not exist). Please note that you should choose \"Invisible\" type in order for it to work."
+msgstr "reCAPTCHAサイトのシークレット。<a href=\"%s\">ここで</a>見つけることができます（存在しなかったらサイトを登録します）。正しく動作させるには、「非表示」タイプを選択する必要があることに注意してください。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:270
+msgid "reCAPTCHA site key. Can be found <a href=\"%s\">here</a> (register your website if does not exist). Please note that you should choose \"Invisible\" type in order for it to work."
+msgstr "reCAPTCHAサイトのカギ。<a href=\"%s\">ここで</a>見つけることができます（存在しなかったらサイトを登録します）。正しく動作させるには、「非表示」タイプを選択する必要があることに注意してください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:715
+msgid "Global padding for all comments. You may use \"px\", \"em\" or \"%\"."
+msgstr ""
+"すべてのグログバルパデング全体的なパッディングはコメントする。 \n"
+"すべてのコメントのためのグローバルのパディング。「px」、「em」または「％」を使用できます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:714
+msgid "Global padding"
+msgstr "グローバルのパディング"
+
+#: includes/Admin/AnyCommentGenericSettings.php:708
+msgid "Global margin for all comments. You may use \"px\", \"em\" or \"%\"."
+msgstr "すべてのコメントのためのグローバルのマージン。「px」、「em」または「％」を使用できます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:707
+msgid "Global margin"
+msgstr "グローバルのマージン"
+
+#: includes/Admin/AnyCommentGenericSettings.php:701
+msgid "Global background border radius. Could be useful when you have background different then website primary color."
+msgstr "グローバルの背景のボーダーの半径。コメントの背景色がサイトのメイン色と異なる場合に使用できます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:700
+msgid "Global background border radius"
+msgstr "グローバルの背景のボーダーの半径"
+
+#: includes/Admin/AnyCommentGenericSettings.php:695
+msgid "Global background color used for all comments."
+msgstr "すべてのコメントに使用されるグローバルの背景色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:694
+msgid "Global background color"
+msgstr "グローバルの背景色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:567
+msgid "Users who able to leave comments."
+msgstr "コメントを残すことができるユーザー。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:552
+msgid "Elements"
+msgstr "要素"
+
+#: includes/AnyCommentRender.php:280
+#: includes/Rest/AnyCommentRestComment.php:688
+msgid "Comment will be shown once reviewed by moderator."
+msgstr "コメントはモデレーターによって検討後に表示されます。"
+
+#: includes/AnyCommentRender.php:303
+msgid "Login with"
+msgstr "でログイン"
+
+#: includes/AnyCommentRender.php:278
+msgid "Login"
+msgstr "ログイン"
+
+#: includes/AnyCommentRender.php:277
+msgid "Guest"
+msgstr "ゲスト"
+
+#: includes/AnyCommentRender.php:260
+msgid "editing"
+msgstr "編集"
+
+#: includes/Rest/AnyCommentRestRate.php:132
+msgid "Sorry, something went wrong. Please try to rate again."
+msgstr "申し訳ありませんが、何かうまくいかなかったようです。もう一度評価してください。"
+
+#: includes/Rest/AnyCommentRestRate.php:74
+msgid "Sorry, rating should be between 1 and 5."
+msgstr "申し訳ありませんが、評価は1と5の間でなければなりません。"
+
+#: includes/Rest/AnyCommentRestRate.php:70
+msgid "Sorry, rating is required."
+msgstr "申し訳ありませんが、評価が必要です。"
+
+#: includes/Rest/AnyCommentRestRate.php:64
+#: includes/Rest/AnyCommentRestSubscriptions.php:69
+msgid "Sorry, post is required."
+msgstr "申し訳ありませんが、投稿が必要です。"
+
+#: includes/Rest/AnyCommentRestRate.php:46
+msgid "Rating from 1-5."
+msgstr "1〜5からの評価。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:520
+msgid "Shorten long comments with \"Read more\" message."
+msgstr "[続きを読む]メッセージで長いコメントを短くします。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:519
+msgid "Shorten Long Comments"
+msgstr "長いコメントを短くする"
+
+#: includes/Admin/AnyCommentGenericSettings.php:513
+msgid "Display 5 star rating above comments."
+msgstr "コメントの上に 5 つ星の評価を表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:512
+msgid "Display Rating"
+msgstr "評価を表示する"
+
+#: includes/AnyCommentRender.php:287 includes/Rest/AnyCommentRestRate.php:101
+msgid "You have already rated"
+msgstr "すでに評価しました"
+
+#: templates/admin/tab-tools.php:8 templates/admin/tabs.php:32
+msgid "Tools"
+msgstr "ツール"
+
+#: templates/admin/tab-tools.php:28
+msgid "Open WooCommerce Product Comments"
+msgstr "WooCommerceの製品のコメントを開く"
+
+#: templates/admin/tab-tools.php:26
+msgid "Open Pages Comments"
+msgstr "ページのコメントを開く"
+
+#: templates/admin/tab-tools.php:24
+msgid "Open Posts Comments"
+msgstr "投稿のコメントを開く"
+
+#: templates/admin/tab-tools.php:22
+msgid "Open All Comments"
+msgstr "すべてのコメントを開く"
+
+#: templates/admin/tab-tools.php:20
+msgid "Other Helpers"
+msgstr "他のヘルパー"
+
+#: templates/admin/tab-tools.php:17
+msgid "Flush Comments"
+msgstr "コメントのキャッシュをクリアする"
+
+#: templates/admin/tab-tools.php:15
+msgid "Flush All"
+msgstr "すべてのキャッシュをクリアする"
+
+#: templates/admin/tab-tools.php:13
+msgid "Cache Manager"
+msgstr "キャッシュマネージャー"
+
+#: includes/Debug/DebugReportGenerator.php:59
+msgid "Generated at"
+msgstr "で生成された"
+
+#: includes/Debug/DebugReportGenerator.php:48
+msgid "PHP Version"
+msgstr "PHP バージョン"
+
+#: includes/Debug/DebugReportGenerator.php:47
+msgid "WordPress Version"
+msgstr "WordPress バージョン"
+
+#: includes/Debug/DebugReportGenerator.php:46
+msgid "AnyComment Version"
+msgstr "AnyCommentバージョン"
+
+#: templates/admin/tab-tools.php:63
+msgid "Debug Information"
+msgstr "デバッグ情報"
+
+#: templates/admin/tab-tools.php:9
+msgid "This page will have helpers and debug information related to the plugin. For example, version of plugin, WordPress or PHP. Also you may drop comments or global plugins cache, open comments for all posts, pages or WooCommerce products (when plugin activated)."
+msgstr "このページにはプラグインに関連するヘルパーとデバッグ情報が表示されます。例えば、プラグイン、WordPressまたはPHPのバージョン。また、コメントまたはグローバルプラグインキャッシュをドロップし、すべての投稿、ページ、またはWooCommerce製品のコメントを開くことができます（プラグインが有効になっているとき）。"
+
+#: includes/Debug/DebugReportGenerator.php:49
+msgid "Locale"
+msgstr "ロケール"
+
+#: includes/Admin/AnyCommentGenericSettings.php:637
+msgid "Link"
+msgstr "リンク"
+
+#: templates/admin/tabs.php:28
+msgid "Help"
+msgstr "ヘルプ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:609
+msgid "Underline"
+msgstr "下線"
+
+#: includes/Admin/AnyCommentGenericSettings.php:602
+msgid "Italic"
+msgstr "イタリック"
+
+#: includes/Admin/AnyCommentGenericSettings.php:616
+msgid "Quote"
+msgstr "引用"
+
+#: includes/AnyCommentRender.php:312
+msgid "Next (Right arrow key)"
+msgstr "次へ（右矢印のカギ）"
+
+#: includes/AnyCommentRender.php:311
+msgid "Previous (Left arrow key)"
+msgstr "前へ（左矢印のカギ）"
+
+#: includes/AnyCommentRender.php:313
+msgid " of "
+msgstr "の"
+
+#: includes/AnyCommentUser.php:50
+msgctxt "REST API Comments Count"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%sのコメント"
+
+#: includes/Admin/AnyCommentGenericSettings.php:588
+msgid "Enable Toolbar"
+msgstr "ツールバーを有効にする"
+
+#: includes/Admin/AnyCommentGenericSettings.php:589
+msgid "Enable editor toolbar (show options to modify comment text - bold, italics, etc)."
+msgstr "エディターツールバーを有効にする（コメントテキストを変更するオプションを表示する-太文字、イタリックなど）。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:596
+msgid "Show bold option in editor toolbar."
+msgstr "エディタのツールバーに太文字のオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:603
+msgid "Show italic option in editor toolbar."
+msgstr "エディタのツールバーにイタリックのオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:610
+msgid "Show underline option in editor toolbar."
+msgstr "エディタのツールバーに下線のオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:617
+msgid "Show quote option in editor toolbar."
+msgstr "エディタのツールバーに引用のオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:623
+msgid "Ordered list"
+msgstr "番号つきのリスト"
+
+#: includes/Admin/AnyCommentGenericSettings.php:624
+msgid "Show ordered list option in editor toolbar."
+msgstr "エディタのツールバーに番号つきのリストのオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:630
+msgid "Unordered list"
+msgstr "番号なしリスト"
+
+#: includes/Admin/AnyCommentGenericSettings.php:631
+msgid "Show unordered list option in editor toolbar."
+msgstr "エディタのツールバーに番号なしリストのオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:638
+msgid "Show link option in editor toolbar."
+msgstr "エディタのツールバーにリンクのオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:644
+msgid "Clean formatting"
+msgstr "フォーマットのクリア"
+
+#: includes/Admin/AnyCommentGenericSettings.php:645
+msgid "Show clean formatting option in editor toolbar."
+msgstr "エディタのツールバーにフォーマットのクリアのオプションを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:967
+msgid "Allow File Uploads"
+msgstr "ファイルのアップロードを許可する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:968
+msgid "Allow to upload files."
+msgstr "ファイルのアップロードを許可します。"
+
+#: templates/admin/tab-help.php:2
+msgid "Need Help"
+msgstr "ヘルプが必要です"
+
+#: templates/admin/tab-help.php:4
+msgid "Easiest way to get help is to use one of the links below"
+msgstr "ヘルプを取得する最も簡単な方法は、以下のリンクの1つを使用することです"
+
+#: templates/admin/tab-help.php:15
+msgid "Vkontakte Group"
+msgstr "Vkontakteグループ"
+
+#: templates/admin/tab-help.php:7
+msgid "Telegram Channel"
+msgstr "Telegramチャンネル"
+
+#: templates/admin/tab-help.php:18
+msgid "Resources"
+msgstr "リソース"
+
+#: templates/admin/tab-help.php:24
+msgid "Set-up Socials"
+msgstr "ソーシャルネットワークの設定"
+
+#: templates/admin/tab-help.php:27
+msgid "All Guides"
+msgstr "すべてのガイド"
+
+#: includes/Admin/AnyCommentGenericSettings.php:595
+msgid "Bold"
+msgstr "太字"
+
+#: templates/admin/tab-help.php:13
+msgid "GitHub Repository"
+msgstr "GitHub リポジトリ"
+
+#: includes/AnyCommentRender.php:310
+msgid "Close (Esc)"
+msgstr "閉じる (Esc)"
+
+#: includes/Rest/AnyCommentRestDocuments.php:104
+msgid "Sorry, such file is unavailable"
+msgstr "申し訳ありませんが、このようなファイルは利用できません"
+
+#: includes/Rest/AnyCommentRestDocuments.php:92
+msgid "Sorry, guests unable to delete files."
+msgstr "申し訳ありませんが、ゲストはファイルを削除できません。"
+
+#: includes/Admin/AnyCommentSocialSettings.php:581
+msgid "Allow WordPress native authorization"
+msgstr "WordPressのネイティブ認証を許可する"
+
+#: includes/Admin/AnyCommentSocialSettings.php:580
+msgid "Enable Native"
+msgstr "ネイティブを有効にする"
+
+#: includes/Admin/AnyCommentGenericSettings.php:823
+msgid "Comment with links should be marked for moderation."
+msgstr "リンク付きのコメントはモデレート用にマークする必要があります.。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:822
+msgid "Links on Hold"
+msgstr "リンク付きのコメント"
+
+#: includes/Rest/AnyCommentSocialAuth.php:703
+msgid "login"
+msgstr "ログイン"
+
+#: includes/Rest/AnyCommentSocialAuth.php:703
+msgid "email"
+msgstr "メール"
+
+#: includes/Rest/AnyCommentSocialAuth.php:701
+msgid "Please use %s to login as this %s seems to be already taken."
+msgstr "%sはすでに使用されているようですので、%sを認証に使用してください。"
+
+#: includes/Admin/AnyCommentSocialSettings.php:301
+#: includes/Rest/AnyCommentSocialAuth.php:274 templates/admin/dashboard.php:52
+msgid "GitHub"
+msgstr "GitHub"
+
+#: includes/Admin/AnyCommentSocialSettings.php:164
+#: includes/Rest/AnyCommentSocialAuth.php:270 templates/admin/dashboard.php:44
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: includes/Admin/AnyCommentGenericSettings.php:384
+#: includes/Admin/AnyCommentGenericSettings.php:1035
+#: includes/AnyCommentRender.php:255
+msgid "Sorting"
+msgstr "並べ替え"
+
+#: includes/Rest/AnyCommentRestDocuments.php:59
+msgid "File ID"
+msgstr "ファイル ID"
+
+#: includes/Rest/AnyCommentRestDocuments.php:99
+msgid "File does not exist."
+msgstr "ファイルが存在しません。"
+
+#: includes/Admin/AnyCommentSocialSettings.php:575
+#: includes/AnyCommentSocials.php:122
+#: includes/Rest/AnyCommentSocialAuth.php:282
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/Admin/AnyCommentGenericSettings.php:408
+msgid "Default Avatar"
+msgstr "デフォルトアバター"
+
+#: includes/Rest/AnyCommentRestComment.php:570
+msgid "Captcha is incorrect. Please try again."
+msgstr "Captchaが正しくありません。もう一度試してください。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:310
+msgid "Inline"
+msgstr "インライン"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:309
+msgid "Bottom left"
+msgstr "左下"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:308
+msgid "Bottom right"
+msgstr "右下"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:275
+msgid "reCAPTCHA Site secret"
+msgstr "reCAPTCHAサイトのシークレット"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:269
+msgid "reCAPTCHA Site key"
+msgstr "reCAPTCHAサイトのカギ"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:286
+msgid "For logged in only"
+msgstr "ログインされたユーザーだけ"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:285
+msgid "For guests only"
+msgstr "ゲストだけ"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:284
+msgid "For all"
+msgstr "すべてのため"
+
+#: includes/Admin/AnyCommentGenericSettings.php:754
+msgid "Avatar border radius. You may use \"px\" or \"%\". \"50%\" will make avatars rounded."
+msgstr "アバターの枠線の半径。「px」または「%」を使用できます。「50%」はアバターを丸くします。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:753
+msgid "Avatar Border Radius"
+msgstr "アバターの枠線の半径"
+
+#: includes/Admin/AnyCommentGenericSettings.php:417
+msgid "Robohash (from Gravatar)"
+msgstr "Robohash（Gravatarから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:416
+msgid "Retro (from Gravatar)"
+msgstr "Retro（Gravatarから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:415
+msgid "Wavatar (from Gravatar)"
+msgstr "Wavatar（Gravatarから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:414
+msgid "Monsteroid (from Gravatar)"
+msgstr "Monsteroid（Gravatarから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:413
+msgid "Identicon (from Gravatar)"
+msgstr "Identicon（Gravatarから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:412
+msgid "No avatar (from Gravatar)"
+msgstr "アバターがない（Gravatarから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:411
+msgid "No avatar (from AnyComment)"
+msgstr "アバターがない（AnyCommentから）"
+
+#: includes/Admin/AnyCommentGenericSettings.php:420
+msgid "Default avatar when user does not have any."
+msgstr "アバターを持っていないユーザーの場合、デフォルトアバターを表示できます。"
+
+#: includes/Rest/AnyCommentSocialAuth.php:695
+msgid "Please use normal login form, as this email is associated with a WordPress user."
+msgstr "このメールはWordPressユーザーに関連付けられているので、標準のログインのフォームを使用してください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:391
+msgid "Default sorting."
+msgstr "デフォルトのソート。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:572
+msgid "Guest Fields"
+msgstr "ゲストのフィールド"
+
+#: includes/Admin/AnyCommentGenericSettings.php:573
+msgid "Use this rearrange guest form fields or remove something. {name} is required and if you do not add it, it will be added by plugin. {name} is name field, {email} is email field, {website} is website field."
+msgstr "フィールドを再配置したり、何かを削除したい場合に使用します。{名前} が必要パラメーターであり、追加しなくてもプラグインによって追加されます。{名前}は名前のフィールド、{メール}はメールのフィールド、{サイト}はサイトのフィールドです。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:891
+#: includes/Admin/AnyCommentGenericSettings.php:927
+msgid "Blog name as text"
+msgstr "テキストとしてブログの名前"
+
+#: includes/Admin/AnyCommentGenericSettings.php:892
+#: includes/Admin/AnyCommentGenericSettings.php:928
+msgid "Blog link as text"
+msgstr "テキストとしてブログのリンク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:894
+#: includes/Admin/AnyCommentGenericSettings.php:930
+msgid "Post title as text"
+msgstr "テキストとして投稿のタイトル"
+
+#: includes/Admin/AnyCommentGenericSettings.php:893
+#: includes/Admin/AnyCommentGenericSettings.php:929
+msgid "Blog name in HTML link"
+msgstr "HTMLリンクのブログの名前"
+
+#: includes/Admin/AnyCommentGenericSettings.php:895
+#: includes/Admin/AnyCommentGenericSettings.php:931
+msgid "Post URL as text"
+msgstr "テキストとして投稿URL"
+
+#: includes/Admin/AnyCommentGenericSettings.php:897
+#: includes/Admin/AnyCommentGenericSettings.php:932
+msgid "Post title in HTML link"
+msgstr "HTMLリンクの投稿タイトル"
+
+#: includes/Admin/AnyCommentGenericSettings.php:898
+msgid "Comment text"
+msgstr "コメントのテキスト"
+
+#: includes/Admin/AnyCommentGenericSettings.php:899
+msgid "Comment text nicely formatted"
+msgstr "きちんとフォーマットされたコメントのテキスト"
+
+#: includes/Admin/AnyCommentGenericSettings.php:900
+msgid "Reply link as text"
+msgstr "テキストとして返信のリンク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:901
+msgid "Reply link as button"
+msgstr "ボタンとして返信のリンク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:906
+#: includes/Admin/AnyCommentGenericSettings.php:939
+msgid "More info"
+msgstr "詳細情報"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:70
+#: includes/Admin/AnyCommentProblemNotifier.php:78
+#: includes/Admin/AnyCommentProblemNotifier.php:86
+msgid "You are using %s for comments. This is same type of plugin as AnyComment, please deactivate it as it may cause problems."
+msgstr "コメントのために%sを使用しています。これはAnyCommentと同じタイプのプラグインであり、問題を発生する可能性があるためにそれを無効化してください。"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:94
+msgid "You are using %s. This plugin is used to disable comments, please deactivate it as it may cause problems."
+msgstr "%sを使用しています。このプラグインは、コメントを無効にするために使用され、問題を発生する可能性があるためにそれを無効化してください。"
+
+#: templates/admin/tab-shortcodes.php:8
+msgid "Use this shortcode do display comment box in custom place (e.g. landing page)."
+msgstr "このショートコードを使用して、カスタムの場所にコメントのボックスを表示します（たとえば、ランディングページ）。"
+
+#: templates/admin/tabs.php:24
+msgid "Shortcodes"
+msgstr "ショートコード"
+
+#: includes/Admin/AnyCommentGenericSettings.php:388
+msgid "Oldest first"
+msgstr "古いものから表示"
+
+#: includes/Admin/AnyCommentGenericSettings.php:387
+msgid "Newest first"
+msgstr "新しいものから表示"
+
+#: includes/AnyCommentRender.php:300
+msgid "Read more"
+msgstr "続きを読む"
+
+#: includes/Admin/AnyCommentGenericSettings.php:687
+msgid "Link Color"
+msgstr "リンク色"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:209
+#: includes/Admin/Tables/AnyCommentRatingTable.php:179
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:182
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:175
+msgid "Date"
+msgstr "日付"
+
+#: includes/Admin/AnyCommentFilesPage.php:34
+#: includes/Admin/AnyCommentFilesPage.php:35
+#: includes/Admin/AnyCommentGenericSettings.php:961
+#: templates/admin/tables/files.php:12
+msgid "Files"
+msgstr "ファイル"
+
+#: includes/Admin/Tables/AnyCommentRatingTable.php:176
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:179
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:172
+msgid "User"
+msgstr "ユーザー"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:203
+#: includes/Admin/Tables/AnyCommentRatingTable.php:175
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:178
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:171
+msgid "Post"
+msgstr "投稿"
+
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:174
+msgid "URL"
+msgstr "URL"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:207
+#: includes/Admin/Tables/AnyCommentRatingTable.php:178
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:173
+msgid "IP"
+msgstr "IP"
+
+#: templates/admin/notifications.php:19
+msgid "Good job! It looks like everything is okay."
+msgstr "いいね！すべてがうまくいっているみたいです。"
+
+#: templates/admin/notifications.php:6
+msgid "Please do not treat every notice below as a problem. They are generated based on the plugins you use, based on the WordPress version you run and environment you have. They should be treated as suggestions."
+msgstr "以下の各通知を問題として考えないでください。これらは、実行しているWordPressのバージョンに基づいて、使用するプラグイン、ホスティングの環境に基づいて生成されます。これらはヒントとして扱われるべきです。"
+
+#: templates/admin/tables/files.php:37
+msgid "Failed to delete selected files."
+msgstr "指定のファイルを取除くことは不可能でした。"
+
+#: templates/admin/dashboard.php:72
+msgid "Possible Problems"
+msgstr "可能な問題"
+
+#: includes/Rest/AnyCommentRestDocuments.php:158
+msgid "Missing file data"
+msgstr "ファイルのデータがありません"
+
+#: includes/Rest/AnyCommentRestDocuments.php:137
+msgid "Sorry, you have reached upload limit. Wait a little bit before uploading again."
+msgstr "申し訳ありませんが、アップロードの制限に達しました。もう一度アップロードする前に、ちょっと待ってください。"
+
+#: includes/Rest/AnyCommentRestDocuments.php:115
+msgid "Sorry, guest users cannot upload files"
+msgstr "申し訳ありませんが、ゲストユーザーはファイルをアップロードできません"
+
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:79
+msgid "No files uploaded yet."
+msgstr "ファイルはまだアップロードされていません。"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:102
+#: includes/Admin/AnyCommentProblemNotifier.php:110
+#: includes/Admin/AnyCommentProblemNotifier.php:118
+#: includes/Admin/AnyCommentProblemNotifier.php:126
+#: includes/Admin/AnyCommentProblemNotifier.php:142
+#: includes/Admin/AnyCommentProblemNotifier.php:150
+#: includes/Admin/AnyCommentProblemNotifier.php:158
+#: includes/Admin/AnyCommentProblemNotifier.php:166
+msgid "You are using %s for caching. If you're experiencing some problem with AnyComment, try to deactivate it and check whether problem was resolved"
+msgstr "キャッシュに %s を使用しています。AnyComment で問題が発生したら、それを無効にして、問題が解決したかどうかを確認します"
+
+#: includes/Admin/AnyCommentProblemNotifier.php:36
+msgid "WordPress version you are using is lower then 3.7. AnyComment rely on REST API. WordPress introduced it in 3.7."
+msgstr "使用しているWordPressのバージョンは3.7未満です。AnyCommentはREST APIに依存しています。WordPressはバージョン3.7でそれを導入しました。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1010
+msgid "Maximum allowed file size in megabytes. For example, regular PNG image is about ~ 1.5-2MB, JPEG are even smaller."
+msgstr "最大許容ファイルサイズはメガバイト単位です。たとえば、PNG画像の平均サイズは約1.5〜2 MBであり、JPEGはこのサイズよりも小さくなります。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1009
+msgid "File Size"
+msgstr "ファイルサイズ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1004
+msgid "If user will cross the limit (defined above) within specified period (in seconds) in this field, he will be give a warning."
+msgstr "ユーザーがこのフィールドで指定された期間内に(秒単位) 制限 (上で定義された) を超えたら、警告が表示されます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1003
+msgid "File Upload Limit Period"
+msgstr "ファイルアップロードの制限期間"
+
+#: includes/Admin/AnyCommentGenericSettings.php:998
+msgid "Maximum number of files to upload per period defined in the field below."
+msgstr "以下のフィールドで定義された期間のアップロードするファイルの最大数。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:997
+msgid "File Upload Limit"
+msgstr "ファイルアップロードの制限"
+
+#: includes/Admin/AnyCommentGenericSettings.php:992
+msgid "Comma-separated list of allowed MIME types (e.g. .png, .jpg, etc). Alternatively, you may write \"image/*\" for all image types or \"audio/*\" for audios."
+msgstr "許可されている MIME タイプのコンマ区切りのリスト（たとえば、.png、.jpgなど）。または、すべての画像タイプに[image / *]を書いたり、音声に[audio / *]と書いたりすることもできます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:991
+msgid "File MIME Types"
+msgstr "ファイルMIMEタイプ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:974
+msgid "Guest users can upload documents. Please be careful about this setting as some users may potentially misuse this and periodically upload unwanted files."
+msgstr "ゲストのユーザーはドキュメントをアップロードできるようにします。一部のユーザーが個人的な利益のためにこの設定を使用し、定期的に不要なファイルをアップロードする可能性があるため、この設定に注意してください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:973
+msgid "File Upload By Guests"
+msgstr "ゲストによるファイルのアップロード"
+
+#: includes/Admin/AnyCommentGenericSettings.php:794
+msgid "Button background color when hovered or focused."
+msgstr "ホバーまたはフォーカスされるときのボタンの背景色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:793
+msgid "Button Background Color Active"
+msgstr "ボタンの背景色がアクティブ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:787
+msgid "Button background color."
+msgstr "ボタンの背景色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:786
+msgid "Button Background Color"
+msgstr "ボタンの背景色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:780
+msgid "Button text color."
+msgstr "ボタンのテキスト色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:779
+msgid "Button Color"
+msgstr "ボタンの色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:774
+msgid "Button border radius."
+msgstr "ボタンの枠線の半径。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:773
+msgid "Button Radius"
+msgstr "ボタンの半径"
+
+#: includes/Admin/AnyCommentGenericSettings.php:760
+msgid "Parent comment avatar size."
+msgstr "親のコメントのアバターサイズ。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:759
+msgid "Avatar Parent Size"
+msgstr "アバターの親のサイズ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:767
+msgid "Child comment avatar size. Usually, this is reply comment."
+msgstr "子のコメントのアバターサイズ。 通常、これは返信のコメントです。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:766
+msgid "Avatar Child Size"
+msgstr "アバターの子のサイズ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:747
+msgid "Attachment background color. For example, user may attach PNG image with transparent background. This color will be used as background behind the image."
+msgstr "添付ファイルの背景色。たとえば、ユーザは透明な背景を持つPNG画像を添付できます。この色は画像の後ろにある背景として使用されます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:746
+msgid "Attachment Background Color"
+msgstr "添付ファイルの背景色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:740
+msgid "Attachments text color. For example, YouTube attachments do not have previews, instead they have \"YouTube\" text over."
+msgstr "添付ファイルのテキストの色。たとえば、YouTubeの添付ファイルにはプレビューがなくて、代わりに「YouTube」というテキストが上部に表示されます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:739
+msgid "Attachment Text Color"
+msgstr "添付ファイルのテキストの色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:733
+msgid "Form fields background color."
+msgstr "フォームフィールドの背景色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:732
+msgid "Form Fields Background"
+msgstr "フォームフィールドの背景"
+
+#: includes/Admin/AnyCommentGenericSettings.php:727
+msgid "Semi hidden color. This is used for dates, action links, etc."
+msgstr "半隠された色。これは日付、アクションリンクなどに使用されます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:726
+msgid "Semi Hidden Color"
+msgstr "半隠された色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:688
+msgid "Links color."
+msgstr "リンク色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:682
+msgid "Global text color."
+msgstr "グローバルテキストの色。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:675
+msgid "Global font family."
+msgstr "グローバルのフォントファミリ。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:674
+msgid "Font Choice"
+msgstr "フォントの選択"
+
+#: includes/Admin/AnyCommentGenericSettings.php:669
+msgid "Overal text size. You may use \"px\", \"pt\", \"em\" or \"%\"."
+msgstr "テキストの全体のサイズ。「px」、「pt」、「em」または「％」を使用できます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:668
+msgid "Text Size"
+msgstr "テキストのサイズ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:721
+msgid "Border radius. You may use \"px\", \"em\" or \"%\"."
+msgstr "枠線の半径。「px」、「em」、または「％」を使用できます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:662
+msgid "Use custom design. Enable this option to display design changes from below."
+msgstr "カスタムデザインを使用します。このオプションを有効にすると、デザインの変更が下から表示されます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:661
+msgid "Custom Design"
+msgstr "カスタムデザイン"
+
+#: includes/Admin/AnyCommentGenericSettings.php:492
+msgid "Display Twitter Embeds"
+msgstr "Twitterからの埋め込みを表示する"
+
+#: includes/AnyCommentRender.php:299
+msgid "No file selected or select proper extension"
+msgstr "ファイルが選択されていないか、拡張子が間違っています"
+
+#: includes/AnyCommentRender.php:297
+msgid "You may upload %s file(s) at maximum"
+msgstr "最大で %sのファイルをアップロードできます"
+
+#: includes/AnyCommentRender.php:296
+msgid "File %s is too big"
+msgstr "ファイル%sが大きすぎます"
+
+#: includes/AnyCommentRender.php:295
+msgid "Uploaded!"
+msgstr "アップロード完了"
+
+#: includes/Admin/AnyCommentGenericSettings.php:493
+msgid "Detect & display tweets from Twitter as embedded widget."
+msgstr "Twitterからのツイートを埋め込みウィジェットとして検出して表示します。"
+
+#: includes/Rest/AnyCommentRestDocuments.php:43
+#: includes/Rest/AnyCommentRestRate.php:50
+msgid "Post ID"
+msgstr "投稿 ID"
+
+#: includes/AnyCommentRender.php:294
+msgid "Uploading..."
+msgstr "アップロード中…"
+
+#: includes/Admin/AnyCommentGenericSettings.php:681
+msgid "Text Color"
+msgstr "文字色"
+
+#: includes/Admin/AnyCommentGenericSettings.php:720
+msgid "Border radius"
+msgstr "角丸半径"
+
+#: includes/AnyCommentRender.php:293
+msgid "Upload file"
+msgstr "ファイルをアップロード"
+
+#: includes/AnyCommentRender.php:301
+msgid "Show less"
+msgstr "簡易表示"
+
+#: includes/Admin/AnyCommentGenericSettings.php:506
+msgid "Display Image Attachments"
+msgstr "画像の添付ファイルを表示する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:500
+msgid "Display video link from comment as attachment."
+msgstr "添付ファイルとしてコメントからの動画リンクを表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:507
+msgid "Display image link from comment as attachment."
+msgstr "コメントからの画像リンクを添付ファイルとして表示します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:499
+msgid "Display Video Attachments"
+msgstr "動画の添付ファイルを表示する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:839
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/Admin/AnyCommentGenericSettings.php:804
+msgid "Moderation"
+msgstr "モデレーション"
+
+#: includes/Admin/AnyCommentGenericSettings.php:655
+msgid "Design"
+msgstr "デザイン"
+
+#: includes/Models/AnyCommentEmailQueue.php:237
+#: includes/Models/AnyCommentEmailQueue.php:239
+msgid "New Comment on %s"
+msgstr "%sへの新しいコメント"
+
+#: includes/Models/AnyCommentEmailQueue.php:195
+#: includes/Models/AnyCommentEmailQueue.php:197
+msgid "Re: Comment on %s"
+msgstr "返信：%sへのコメント"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:205
+#: includes/AnyCommentRender.php:285
+msgid "Email"
+msgstr "メール"
+
+#: includes/AnyCommentRender.php:284
+msgid "Name"
+msgstr "名前"
+
+#: includes/AnyCommentRender.php:286 templates/admin/dashboard.php:48
+msgid "Website"
+msgstr "サイト"
+
+#: includes/Rest/AnyCommentRestComment.php:629
+msgid "Provide valid email address."
+msgstr "正しいメールアドレスを入力してください。"
+
+#: includes/Rest/AnyCommentRestComment.php:625
+msgid "Email field is required."
+msgstr "メールフィールドは必須です。"
+
+#: includes/Rest/AnyCommentRestComment.php:621
+msgid "Name is required."
+msgstr "名前が必要です。"
+
+#: includes/Rest/AnyCommentRestComment.php:607
+msgid "Please use any of the available social networks to leave a comment"
+msgstr "コメントを残すのに利用可能なソーシャルネットワークを使用してください"
+
+#: includes/Rest/AnyCommentRestComment.php:590
+#: includes/Rest/AnyCommentRestComment.php:794
+msgid "Comment cannot be empty."
+msgstr "コメントは空にはできません。"
+
+#: includes/Rest/AnyCommentRestComment.php:489
+msgid "User with such email is registered. Please login to leave a comment."
+msgstr "そのようなメールを持つユーザーは登録されています。コメントを残すのにログインしてください。"
+
+#: includes/Rest/AnyCommentRestComment.php:487
+msgid "Email was used as social authorization. Please login using this method."
+msgstr "メールはソーシャルネットワークで承認に使用されました。この方法を使用してログインしてください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:564
+msgid "Guests only"
+msgstr "ゲストのみ"
+
+#: includes/Admin/AnyCommentGenericSettings.php:558
+msgid "Comment form"
+msgstr "コメントフォーム"
+
+#: templates/admin/news-sidebar.php:52
+msgid "All News"
+msgstr "すべてのニュース"
+
+#: includes/Admin/AnyCommentSocialSettings.php:540
+#: includes/AnyCommentSocials.php:105
+#: includes/Rest/AnyCommentSocialAuth.php:278
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: includes/Admin/AnyCommentSocialSettings.php:506
+#: includes/AnyCommentSocials.php:77 includes/Rest/AnyCommentSocialAuth.php:277
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: includes/Admin/AnyCommentSocialSettings.php:376
+#: includes/AnyCommentSocials.php:70 includes/Rest/AnyCommentSocialAuth.php:276
+msgid "Twitch"
+msgstr "Twitch"
+
+#: includes/Rest/AnyCommentRestComment.php:66
+msgid "Unique post ID"
+msgstr "ユニークな投稿ID"
+
+#: includes/Cron/AnyCommentEmailQueueCron.php:44
+#: includes/Cron/AnyCommentServiceSyncCron.php:47
+msgid "Every Minute"
+msgstr "毎分"
+
+#: includes/Admin/AnyCommentSocialSettings.php:620
+msgid "How To Set-Up %s"
+msgstr "%sをセットアップする方法"
+
+#: includes/Admin/AnyCommentSocialSettings.php:559
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">my apps</a>"
+msgstr "クライアントのシークレットを入力してください。それは<a href=\"%s\" target=\"_blank\">私のアプリ(my apps)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:553
+msgid "Enter app id. It can be found in the <a href=\"%s\" target=\"_blank\">my apps</a>"
+msgstr "アプリIDを入力してください。それは<a href=\"%s\" target=\"_blank\">私のアプリ(my apps)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:547
+msgid "Allow Yahoo authorization"
+msgstr "Yahooによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:524
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">your applications</a>"
+msgstr "クライアントのシークレットを入力してください。それは<a href=\"%s\" target=\"_blank\">あなたのアプリケーション(your applications)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:512
+msgid "Allow Dribbble authorization"
+msgstr "Dribbbleによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:394
+msgid "Enter client secret. It can be found in the <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "クライアントのシークレットを入力してください。それは<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:518
+msgid "Enter client id. It can be found in the <a href=\"%s\" target=\"_blank\">your applications</a>"
+msgstr "クライアントIDを入力してください。それは<a href=\"%s\" target=\"_blank\">あなたのアプリケーション(your applications)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:388
+msgid "Enter client id. It can be found in the <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "クライアントIDを入力してください。それは<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>で見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:382
+msgid "Allow Twitch authorization"
+msgstr "Twitchによって認証を許可します"
+
+#: includes/Admin/AnyCommentGenericSettings.php:828
+msgid "Spam Words"
+msgstr "スパムワード"
+
+#: includes/Admin/AnyCommentGenericSettings.php:811
+msgid "Moderators should check comment before it appears."
+msgstr "モデレータは表示される前にコメントを確認する必要があります。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:873
+msgid "Notify users by email (if specified) about new replies. Make sure you have proper SMTP configurations in order to send emails."
+msgstr "新しい返信についてメール (指定されている場合) でユーザーに通知します。電子メールを送信するのに、適切なSMTP設定があることを確認してください。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:866
+msgid "Notify administrator via email about new comment."
+msgstr "新しいコメントについて管理者に電子メールで通知します。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:865
+msgid "Notify Administrator"
+msgstr "管理者に通知する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:858
+msgid "Interval (in seconds) to check for new comments. Minimum 5 and maximum is 100 seconds."
+msgstr "新しいコメントをチェックする期間（秒単位）。最小5秒と最大100 秒です。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:857
+msgid "New Comment Interval Checking"
+msgstr "新しいコメントのチェック期間"
+
+#: includes/Admin/AnyCommentGenericSettings.php:459
+msgid "Number of comments to load initially and per page."
+msgstr "最初と1ページあたりにロードするコメントの数。"
+
+#: includes/AnyCommentRender.php:282
+msgid "New comment was added"
+msgstr "新しいコメントが追加されました"
+
+#: includes/Models/AnyCommentEmailQueue.php:501
+msgid "See"
+msgstr "見る"
+
+#: templates/admin/news-sidebar.php:25
+msgid "New"
+msgstr "新着"
+
+#: includes/Admin/AnyCommentSocialSettings.php:621
+msgid "Read"
+msgstr "Read"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:176
+#: includes/Admin/Tables/AnyCommentRatingTable.php:149
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:151
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:146
+#: includes/AnyCommentRender.php:266
+msgid "Delete"
+msgstr "削除"
+
+#: includes/AnyCommentRender.php:289
+msgid "I accept the <a href=\"%s\"%s>User Agreement</a>"
+msgstr "<a href=\"%s\"%s>ユーザー利用規約</a>に同意します"
+
+#: includes/Admin/AnyCommentGenericSettings.php:534
+msgid "Link to User Agreement, where described how your process users data once they authorize via social network and/or add new comment."
+msgstr "ソーシャル ネットワークを介してユーザーがログインした後、および/またはコメントを追加した後にユーザー情報を処理する方法を説明するユーザー利用規約へのリンク。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:533
+msgid "User Agreement Link"
+msgstr "ユーザー利用規約のリンク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:486
+msgid "Show link to user in the social media or website when available (name of the user will be clickable)."
+msgstr "利用可能な場合は、ソーシャルメディアまたはサイトでユーザープロフィールへのリンクを表示します（ユーザーの名前をクリックできます）。"
+
+#: includes/AnyCommentRender.php:275
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/AnyCommentRender.php:261
+msgid "Your comment..."
+msgstr "あなたのコメント..."
+
+#: includes/AnyCommentRender.php:259
+msgid "reply to"
+msgstr "に返信"
+
+#: includes/AnyCommentRender.php:247
+msgid "Oops, something went wrong..."
+msgstr "おっとっと、何かがうまくいかなかったようです。"
+
+#: includes/Admin/AnyCommentWPComments.php:63
+msgid "Social URL"
+msgstr "ソーシャル ネットワークURL"
+
+#: includes/Admin/AnyCommentGenericSettings.php:485
+msgid "Show Profile URL"
+msgstr "プロファイルURLを表示する"
+
+#: includes/Admin/AnyCommentGenericSettings.php:810
+msgid "Moderate First"
+msgstr "最初にモデレートする"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:297
+msgid "Light"
+msgstr "ライト"
+
+#: includes/Admin/AnyCommentWPComments.php:37
+#: includes/Admin/AnyCommentWPComments.php:62
+msgid "Likes"
+msgstr "いいね"
+
+#: includes/Admin/AnyCommentGenericSettings.php:431
+#: includes/AnyCommentRender.php:283
+msgid "Author"
+msgstr "投稿者"
+
+#: includes/AnyCommentRender.php:248
+msgid "Loading..."
+msgstr "読み込み中…"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:298
+msgid "Dark"
+msgstr "ダーク"
+
+#: includes/Admin/AnyCommentGenericSettings.php:429
+msgid "Subscriber"
+msgstr "購読者"
+
+#: includes/Admin/AnyCommentGenericSettings.php:350
+#: includes/Admin/AnyCommentGenericSettings.php:428
+msgid "Social Network Subscriber"
+msgstr "ソーシャルネットワークの購読者"
+
+#: templates/admin/dashboard.php:22
+msgid "Please take a few seconds and <a href=\"%s\" target=\"_blank\">rate us on WordPress.org</a>. You are the one who can help to grow and make this plugin better!"
+msgstr "数秒かかるし、<a href=\"%s\" target=\"_blank\">WordPress.orgで評価</a>してください。したがって、このプラグインの開発と改善を支援できる人です！"
+
+#: includes/Rest/AnyCommentRestLikes.php:128
+msgid "Cannot create existing like."
+msgstr "既存のいいねを作成することはできません。"
+
+#: includes/Rest/AnyCommentRestLikes.php:83
+#: includes/Rest/AnyCommentRestLikes.php:91
+msgid "Sorry, comment that you liked does not exist."
+msgstr "申し訳ありませんが、好きなコメントはありません。"
+
+#: includes/Rest/AnyCommentRestDocuments.php:119
+#: includes/Rest/AnyCommentRestDocuments.php:125
+#: includes/Rest/AnyCommentRestLikes.php:79
+#: includes/Rest/AnyCommentRestLikes.php:97
+#: includes/Rest/AnyCommentRestRate.php:80
+#: includes/Rest/AnyCommentRestSubscriptions.php:75
+msgid "Sorry, post does not exist."
+msgstr "申し訳ありませんが、投稿はありません。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:240
+msgid "Use <a href=\"%s\">WP User Avatar</a> for handling avatars in the plugin."
+msgstr "プラグインでアバターを処理するには、<a href=\"%s\">WPユーザーアバター(WP User Avatar)</a>を使用します。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:233
+msgid "WP User Avatar"
+msgstr "WPユーザーアバター"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:209
+msgid "Filter all new comments through <a href=\"%s\">Akismet Anti-Spam</a> plugin."
+msgstr "<a href=\"%s\">Akismetアンチスパム(Akismet Anti-Spam)</a>プラグインを使用して、すべての新しいコメントをフィルタします。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:465
+msgid "Load comments when user scrolls to it."
+msgstr "ユーザーがスクロールしたときにコメントをロードします。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:464
+msgid "Load on Scroll"
+msgstr "スクロールでロード"
+
+#: includes/Admin/AnyCommentGenericSettings.php:435
+msgid "When users will authorize via plugin, they are being registered and be assigned with group selected above."
+msgstr "ユーザーがプラグインで認証するとき、ユーザーは登録され、上で選択したグループに割り当てられます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:425
+msgid "Register User Group"
+msgstr "ユーザーグループを登録する"
+
+#: includes/Widgets/Native/CommentList.php:29
+#: templates/admin/tab-dashboard.php:64
+msgid "Comments"
+msgstr "コメント"
+
+#: includes/AnyCommentRender.php:254 includes/AnyCommentRender.php:264
+#: includes/Models/AnyCommentEmailQueue.php:646
+msgid "Reply"
+msgstr "返信"
+
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:111
+#: includes/Admin/Tables/AnyCommentEmailQueueTable.php:141
+#: includes/Admin/Tables/AnyCommentRatingTable.php:118
+#: includes/Admin/Tables/AnyCommentSubscriptionsTable.php:118
+#: includes/Admin/Tables/AnyCommentUploadedFilesTable.php:115
+#: includes/AnyCommentRender.php:265
+msgid "Edit"
+msgstr "編集"
+
+#: templates/admin/tabs.php:12
+msgid "Settings"
+msgstr "設定"
+
+#: includes/Admin/AnyCommentGenericSettings.php:1098
+#: includes/Admin/AnyCommentIntegrationSettings.php:520
+#: includes/Admin/AnyCommentSocialSettings.php:646
+#: includes/AnyCommentRender.php:253
+#: includes/Options/AnyCommentOptionManager.php:289
+msgid "Save"
+msgstr "保存"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:263
+#: includes/Admin/AnyCommentSocialSettings.php:170
+#: includes/Admin/AnyCommentSocialSettings.php:204
+#: includes/Admin/AnyCommentSocialSettings.php:238
+#: includes/Admin/AnyCommentSocialSettings.php:272
+#: includes/Admin/AnyCommentSocialSettings.php:306
+#: includes/Admin/AnyCommentSocialSettings.php:340
+#: includes/Admin/AnyCommentSocialSettings.php:381
+#: includes/Admin/AnyCommentSocialSettings.php:415
+#: includes/Admin/AnyCommentSocialSettings.php:443
+#: includes/Admin/AnyCommentSocialSettings.php:477
+#: includes/Admin/AnyCommentSocialSettings.php:511
+#: includes/Admin/AnyCommentSocialSettings.php:546
+msgid "Enable"
+msgstr "有効化"
+
+#: includes/Admin/AnyCommentSocialSettings.php:233
+#: includes/AnyCommentSocials.php:42 includes/Rest/AnyCommentSocialAuth.php:271
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/Admin/AnyCommentSocialSettings.php:199
+#: includes/AnyCommentSocials.php:35 includes/Rest/AnyCommentSocialAuth.php:272
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/admin/tabs.php:8
+msgid "Social"
+msgstr "ソーシャル"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:281
+#: templates/admin/tab-dashboard.php:75
+msgid "Users"
+msgstr "ユーザー"
+
+#: includes/Admin/AnyCommentGenericSettings.php:371
+msgid "Generic"
+msgstr "一般"
+
+#: templates/admin/dashboard.php:16 templates/admin/tabs.php:5
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: templates/admin/news-sidebar.php:2
+msgid "News"
+msgstr "ニュース"
+
+#: templates/admin/tab-dashboard.php:30 templates/admin/tab-dashboard.php:33
+msgid "All Comments"
+msgstr "コメント一覧"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:202
+msgid "Akismet Anti-Spam"
+msgstr "Akismet Anti-Spam (アンチスパム)"
+
+#: includes/Rest/AnyCommentRestComment.php:104
+msgid "The password for the parent post of the comment (if the post is password protected)."
+msgstr "コメントの親投稿のパスワード (投稿がパスワード保護されている場合)。"
+
+#: includes/Rest/AnyCommentRestComment.php:1364
+msgid "Limit response to comments published before a given ISO8601 compliant date."
+msgstr "入力された ISO8601 準拠の日付より前に公開されたコメントにレスポンスを限定します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1335
+msgid "Limit response to comments published after a given ISO8601 compliant date."
+msgstr "入力された ISO8601 準拠の日付より後に公開されたコメントにレスポンスを限定します。"
+
+#: includes/Rest/AnyCommentRestComment.php:765
+msgid "Sorry, you are not allowed to change the comment type."
+msgstr "コメントタイプを変更する権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:854
+msgid "Sorry, you are not allowed to delete this comment."
+msgstr "このコメントを削除する権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:530
+#: includes/Rest/AnyCommentRestComment.php:534
+#: includes/Rest/AnyCommentRestDocuments.php:129
+#: includes/Rest/AnyCommentRestDocuments.php:133
+#: includes/Rest/AnyCommentRestLikes.php:101
+#: includes/Rest/AnyCommentRestLikes.php:105
+#: includes/Rest/AnyCommentRestRate.php:84
+#: includes/Rest/AnyCommentRestRate.php:88
+#: includes/Rest/AnyCommentRestSubscriptions.php:79
+#: includes/Rest/AnyCommentRestSubscriptions.php:83
+msgid "Sorry, you are not allowed to create a comment on this post."
+msgstr "この投稿にコメントする権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:521
+#: includes/Rest/AnyCommentRestComment.php:526
+msgid "Sorry, you are not allowed to create this comment without a post."
+msgstr "投稿のない、このコメントをする権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:149
+#: includes/Rest/AnyCommentRestComment.php:444
+#: includes/Rest/AnyCommentRestComment.php:538
+msgid "Sorry, you are not allowed to read the post for this comment."
+msgstr "このコメントのついた投稿を読む権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:440
+msgid "Sorry, you are not allowed to read this comment."
+msgstr "このコメントを読む権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:151
+msgid "Sorry, you are not allowed to read comments without a post."
+msgstr "投稿のないコメントを読む権限がありません。"
+
+#. translators: %s: force=true
+#: includes/Rest/AnyCommentRestComment.php:893
+msgid "The comment does not support trashing. Set '%s' to delete."
+msgstr "コメントはゴミ箱機能をサポートしていません。削除するには「%s」を設定してください。"
+
+#: includes/Rest/AnyCommentRestComment.php:649
+#: includes/Rest/AnyCommentRestComment.php:803
+msgid "Comment field exceeds maximum length allowed."
+msgstr "コメントフィールドが上限を超過しています。"
+
+#: includes/Rest/AnyCommentRestComment.php:1388
+msgid "Offset the result set by a specific number of items."
+msgstr "特定の項目数で結果をオフセットします。"
+
+#: includes/Rest/AnyCommentRestComment.php:157
+#: includes/Rest/AnyCommentRestComment.php:434
+msgid "Sorry, you are not allowed to edit comments."
+msgstr "コメントを編集する権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:1461
+msgid "The password for the post if it is password protected."
+msgstr "パスワードで保護されている場合の投稿のパスワード。"
+
+#: includes/Rest/AnyCommentRestComment.php:1454
+msgid "Limit result set to comments assigned a specific type. Requires authorization."
+msgstr "特定のタイプが割り当てられたコメントに結果を限定します。認証が必要です。"
+
+#: includes/Rest/AnyCommentRestComment.php:1446
+msgid "Limit result set to comments assigned a specific status. Requires authorization."
+msgstr "特定のステータスが割り当てられたコメントに結果を限定します。認証が必要です。"
+
+#: includes/Rest/AnyCommentRestComment.php:1437
+msgid "Limit result set to comments assigned to specific post IDs."
+msgstr "特定の投稿 ID に割り当てられたコメントに結果を限定します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1428
+msgid "Ensure result set excludes specific parent IDs."
+msgstr "特定の親 ID を結果から除外します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1419
+msgid "Limit result set to comments of specific parent IDs."
+msgstr "特定の親 ID に属するコメントに結果を限定します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1403
+msgid "Sort collection by object attribute."
+msgstr "オブジェクト属性でコレクションを並び替えます。"
+
+#: includes/Rest/AnyCommentRestComment.php:1393
+msgid "Order sort attribute ascending or descending."
+msgstr "属性で昇順または降順に並べ替えます。"
+
+#: includes/Rest/AnyCommentRestComment.php:1379
+msgid "Limit result set to specific IDs."
+msgstr "特定の ID に結果を限定します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1370
+msgid "Ensure result set excludes specific IDs."
+msgstr "特定の ID を結果から除外します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1349
+msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
+msgstr "特定のユーザー ID が割り当てられたコメントを結果から除外します。認証が必要です。"
+
+#: includes/Rest/AnyCommentRestComment.php:1341
+msgid "Limit result set to comments assigned to specific user IDs. Requires authorization."
+msgstr "特定のユーザー ID が割り当てられたコメントに結果を限定します。認証が必要です。"
+
+#: includes/Rest/AnyCommentRestComment.php:1279
+msgid "State of the object."
+msgstr "オブジェクトのステータス。"
+
+#: includes/Rest/AnyCommentRestComment.php:1273
+msgid "The ID of the associated post object."
+msgstr "関連投稿オブジェクトの ID。"
+
+#: includes/Rest/AnyCommentRestComment.php:1260
+msgid "URL to the object."
+msgstr "オブジェクトへの URL。"
+
+#: includes/Rest/AnyCommentRestComment.php:1224
+msgid "The content for the object."
+msgstr "オブジェクトのコンテンツ。"
+
+#: includes/Rest/AnyCommentRestComment.php:1216
+msgid "User agent for the object author."
+msgstr "オブジェクトの作成者のユーザーエージェント。"
+
+#: includes/Rest/AnyCommentRestComment.php:1210
+msgid "URL for the object author."
+msgstr "オブジェクトの作成者の URL。"
+
+#: includes/Rest/AnyCommentRestComment.php:1202
+msgid "Display name for the object author."
+msgstr "オブジェクトの作成者の名前を表示します。"
+
+#: includes/Rest/AnyCommentRestComment.php:1196
+msgid "IP address for the object author."
+msgstr "オブジェクトの作成者の IP アドレス。"
+
+#: includes/Rest/AnyCommentRestComment.php:1190
+msgid "Email address for the object author."
+msgstr "オブジェクトの作成者のメールアドレス。"
+
+#: includes/Rest/AnyCommentRestComment.php:1135
+msgid "Invalid comment author ID."
+msgstr "無効なコメントの投稿者 ID です。"
+
+#: includes/Rest/AnyCommentRestComment.php:906
+msgid "The comment cannot be deleted."
+msgstr "そのコメントを削除できません。"
+
+#: includes/Rest/AnyCommentRestComment.php:809
+msgid "Updating comment failed."
+msgstr "コメントの更新に失敗しました。"
+
+#: includes/Rest/AnyCommentRestComment.php:786
+msgid "Updating comment status failed."
+msgstr "コメントのステータス更新に失敗しました。"
+
+#: includes/Rest/AnyCommentRestComment.php:669
+msgid "Creating comment failed."
+msgstr "コメントするのに失敗しました。"
+
+#: includes/Rest/AnyCommentRestComment.php:179
+msgid "Query parameter not permitted: %s"
+msgstr "クエリー変数が許可されていません: %s"
+
+#: includes/Rest/AnyCommentRestComment.php:739
+msgid "Sorry, you are not allowed to edit this comment."
+msgstr "このコメントを編集する権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:397
+msgid "Invalid comment ID."
+msgstr "無効なコメント ID です。"
+
+#: includes/Rest/AnyCommentRestComment.php:542
+msgid "Sorry, comments are closed for this item."
+msgstr "この投稿へのコメントは受け付けていません。"
+
+#. Author URI of the plugin
+msgid "http://bologer.ru"
+msgstr "http://bologer.ru"
+
+#. Plugin URI of the plugin
+msgid "https://anycomment.io"
+msgstr "https://anycomment.io"
+
+#: includes/AnyCommentSocials.php:28
+msgid "VK"
+msgstr "VK"
+
+#: includes/Admin/AnyCommentSocialSettings.php:267
+#: includes/AnyCommentSocials.php:49 includes/Rest/AnyCommentSocialAuth.php:273
+msgid "Google"
+msgstr "Google"
+
+#: includes/AnyCommentSocials.php:56
+msgid "Github"
+msgstr "Github"
+
+#: includes/Admin/AnyCommentSocialSettings.php:335
+#: includes/AnyCommentSocials.php:63 includes/Rest/AnyCommentSocialAuth.php:275
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#. Plugin Name of the plugin
+#: includes/Admin/AnyCommentAdminPages.php:75
+#: includes/Admin/AnyCommentAdminPages.php:76 templates/admin/dashboard.php:31
+#: templates/admin/dashboard.php:32
+msgid "AnyComment"
+msgstr "AnyComment"
+
+#: includes/AnyCommentRender.php:263
+msgid "Add Anycomment to your site"
+msgstr "サイトにAnycommentを追加する"
+
+#: includes/AnyCommentRender.php:262
+msgid "No comments to display"
+msgstr "コメントはまだありません"
+
+#. Author of the plugin
+msgid "Bologer"
+msgstr "Bologer"
+
+#. Description of the plugin
+msgid "AnyComment is an advanced commenting system for WordPress."
+msgstr "AnyCommentはWordPress用の高度なコメントシステムです。"
+
+#: includes/AnyCommentRender.php:276
+msgid "Quick Login"
+msgstr "クイックログイン"
+
+#: includes/AnyCommentRender.php:257
+msgid "oldest"
+msgstr "最も古い"
+
+#: includes/AnyCommentRender.php:258
+msgid "newest"
+msgstr "最新"
+
+#: includes/AnyCommentRender.php:256
+msgid "Sort by"
+msgstr "並び替え"
+
+#: includes/AnyCommentRender.php:279
+msgid "Logout"
+msgstr "ログアウト"
+
+#: templates/admin/news-sidebar.php:45
+msgid "No news yet"
+msgstr "まだニュースはありません"
+
+#: templates/admin/tab-dashboard.php:127
+msgid "No users yet"
+msgstr "ユーザーはまだいません"
+
+#: templates/admin/tab-dashboard.php:112
+msgid "Most Active Users"
+msgstr "最もアクティブなユーザー"
+
+#: templates/admin/tab-dashboard.php:42
+msgid "Overal Statistics"
+msgstr "一般的な統計量"
+
+#: templates/admin/tab-dashboard.php:17 templates/admin/tab-dashboard.php:21
+msgid "Commentators"
+msgstr "コメンテーター"
+
+#: templates/admin/tab-help.php:21
+msgid "Official Website"
+msgstr "公式サイト"
+
+#: includes/Admin/AnyCommentSocialSettings.php:360
+msgid "Enter client secret. Can be found in the email sent to you by Odnoklassniki"
+msgstr "クライアントのシークレットを入力してください。Odnoklassnikiから送られたメールで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:353
+msgid "Enter app key. Can be found in the email sent to you by Odnoklassniki"
+msgstr "アプリカギをを入力してください。Odnoklassnikiから送られたメールで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:352
+msgid "App Key"
+msgstr "アプリカギ"
+
+#: includes/Admin/AnyCommentSocialSettings.php:347
+msgid "Enter app id. Can be found in the email sent to you by Odnoklassniki"
+msgstr "アプリIDを入力してください。Odnoklassnikiから送られたメールで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:341
+msgid "Allow Odnoklassniki authorization"
+msgstr "Odnoklassnikiによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:307
+msgid "Allow GitHub authorization"
+msgstr "GitHubによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:285
+#: includes/Admin/AnyCommentSocialSettings.php:319
+msgid "Enter client secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "クライアントのシークレットを入力してください。<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>のリストで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:284
+#: includes/Admin/AnyCommentSocialSettings.php:318
+#: includes/Admin/AnyCommentSocialSettings.php:393
+#: includes/Admin/AnyCommentSocialSettings.php:455
+#: includes/Admin/AnyCommentSocialSettings.php:489
+#: includes/Admin/AnyCommentSocialSettings.php:523
+#: includes/Admin/AnyCommentSocialSettings.php:558
+msgid "Client Secret"
+msgstr "クライアントシークレット"
+
+#: includes/Admin/AnyCommentSocialSettings.php:279
+#: includes/Admin/AnyCommentSocialSettings.php:313
+msgid "Enter client id. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "クライアントIDを入力してください。<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>のリストで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:278
+#: includes/Admin/AnyCommentSocialSettings.php:312
+#: includes/Admin/AnyCommentSocialSettings.php:387
+#: includes/Admin/AnyCommentSocialSettings.php:517
+msgid "Client ID"
+msgstr "クライアント ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:273
+msgid "Allow Google authorization"
+msgstr "Googleによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:250
+#: includes/Admin/AnyCommentSocialSettings.php:359
+msgid "App Secret"
+msgstr "アプリシークレット"
+
+#: includes/Admin/AnyCommentSocialSettings.php:245
+msgid "Enter app id. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "アプリIDを入力してください。<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>のリストで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:244
+#: includes/Admin/AnyCommentSocialSettings.php:346
+#: includes/Admin/AnyCommentSocialSettings.php:552
+msgid "App ID"
+msgstr "アプリID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:239
+msgid "Allow Facebook authorization"
+msgstr "Facebookによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:217
+msgid "Enter consumer secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "コンシューマシークレットを入力してください。<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>のリストで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:216
+msgid "Consumer Secret"
+msgstr "コンシューマシークレット"
+
+#: includes/Admin/AnyCommentSocialSettings.php:211
+msgid "Enter consumer key. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "コンシューマカギを入力してください。<a href=\"%s\" target=\"_blank\">アプリ(apps)</a>のリストで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:210
+msgid "Consumer Key"
+msgstr "コンシューマカギ"
+
+#: includes/Admin/AnyCommentSocialSettings.php:205
+msgid "Allow Twitter authorization"
+msgstr "Twitterによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:183
+msgid "Enter secure key. Can be found in <a href=\"%s\" target=\"_blank\">apps</a> page"
+msgstr "シークレットカギを入力してください。<a href=\"%s\" target=\"_blank\">アプリ</a>のページで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:182
+msgid "Secure key"
+msgstr "シークレットカギ"
+
+#: includes/Admin/AnyCommentSocialSettings.php:177
+msgid "Enter app id. Can be found in <a href=\"%s\" target=\"_blank\">apps</a> page"
+msgstr "アプリIDを入力してください。<a href=\"%s\" target=\"_blank\">アプリ</a>のページで見つけることができます"
+
+#: includes/Admin/AnyCommentSocialSettings.php:171
+msgid "Allow VK authorization"
+msgstr "VKによって認証を許可します"
+
+#: includes/Admin/AnyCommentSocialSettings.php:185
+#: includes/Admin/AnyCommentSocialSettings.php:219
+#: includes/Admin/AnyCommentSocialSettings.php:253
+#: includes/Admin/AnyCommentSocialSettings.php:287
+#: includes/Admin/AnyCommentSocialSettings.php:321
+#: includes/Admin/AnyCommentSocialSettings.php:362
+#: includes/Admin/AnyCommentSocialSettings.php:396
+#: includes/Admin/AnyCommentSocialSettings.php:424
+#: includes/Admin/AnyCommentSocialSettings.php:458
+#: includes/Admin/AnyCommentSocialSettings.php:492
+#: includes/Admin/AnyCommentSocialSettings.php:526
+#: includes/Admin/AnyCommentSocialSettings.php:561
+msgid "Callback URL"
+msgstr "コールバックURL"
+
+#: includes/Admin/AnyCommentGenericSettings.php:540
+msgid "Show AnyComment's link in the footer of comments. Copyright helps to bring awareness of such plugin and bring people to allow us to understand that it is a wanted product and give more often updated."
+msgstr "コメントのフッターに AnyComment のリンクを表示します。著作権は、そのようなプラグインの認識をもたらし、私たちはそれが望んでいた製品であることを理解し、より頻繁に更新を与えることを可能にするために人々をもたらすのに役立ちます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:539
+msgid "Thanks"
+msgstr "ありがとうございます"
+
+#: includes/Admin/AnyCommentGenericSettings.php:458
+msgid "Number of Comments Loaded"
+msgstr "ロードに関するコメントの数"
+
+#: includes/Admin/AnyCommentGenericSettings.php:379
+msgid "When on, comments are visible. When off, default WordPress' comments shown. This can be used to configure social networks on fresh installation."
+msgstr "オンにすると、コメントが表示されます。オフにすると、デフォルトのWordPressのコメントが示します。これは最初のインストール中にソーシャルネットワークを構成するのに使用できます。"
+
+#: includes/Admin/AnyCommentGenericSettings.php:378
+msgid "Enable Comments"
+msgstr "コメントを有効にする"
+
+#: includes/Debug/DebugReportGenerator.php:55
+msgid "Generic Settings"
+msgstr "一般的な設定"
+
+#. translators: %d: avatar image size in pixels
+#: includes/Rest/AnyCommentRestComment.php:1302
+msgid "Avatar URL with image size of %d pixels."
+msgstr "画像サイズが%dピクセルのアバター URL。"
+
+#: includes/Admin/AnyCommentIntegrationSettings.php:294
+msgid "Theme"
+msgstr "テーマ"
+
+#: includes/Rest/AnyCommentRestComment.php:897
+msgid "The comment has already been trashed."
+msgstr "コメントはすでにゴミ箱に移動済みです。"
+
+#: includes/Rest/AnyCommentRestComment.php:1240
+msgid "HTML content for the object, transformed for display."
+msgstr "表示用に変換された、オブジェクトの HTML コンテンツ。"
+
+#: includes/AnyCommentRender.php:249
+msgid "Load more"
+msgstr "さらに読み込む"
+
+#. translators: %s: request parameter
+#: includes/Rest/AnyCommentRestComment.php:497
+#: includes/Rest/AnyCommentRestComment.php:506
+#: includes/Rest/AnyCommentRestComment.php:515
+msgid "Sorry, you are not allowed to edit '%s' for comments."
+msgstr "コメントの '%s' を設定する権限がありません。"
+
+#: includes/Rest/AnyCommentRestComment.php:1267
+msgid "The ID for the parent of the object."
+msgstr "親オブジェクトの ID。"
+
+#: includes/Rest/AnyCommentRestComment.php:1235
+msgid "Content for the object, as it exists in the database."
+msgstr "データベースに存在する形態の、オブジェクトのコンテンツ。"
+
+#: includes/Rest/AnyCommentRestComment.php:411
+#: includes/Rest/AnyCommentRestComment.php:777
+msgid "Invalid post ID."
+msgstr "無効な投稿 ID です。"
+
+#: includes/AnyCommentRender.php:252
+msgid "Send"
+msgstr "送信"
+
+#: includes/Rest/AnyCommentRestComment.php:1185
+msgid "The ID of the user object, if author was a user."
+msgstr "投稿者がユーザーだった場合の、ユーザーオブジェクトの ID。"
+
+#: includes/Rest/AnyCommentRestComment.php:1358
+msgid "Limit result set to that from a specific author email. Requires authorization."
+msgstr "特定の投稿者のメールからのものに結果を限定します。認証が必要です。"
+
+#: includes/Rest/AnyCommentRestComment.php:560
+msgid "Cannot create existing comment."
+msgstr "既存のコメントを作成することはできません。"
+
+#: includes/Rest/AnyCommentRestComment.php:93
+#: includes/Rest/AnyCommentRestComment.php:121
+#: includes/Rest/AnyCommentRestComment.php:1179
+#: includes/Rest/AnyCommentRestLikes.php:61
+msgid "Unique identifier for the object."
+msgstr "オブジェクトの一意識別子。"
+
+#: includes/Rest/AnyCommentRestComment.php:1287
+msgid "Type of Comment for the object."
+msgstr "オブジェクトのコメントタイプ。"
+
+#: includes/Rest/AnyCommentRestComment.php:1248
+msgid "The date the object was published, in the site's timezone."
+msgstr "オブジェクトの公開日 (サイトのタイムゾーン)。"
+
+#: includes/Rest/AnyCommentRestComment.php:1254
+msgid "The date the object was published, as GMT."
+msgstr "オブジェクトの公開日 (GMT)。"
+
+#: templates/admin/tabs.php:16
+msgid "Integration"
+msgstr "連携"
+
+#: includes/Rest/AnyCommentRestComment.php:1310
+msgid "Avatar URLs for the object author."
+msgstr "オブジェクト作成者のアバター URL。"
+
+#: includes/Admin/AnyCommentSocialSettings.php:176
+#: includes/Rest/AnyCommentRestServiceSync.php:69
+msgid "Application ID"
+msgstr "申請 ID"
+
+#: includes/Admin/AnyCommentSocialSettings.php:251
+msgid "Enter app secret. Can be found in the list of <a href=\"%s\" target=\"_blank\">apps</a>"
+msgstr "アプリシークレットを入力してください。<a href=\"%s\" target=\"_blank\">アプリ (apps)</a> のリストで見つけることができます"

@@ -1,0 +1,55 @@
+<svg width="342" height="180" viewBox="0 0 342 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="341" height="180" transform="translate(0.763672)" fill="#F5F5F5"/>
+<path d="M273.264 133C286.764 132 312.564 121.3 313.764 92.5C313.764 56.5 286.264 47 272.764 47C253.264 47 172.264 47 126.264 47" stroke="black"/>
+<path d="M273.467 133H201.263" stroke="black"/>
+<path d="M184.264 47L140.764 95.5" stroke="black"/>
+<path d="M179.764 47L136.264 95.5" stroke="black"/>
+<path d="M174.764 47L131.264 95.5" stroke="black"/>
+<path d="M169.764 47L126.264 95.5" stroke="black"/>
+<path d="M164.764 47L121.264 95.5" stroke="black"/>
+<path d="M159.764 47L116.264 95.5" stroke="black"/>
+<circle r="38" transform="matrix(-1 0 0 1 264.764 90)" fill="#AB85FF"/>
+<circle r="38" transform="matrix(-1 0 0 1 264.764 90)" fill="#31D67B"/>
+<circle r="9.5" transform="matrix(-1 0 0 1 214.264 115.5)" fill="#8052E4"/>
+<g clip-path="url(#clip0)">
+<rect width="142" height="39" transform="matrix(-1 0 0 1 170.764 94)" fill="#AB85FF"/>
+<path d="M225.93 82.5457C149.427 38.8298 94.7821 38.8298 61.9953 82.5457C29.2084 126.262 -25.4364 126.262 -101.939 82.5457" stroke="#8052E4" stroke-width="2"/>
+<path d="M230.166 159.208C171.518 93.4497 119.705 76.0868 74.7273 107.12C29.7492 138.152 -22.0638 120.789 -80.7117 55.0309" stroke="#8052E4" stroke-width="2"/>
+<path d="M222.695 137.361C142.994 99.7916 88.5183 104.085 59.2677 150.242C30.017 196.399 -24.4589 200.692 -104.16 163.123" stroke="#8052E4" stroke-width="2"/>
+</g>
+<circle r="1.375" transform="matrix(-1 0 0 1 252.389 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 246.639 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 240.889 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 235.139 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 229.389 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 223.639 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 217.889 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 212.139 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 206.389 84.375)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 252.389 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 246.639 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 252.389 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 246.639 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 240.889 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 235.139 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 229.389 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 223.639 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 217.889 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 212.139 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 206.389 95.875)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 240.889 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 235.139 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 229.389 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 223.639 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 217.889 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 212.139 90.125)" fill="#D4D4D4"/>
+<circle r="1.375" transform="matrix(-1 0 0 1 206.389 90.125)" fill="#D4D4D4"/>
+<path d="M54.0975 86.3448C54.0975 81.4795 56.0302 76.8134 59.4705 73.3731C62.9109 69.9328 67.5769 68 72.4423 68C77.3076 68 81.9737 69.9328 85.414 73.3731C88.8544 76.8134 90.7871 81.4795 90.7871 86.3448L72.4423 86.3448H54.0975Z" fill="#D4D4D4"/>
+<path d="M81.1775 86.3449C81.1775 83.1013 82.4199 79.9906 84.6316 77.697C86.8432 75.4035 89.8428 74.115 92.9706 74.115C96.0983 74.115 99.0979 75.4035 101.31 77.697C103.521 79.9906 104.764 83.1013 104.764 86.3449L92.9706 86.3449H81.1775Z" fill="#D4D4D4"/>
+<path d="M28.7631 86.3449C28.7631 83.1013 30.5578 79.9906 33.7523 77.697C36.9469 75.4035 41.2797 74.115 45.7975 74.115C50.3154 74.115 54.6482 75.4035 57.8427 77.697C61.0373 79.9906 62.832 83.1013 62.832 86.3449L45.7975 86.3449H28.7631Z" fill="#D4D4D4"/>
+<defs>
+<clipPath id="clip0">
+<rect width="142" height="39" fill="white" transform="matrix(-1 0 0 1 170.764 94)"/>
+</clipPath>
+</defs>
+</svg>

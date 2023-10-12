@@ -1,0 +1,56 @@
+<svg width="341" height="180" viewBox="0 0 341 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="197" height="13" transform="translate(40 36)" fill="#31D67B"/>
+<rect width="197" height="12" transform="translate(109 139)" fill="#31D67B"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="105" y="20" width="66" height="57">
+<path d="M122.5 22L130.5 76" stroke="black"/>
+<path d="M127 22L135 76" stroke="black"/>
+<path d="M132 22L140 76" stroke="black"/>
+<path d="M137 22L145 76" stroke="black"/>
+<path d="M142 21L150 75" stroke="black"/>
+<path d="M147 21L155 75" stroke="black"/>
+<path d="M152 21L160 75" stroke="black"/>
+<path d="M157 21L165 75" stroke="black"/>
+<path d="M162 21L170 75" stroke="black"/>
+<path d="M117 22L125 76" stroke="black"/>
+<path d="M111 22L119 76" stroke="black"/>
+<path d="M106 22L114 76" stroke="black"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M135.5 76L105.622 24.25H165.378L135.5 76Z" fill="black"/>
+</g>
+<path d="M209 118.965L136 118.965M136 118.965L138 119.93M136 118.965L138 118" stroke="black"/>
+<path d="M243 128.965L170 128.965M170 128.965L172 129.93M170 128.965L172 128" stroke="black"/>
+<path d="M289 139C289 134.01 287.81 129.068 285.498 124.458C283.187 119.848 279.798 115.659 275.527 112.13C271.255 108.601 266.184 105.802 260.603 103.893C255.022 101.983 249.041 101 243 101C236.959 101 230.978 101.983 225.397 103.893C219.816 105.802 214.745 108.601 210.473 112.13C206.202 115.659 202.813 119.848 200.502 124.458C198.19 129.068 197 134.01 197 139L243 139H289Z" fill="#AB85FF"/>
+<circle cx="289" cy="95" r="10" fill="#8052E4"/>
+<circle cx="37.375" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="43.125" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="48.875" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="54.625" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="60.375" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="66.125" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="71.875" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="77.625" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="83.375" cy="43.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="37.375" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="43.125" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="37.375" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="43.125" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="48.875" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="54.625" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="60.375" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="66.125" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="71.875" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="77.625" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="83.375" cy="54.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="48.875" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="54.625" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="60.375" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="66.125" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="71.875" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="77.625" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="83.375" cy="49.125" r="1.375" fill="#D4D4D4"/>
+<path d="M154 101.5L136.75 111.459V91.5407L154 101.5Z" fill="#8052E4"/>
+<path d="M161 101.5L143.75 111.459V91.5407L161 101.5Z" fill="#A57CFE"/>
+<path d="M169 101.5L151.75 111.459V91.5407L169 101.5Z" fill="#AB85FF"/>
+<path d="M179 101.5L161.75 111.459V91.5407L179 101.5Z" fill="#B491FF"/>
+</svg>

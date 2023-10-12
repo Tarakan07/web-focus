@@ -1,0 +1,47 @@
+<svg width="341" height="180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M197 90a71 71 0 11-142 0h142z" fill="#AB85FF"/>
+  <mask id="a" maskUnits="userSpaceOnUse" x="55" y="90" width="142" height="71">
+    <path d="M197 90a71 71 0 11-142 0h142z" fill="#AB85FF"/>
+  </mask>
+  <g mask="url(#a)" stroke="#B491FF" stroke-width="2">
+    <path d="M-15.2 107.5c76.5-43.7 131.2-43.7 164 0 32.8 43.8 87.4 43.8 163.9 0"/>
+    <path d="M-5.6 191.3C53.1 125.5 105 108 150 139.2c45 31 96.7 13.6 155.4-52.1"/>
+    <path d="M-12 162.4c79.8-37.6 134.2-33.3 163.5 12.8 29.2 46.2 83.7 50.5 163.4 13"/>
+  </g>
+  <path d="M168 67v23M172 67v23M176 67v23M180 67v23M184 67v23M188 67v23" stroke="#000"/>
+  <path d="M160 77a54 54 0 01108 0H160z" fill="#31D67B"/>
+  <mask id="b" fill="#fff">
+    <path d="M147 72a54 54 0 01108 0H147z"/>
+  </mask>
+  <path d="M147 72a54 54 0 01108 0H147z" stroke="#000" stroke-width="2" mask="url(#b)"/>
+  <circle cx="250.4" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="256.1" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="261.9" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="267.4" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="273.4" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="279.1" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="284.9" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="290.6" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="296.4" cy="53.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="250.4" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="256.1" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="250.4" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="256.1" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="261.9" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="267.6" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="273.4" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="279.1" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="284.9" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="290.6" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="296.4" cy="64.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="261.9" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="267.4" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="273.4" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="279.1" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="284.9" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="290.6" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="296.4" cy="59.1" r="1.4" fill="#D4D4D4"/>
+  <path d="M303.5 63v6.5H297" stroke="#31D67B"/>
+  <path d="M55 153.5l9.5-9.5M61.5 154l9.5-9.5M68 154l9.5-9.5M74.5 154l9.5-9.5M81 154l9.5-9.5M87.5 154l9.5-9.5M94 154l9.5-9.5" stroke="#000"/>
+  <circle cx="205.5" cy="143.5" r="8.5" fill="#8052E4"/>
+</svg>

@@ -1,0 +1,504 @@
+# Translation of Plugins - Custom Field Suite - Development (trunk) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Custom Field Suite - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-11 08:22:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Custom Field Suite - Development (trunk)\n"
+
+#: includes/init.php:152
+msgid "CFS Tools"
+msgstr "CFS-verktøy"
+
+#: includes/init.php:296
+msgid "Term IDs"
+msgstr "Term-IDer"
+
+#: includes/init.php:280
+msgid "Placement"
+msgstr "Plassering"
+
+#: includes/init.php:279
+msgid "Title"
+msgstr "Tittel"
+
+#: includes/init.php:162
+msgid "Extras"
+msgstr "Ekstra"
+
+#: includes/init.php:161
+msgid "Placement Rules"
+msgstr "Plasseringsregler"
+
+#: includes/init.php:160
+msgid "Fields"
+msgstr "Felter"
+
+#: includes/init.php:67
+msgid "No Field Groups found in Trash"
+msgstr "Ingen feltgrupper funnet i papirkurven"
+
+#: includes/init.php:66
+msgid "No Field Groups found"
+msgstr "Ingen feltgrupper funnet"
+
+#: includes/init.php:65
+msgid "Search Field Groups"
+msgstr "Søk feltgrupper"
+
+#: includes/init.php:64
+msgid "View Field Group"
+msgstr "Se feltgruppe"
+
+#: includes/init.php:63
+msgid "New Field Group"
+msgstr "Ny feltgruppe"
+
+#: includes/init.php:62
+msgid "Edit Field Group"
+msgstr "Rediger feltgruppe"
+
+#: includes/init.php:61
+msgid "Add New Field Group"
+msgstr "Legg til ny feltgruppe"
+
+#: includes/init.php:59
+msgid "Field Group"
+msgstr "Feltgruppe"
+
+#: includes/init.php:58
+msgid "Field Groups"
+msgstr "Feltgrupper"
+
+#: includes/form.php:390
+msgid "Toggle row visibility"
+msgstr "Veksle synlighet for rader"
+
+#: includes/form.php:217
+msgid "Submit"
+msgstr "Send inn"
+
+#: includes/form.php:193
+msgid "One (or more) of your fields had validation errors. More information is available below."
+msgstr "Én (eller flere) av dine felter hadde vakideringsfeil. Mer informasjon er tilgjengelig nedenfor."
+
+#: includes/fields/user.php:31
+msgid "Search users"
+msgstr "Søk i brukere"
+
+#: includes/fields/user.php:8
+msgid "User"
+msgstr "Bruker"
+
+#: includes/fields/loop.php:74 includes/fields/loop.php:140
+#: includes/fields/loop.php:197
+msgid "Add Row"
+msgstr "Legg til rad"
+
+#: includes/fields/loop.php:67
+msgid "Button Label"
+msgstr "Knappe-etikett"
+
+#: includes/fields/loop.php:60 includes/fields/loop.php:114
+#: includes/fields/loop.php:196
+msgid "Loop Row"
+msgstr "Løkke-rad"
+
+#: includes/fields/loop.php:53
+msgid "Row Label"
+msgstr "Etikett for rad"
+
+#: includes/fields/loop.php:46
+msgid "Show the values by default"
+msgstr "Vis verdiene som standard"
+
+#: includes/fields/loop.php:37
+msgid "Row Display"
+msgstr "Radvisning"
+
+#: includes/fields/loop.php:9
+msgid "Loop"
+msgstr "Løkke"
+
+#: includes/fields/select.php:142
+msgid "Render this field with Select2"
+msgstr "Gjengi dette feltet med Select2"
+
+#: includes/fields/select.php:133
+msgid "Select2"
+msgstr "Select2"
+
+#: includes/fields/select.php:126
+msgid "This is a multi-select field"
+msgstr "Dette er et flervalgsfelt"
+
+#: includes/fields/select.php:117
+msgid "Multi-select?"
+msgstr "Flervalg?"
+
+#: includes/fields/select.php:103
+msgid "Enter one choice per line"
+msgstr "Sktiv inn ett valg pr. linje"
+
+#: includes/fields/select.php:102
+msgid "Choices"
+msgstr "Valg"
+
+#: includes/fields/select.php:9
+msgid "Select"
+msgstr "Velg"
+
+#: includes/fields/textarea.php:47
+msgid "Convert newlines to <br />"
+msgstr "Konverter linjeskift til <br />"
+
+#: includes/fields/textarea.php:46
+msgid "None"
+msgstr "Ingen"
+
+#: includes/fields/textarea.php:8
+msgid "Textarea"
+msgstr "Tekstområde"
+
+#: includes/fields/date/date.php:8
+msgid "Date"
+msgstr "Dato"
+
+#: includes/fields/relationship.php:87
+msgid "Limit posts to the following types"
+msgstr "Begrens innleggene til følgende typer"
+
+#: includes/fields/relationship.php:58
+msgid "Search posts"
+msgstr "Søk i innlegg"
+
+#: includes/fields/relationship.php:8
+msgid "Relationship"
+msgstr "Forhold"
+
+#: includes/fields/file.php:76
+msgid "Attachment ID"
+msgstr "Vedleggs-ID"
+
+#: includes/fields/file.php:75
+msgid "File URL"
+msgstr "Fil-URL"
+
+#: includes/fields/file.php:66
+msgid "Return Value"
+msgstr "Returverdi"
+
+#: includes/fields/file.php:55
+msgid "Video"
+msgstr "Video"
+
+#: includes/fields/file.php:54
+msgid "Audio"
+msgstr "Lydklipp"
+
+#: includes/fields/file.php:53
+msgid "Image"
+msgstr "Bilde"
+
+#: includes/fields/file.php:52
+msgid "Any"
+msgstr "Enhver"
+
+#: includes/fields/file.php:43
+msgid "File Type"
+msgstr "Filtype"
+
+#: includes/fields/file.php:33
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/fields/file.php:32
+msgid "Add File"
+msgstr "Legg til fil"
+
+#: includes/fields/file.php:8
+msgid "File Upload"
+msgstr "Filopplasting"
+
+#: includes/fields/true_false.php:33
+msgid "The text beside the checkbox"
+msgstr "Teksten ved siden av avkrysningsboksen"
+
+#: includes/fields/true_false.php:32
+msgid "Message"
+msgstr "Melding"
+
+#: includes/fields/true_false.php:8
+msgid "True / False"
+msgstr "Sann / usann"
+
+#: includes/fields/wysiwyg.php:43
+msgid "None (bypass filters)"
+msgstr "Ingen (forbigå filtre)"
+
+#: includes/fields/wysiwyg.php:42
+msgid "Default"
+msgstr "Standard"
+
+#: includes/fields/textarea.php:37 includes/fields/wysiwyg.php:33
+msgid "Formatting"
+msgstr "Formatering"
+
+#: includes/fields/wysiwyg.php:8
+msgid "Wysiwyg Editor"
+msgstr "Wysiwyg redigeringsverktøy"
+
+#: includes/fields/loop.php:82 includes/fields/relationship.php:102
+#: includes/fields/term.php:109 includes/fields/user.php:56
+msgid "Limits"
+msgstr "Begrensninger"
+
+#: includes/fields/term.php:94
+msgid "Limit terms to the following taxonomies"
+msgstr "Begrens termene til følgende taksonomier"
+
+#: includes/fields/term.php:93
+msgid "Taxonomies"
+msgstr "Taksonomier"
+
+#: includes/fields/term.php:65
+msgid "Search terms"
+msgstr "Søkeord"
+
+#: includes/fields/term.php:8
+msgid "Term"
+msgstr "Term"
+
+#: includes/fields/tab.php:8
+msgid "Tab"
+msgstr "Fane"
+
+#: includes/fields/hyperlink.php:58
+msgid "PHP Array"
+msgstr "PHP-rekke"
+
+#: includes/fields/hyperlink.php:57
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/fields/hyperlink.php:48
+msgid "Output format"
+msgstr "Utdataformat"
+
+#: includes/fields/hyperlink.php:31
+msgid "Link Target"
+msgstr "Lenkemål"
+
+#: includes/fields/hyperlink.php:27
+msgid "Link Text"
+msgstr "Lenketekst"
+
+#: includes/fields/hyperlink.php:23
+msgid "URL"
+msgstr "URL"
+
+#: includes/fields/hyperlink.php:9
+msgid "Hyperlink"
+msgstr "Hyperlenke"
+
+#: includes/fields/color/color.php:16 includes/fields/text.php:16
+#: includes/fields/textarea.php:23
+msgid "Default Value"
+msgstr "Standardverdi"
+
+#: includes/fields/color/color.php:8
+msgid "Color"
+msgstr "Farge"
+
+#: includes/field_group.php:120
+msgid "Nothing to import"
+msgstr "Ingenting å importere"
+
+#: includes/field_group.php:115
+msgid "Skipped"
+msgstr "Hoppet over"
+
+#: includes/field_group.php:112
+msgid "Imported"
+msgstr "Importert"
+
+#: includes/revision.php:26
+msgid "Post Meta"
+msgstr "Innleggsmeta"
+
+#: includes/field.php:51 includes/fields/file.php:96
+#: includes/fields/select.php:158 includes/fields/text.php:39
+#: includes/fields/textarea.php:67 includes/fields/true_false.php:56
+#: includes/fields/wysiwyg.php:63
+msgid "This is a required field"
+msgstr "Dette er et påkrevet felt"
+
+#: includes/field.php:42 includes/fields/file.php:87
+#: includes/fields/select.php:149 includes/fields/text.php:30
+#: includes/fields/textarea.php:58 includes/fields/true_false.php:47
+#: includes/fields/wysiwyg.php:54
+msgid "Validation"
+msgstr "Validering"
+
+#: includes/field.php:16 includes/fields/text.php:8
+msgid "Text"
+msgstr "Tekst"
+
+#: templates/meta_box_fields.php:60
+msgid "Add New Field"
+msgstr "Legg til nytt felt"
+
+#: templates/admin_head.php:24
+msgid "New Field"
+msgstr "Nytt felt"
+
+#: templates/page_tools.php:129
+msgid "Delete everything"
+msgstr "Slett alt"
+
+#: templates/page_tools.php:128
+msgid "This will delete all CFS data and deactivate the plugin."
+msgstr "Dette vil slette alle CFS-data og deaktivere utvidelsen."
+
+#: templates/page_tools.php:127
+msgid "Reset and deactivate."
+msgstr "Tilbakestill og deaktiver."
+
+#: templates/page_tools.php:83
+msgid "Reset"
+msgstr "Tilbakestill"
+
+#: templates/page_tools.php:82 templates/page_tools.php:120
+msgid "Import"
+msgstr "Import"
+
+#: templates/page_tools.php:81 templates/page_tools.php:102
+msgid "Export"
+msgstr "Eksport"
+
+#: templates/page_tools.php:78
+msgid "Tools"
+msgstr "Verktøy"
+
+#: templates/field_html.php:83
+msgid "delete"
+msgstr "slette"
+
+#: templates/field_html.php:83
+msgid "or"
+msgstr "eller"
+
+#: templates/field_html.php:82
+msgid "Close"
+msgstr "Lukk"
+
+#: templates/field_html.php:69
+msgid "Notes for editors during data entry"
+msgstr "Merknader til redaktører ved innsrkiving av data"
+
+#: templates/field_html.php:67
+msgid "Notes"
+msgstr "Merknader"
+
+#: templates/field_html.php:49
+msgid "Field Type"
+msgstr "Felttype"
+
+#: templates/field_html.php:42
+msgid "The field name is passed into get() to retrieve values. Use only lowercase letters, numbers, and underscores."
+msgstr "Feltnavnet sendes til get() for å hente verdier. Bruk bare små bokstaver, tall og understreker."
+
+#: templates/field_html.php:39
+msgid "Name"
+msgstr "Navn"
+
+#: templates/field_html.php:32
+msgid "The field label that editors will see."
+msgstr "Felt-etiketten refaktørene vil se."
+
+#: templates/field_html.php:30
+msgid "Label"
+msgstr "Etikett"
+
+#: templates/meta_box_extras.php:64
+msgid "Hide the content editor"
+msgstr "Skjul innholdsredigeringsverktøyet"
+
+#: templates/meta_box_extras.php:54
+msgid "Display Settings"
+msgstr "Visningsinnstillinger"
+
+#: templates/meta_box_extras.php:49
+msgid "Side"
+msgstr "Sidestilt"
+
+#: templates/meta_box_extras.php:48
+msgid "Normal"
+msgstr "Normalt"
+
+#: templates/meta_box_extras.php:45
+msgid "Position"
+msgstr "Plassering"
+
+#: templates/meta_box_extras.php:35
+msgid "The field group with the lowest order will appear first."
+msgstr "Feltgruppen med lavest rekkefølge vi vises først."
+
+#: templates/meta_box_extras.php:33
+msgid "Order"
+msgstr "Rekkefølge"
+
+#: includes/init.php:297 templates/meta_box_rules.php:303
+msgid "Page Templates"
+msgstr "Sidemaler"
+
+#: templates/meta_box_rules.php:271
+msgid "Taxonomy Terms"
+msgstr "Taksonomi-termer"
+
+#: includes/init.php:295 templates/meta_box_rules.php:247
+msgid "Posts"
+msgstr "Innlegg"
+
+#: includes/init.php:294 templates/meta_box_rules.php:215
+msgid "User Roles"
+msgstr "Brukerroller"
+
+#: includes/init.php:298 templates/meta_box_rules.php:182
+msgid "Post Formats"
+msgstr "Innleggsformater"
+
+#: includes/fields/relationship.php:86 includes/init.php:293
+#: templates/meta_box_rules.php:149
+msgid "Post Types"
+msgstr "Innholdstyper"
+
+#: templates/meta_box_rules.php:110 templates/meta_box_rules.php:115
+msgid "Leave blank to skip this rule"
+msgstr "La stå tom for å hoppe over denne regelen"
+
+#: templates/meta_box_rules.php:6
+msgid "is not"
+msgstr "er ikke"
+
+#: templates/meta_box_rules.php:5
+msgid "equals"
+msgstr "er lik"
+
+#. Author of the plugin
+msgid "Matt Gibbs"
+msgstr "Matt Gibbs"
+
+#. Description of the plugin
+msgid "Visually add custom fields to your WordPress edit pages."
+msgstr "Legg til tilpassede felter visuelt på dine redigeringssider i WordPress."
+
+#. Plugin Name of the plugin
+#: includes/init.php:60
+msgid "Custom Field Suite"
+msgstr "Tilpassede felt"

@@ -1,0 +1,42 @@
+<svg width="341" height="180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#A57CFE" d="M32 40h94v48H32z"/>
+  <mask id="a" maskUnits="userSpaceOnUse" x="32" y="40" width="94" height="48">
+    <path transform="translate(32 40)" fill="#31D67B" d="M0 0h94v48H0z"/>
+  </mask>
+  <g mask="url(#a)" stroke="#4AE991" stroke-width="2">
+    <path d="M-87.1 32.3c76.5-43.7 131.1-43.7 164 0 32.7 43.7 87.3 43.7 163.9 0"/>
+    <path d="M-77.5 116C-19 50.3 32.9 33 77.9 64s96.8 13.6 155.4-52.1"/>
+    <path d="M-83.9 87.1C-4.2 49.6 50.3 54 79.5 100.1c29.3 46 83.8 50.4 163.5 12.8"/>
+  </g>
+  <path d="M102 44.5l9.5-9.5M108.5 45l9.5-9.5M115 45l9.5-9.5M121.5 45l9.5-9.5M128 45l9.5-9.5M134.5 45l9.5-9.5M141 45l9.5-9.5" stroke="#000"/>
+  <path fill="#A57CFE" d="M167 96h94v48h-94z"/>
+  <path fill="#31D67B" d="M190 72h94v48h-94z"/>
+  <path d="M167 125H64m0 0l2.8-1m-2.8 1l2.8 1M190 111H87m0 0l2.8-1m-2.8 1l2.8 1" stroke="#000"/>
+  <circle cx="262.4" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="268.1" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="273.9" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="279.6" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="285.4" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="291.1" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="296.9" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="302.6" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="308.4" cy="82.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="262.4" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="268.1" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="262.4" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="268.1" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="273.9" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="279.6" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="285.4" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="291.1" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="296.9" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="302.6" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="308.4" cy="93.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="273.9" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="279.6" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="285.4" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="291.1" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="296.9" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="302.6" cy="88.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="308.4" cy="88.1" r="1.4" fill="#D4D4D4"/>
+</svg>

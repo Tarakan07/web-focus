@@ -1,0 +1,80 @@
+# Translation of Plugins - Simple Sitemap &#8211; Create a Responsive HTML Sitemap - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Simple Sitemap &#8211; Create a Responsive HTML Sitemap - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-18 18:02:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Simple Sitemap &#8211; Create a Responsive HTML Sitemap - Stable (latest release)\n"
+
+#: lib/classes/plugin-admin-pages/class-settings-welcome.php:68
+msgid "Welcome to "
+msgstr "Välkommen till "
+
+#: lib/classes/plugin-admin-pages/class-settings-new-features.php:66
+msgid "New Features"
+msgstr "Nya funktioner"
+
+#: api/classes/modules/create-duplicate-post.php:157
+msgid "Duplicate"
+msgstr "Duplicera"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:244
+msgid "Displays a list of taxonomy terms for any registered taxonomy (e.g. categories)."
+msgstr "Visar en lista över taxonomitermer för alla registrerade taxonomier (t.ex. kategorier)."
+
+#: lib/classes/plugin-admin-pages/class-settings.php:238
+msgid "Displays a list of posts grouped by category, OR tags."
+msgstr "Visar en lista över inlägg grupperade efter kategori ELLER etiketter."
+
+#. translators: %d: ID of a post
+#: shared/class-wpgo-walker-page.php:100
+msgid "#%d (no title)"
+msgstr "#%d (ingen rubrik)"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:250
+msgid "Displays a sitemap based on a nav menu."
+msgstr "Visar en webbplatskarta baserad på en navigeringsmeny."
+
+#: api/classes/links.php:26 shared/links.php:58
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:256
+msgid "Displays a list of child pages for a specific parent page."
+msgstr "Visar en lista med underordnade sidor för en specifik överordnad sida."
+
+#: lib/classes/plugin-admin-pages/class-settings.php:234
+msgid "Displays a list of posts for one or more post types."
+msgstr "Visar en lista över inlägg för en eller flera inläggstyper."
+
+#. Author URI of the plugin
+msgid "http://www.wpgoplugins.com"
+msgstr "http://www.wpgoplugins.com"
+
+#. Description of the plugin
+msgid "HTML sitemap to display content as a single linked list of posts, pages, or custom post types. You can even display posts in groups sorted by taxonomy!"
+msgstr "HTML-webbplatskarta för att visa innehåll som en enda länkad lista över inlägg, sidor eller anpassade inläggstyper. Du kan till och med visa inlägg i grupper sorterade efter taxonomi!"
+
+#. Author of the plugin
+msgid "David Gwyer"
+msgstr "David Gwyer"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/simple-sitemap/"
+msgstr "http://wordpress.org/plugins/simple-sitemap/"
+
+#. Plugin Name of the plugin
+#: lib/classes/plugin-admin-pages/class-settings.php:86
+#: lib/classes/plugin-admin-pages/class-settings.php:160
+#: lib/classes/register-blocks.php:44
+msgid "Simple Sitemap"
+msgstr "Simple Sitemap"
+
+#: lib/classes/plugin-admin-pages/class-settings.php:88
+msgid "Simple Sitemap Settings Page"
+msgstr "Inställningssida för Simple Sitemap"

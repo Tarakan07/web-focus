@@ -1,0 +1,54 @@
+@mixin linearBg {
+  background: var(--mainBg);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@mixin linearBgText {
+  animation: linearBgText 8s linear infinite;
+  background-image: linear-gradient(to right, #eba3e3, #ab85ff, #ffdbe4);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 1000%;
+}
+
+@mixin Circle($size) {
+  width: $size;
+  height: $size;
+  border-radius: 50%;
+}
+
+@mixin bgOption($posX, $posY, $sizeX, $sizeY) {
+  background-position-x: $posX;
+  background-position-y: $posY;
+  background-size: $sizeX $sizeY;
+  background-repeat: no-repeat;
+}
+
+@mixin arrowRight {
+  width: 100%;
+  height: 0.0625rem;
+  background: #000;
+  transform-origin: right;
+  &::after,
+  &::before {
+    content: "";
+    position: absolute;
+    background-color: #000;
+    width: 0.0625rem;
+    height: 0.4375rem;
+    border-radius: 0.0625rem;
+    right: 0.0625rem;
+  }
+  &::after {
+    transform: rotate(45deg);
+    bottom: -0.3125rem;
+  }
+
+  &::before {
+    transform: rotate(135deg);
+    bottom: -0.0625rem;
+  }
+}

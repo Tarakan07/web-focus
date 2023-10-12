@@ -1,0 +1,51 @@
+<svg width="341" height="180" viewBox="0 0 341 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="341" height="180" fill="#F5F5F5"/>
+<path d="M145.547 112.252L92.1406 147.329H244.958L294.663 112.252H145.547Z" fill="#31D67B"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="92" y="112" width="203" height="36">
+<path d="M145.547 112.252L92.1406 147.329H244.958L294.663 112.252H145.547Z" fill="#31D67B"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M419.551 113.505C322.055 90.9854 252.415 90.9854 210.631 113.505C168.847 136.024 99.2071 136.024 1.71125 113.505" stroke="#8052E4"/>
+<path d="M407.339 156.631C332.597 122.757 266.566 113.813 209.246 129.799C151.925 145.785 85.8942 136.841 11.1527 102.966" stroke="#8052E4"/>
+<path d="M415.43 141.743C313.858 122.389 244.433 124.601 207.156 148.378C169.878 172.155 100.454 174.366 -1.11818 155.013" stroke="#8052E4"/>
+</g>
+<path d="M73.3398 74.8545L119.481 135.67" stroke="black" stroke-width="0.684791"/>
+<path d="M78.1133 74.8535L124.255 135.669" stroke="black" stroke-width="0.684791"/>
+<path d="M83.418 74.8535L129.559 135.669" stroke="black" stroke-width="0.684791"/>
+<path d="M88.7188 74.8535L134.86 135.669" stroke="black" stroke-width="0.684791"/>
+<path d="M94.0234 74.8535L140.165 135.669" stroke="black" stroke-width="0.684791"/>
+<path d="M99.3281 74.8535L145.47 135.669" stroke="black" stroke-width="0.684791"/>
+<path d="M58.8771 32.6719H125.451V91.756H58.8771L46.6719 87.2968V36.3879L58.8771 32.6719Z" fill="#A57CFE"/>
+<path d="M58.8771 32.6719V91.756L46.6719 87.2968V36.3879L58.8771 32.6719Z" fill="#8052E4"/>
+<path d="M271.277 66.5684H232.356V101.111H271.277L278.412 98.5036V68.7408L271.277 66.5684Z" fill="#A57CFE"/>
+<path d="M271.277 66.5684V101.111L278.412 98.5036V68.7408L271.277 66.5684Z" fill="#8052E4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 114.559 69.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 124.559 69.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 134.559 69.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 144.559 69.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 114.559 59.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 124.559 59.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 134.559 59.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 144.559 59.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 144.559 49.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 134.559 49.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 124.559 49.0684)" fill="#D4D4D4"/>
+<circle r="2.5" transform="matrix(1 0 0 -1 114.559 49.0684)" fill="#D4D4D4"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="236" y="51" width="36" height="31">
+<path d="M262.412 52.1055L258.113 81.1214" stroke="black"/>
+<path d="M259.992 52.1055L255.694 81.1214" stroke="black"/>
+<path d="M257.309 52.1055L253.01 81.1214" stroke="black"/>
+<path d="M254.621 52.1055L250.322 81.1214" stroke="black"/>
+<path d="M251.934 51.5684L247.635 80.5843" stroke="black"/>
+<path d="M249.246 51.5684L244.947 80.5843" stroke="black"/>
+<path d="M246.559 51.5684L242.26 80.5843" stroke="black"/>
+<path d="M243.875 51.5684L239.576 80.5843" stroke="black"/>
+<path d="M241.188 51.5684L236.889 80.5843" stroke="black"/>
+<path d="M265.367 52.1055L261.069 81.1214" stroke="black"/>
+<path d="M268.59 52.1055L264.291 81.1214" stroke="black"/>
+<path d="M271.277 52.1055L266.979 81.1214" stroke="black"/>
+</mask>
+<g mask="url(#mask1)">
+<path d="M255.425 81.1221L271.479 53.3151H239.37L255.425 81.1221Z" fill="black"/>
+</g>
+</svg>

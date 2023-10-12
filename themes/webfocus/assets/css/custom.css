@@ -1,0 +1,186 @@
+/* // casewf_28 // */
+
+.casewf_28 .sub-hero__title {
+  margin-top: 156px;
+  margin-bottom: 8px;
+  font-size: 100px;
+}
+
+.casewf_28 .case-page__subtitle {
+  margin-bottom: 156px;
+}
+
+.casewf_28 .case_wf_hero {
+  background-color: #434343;
+  background-image: url(../../assets/img/cases/houseboats/back-top.png),
+    url(../../assets/img/cases/houseboats/logo.png),
+    url(../../assets/img/cases/houseboats/back-bottom.png);
+  height: 780px !important;
+  background-position: top left, 70% 50%, bottom right;
+  background-size: 1282px, 433px, 1116px;
+  background-repeat: no-repeat;
+}
+
+.casewf_28 .case-task-wrapper {
+  max-width: 100%;
+}
+
+.casewf_28 .case-task-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 52px;
+}
+
+.casewf28_mw1 .case-main-screen__img {
+  max-width: 971px;
+  margin: 0 auto;
+}
+
+.case-slider-card {
+  margin-right: 20px;
+}
+
+.case-slider .reviews-slider-prev-btn {
+}
+
+.case-slider-pagin .reviews-slider-nav {
+  display: flex;
+  justify-content: center;
+  column-gap: 46px;
+  padding-top: 42px;
+}
+
+.case-slider-pagin .slick-arrow {
+  cursor: pointer;
+}
+
+.case-slider-pagin .reviews-slider-prev-btn path {
+  fill: #000;
+}
+
+.case-slider-pagin .reviews-slider-prev-btn:hover path {
+  fill: #000;
+}
+
+.case-slider-pagin .reviews-slider-next-btn path {
+  fill: #000;
+}
+
+.case-slider-pagin .reviews-slider-next-btn:hover path {
+  fill: #000;
+}
+
+.sl-count__current {
+  font-family: "Mazzard-Light";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.sl-count__total {
+  font-family: "Mazzard-Light";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #b9b9b9;
+}
+
+.sl-count {
+  font-family: "Mazzard-Light";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  color: #b9b9b9;
+}
+@media (max-width: 1920px) {
+  .casewf_28 .sub-hero__title {
+    margin-top: calc(87px + (156 - 87) * ((100vw - 1090px) / (1920 - 1090)));
+    font-size: calc(70px + (100 - 70) * ((100vw - 1090px) / (1920 - 1090)));
+  }
+
+  .casewf_28 .case-page__subtitle {
+    margin-bottom: calc(87px + (156 - 87) * ((100vw - 1090px) / (1920 - 1090)));
+  }
+
+  .casewf_28 .case_wf_hero {
+    height: calc(
+      600px + (780 - 600) * ((100vw - 1090px) / (1920 - 1090))
+    ) !important;
+  }
+
+  .casewf28_mw1 .case-main-screen__img {
+    max-width: calc(714px + (971 - 713) * ((100vw - 1090px) / (1920 - 1090)));
+  }
+}
+@media (max-width: 1366px) {
+  .casewf_28 .case_wf_hero {
+    background-image: url(../../assets/img/cases/houseboats/back-top.png),
+      url(../../assets/img/cases/houseboats/logo.png),
+      url(../../assets/img/cases/houseboats/back-bottom.png);
+    background-position: top left, 80% 50%, bottom right;
+    background-size: 1282px, 433px, 1116px;
+    background-repeat: no-repeat;
+  }
+}
+@media (max-width: 1090px) {
+  .casewf_28 .sub-hero__title {
+    margin-top: 87px;
+    font-size: 70px;
+  }
+
+  .casewf_28 .case-page__subtitle {
+    margin-bottom: 87px;
+  }
+
+  .casewf_28 .case_wf_hero {
+    height: 600px !important;
+  }
+
+  .casewf28_mw1 .case-main-screen__img {
+    max-width: 714px;
+  }
+}
+@media (max-width: 1024px) {
+  .casewf_28 .case_wf_task .case-task-wrapper {
+    grid-template-columns: 1fr;
+  }
+  .casewf_28 .case_wf_hero {
+    background-image: url(../../assets/img/cases/houseboats/back-top.png),
+      url(../../assets/img/cases/houseboats/back-bottom.png);
+    background-position: top left, bottom right;
+    background-size: 543px, 487px;
+    background-repeat: no-repeat;
+  }
+  .casewf_28 .sub-hero__title {
+    margin-top: 187px;
+    font-size: 64px;
+  }
+
+  .casewf_28 .case-page__subtitle {
+    margin-bottom: 187px;
+  }
+
+  .casewf_28 .case_wf_hero {
+    height: 780px !important;
+  }
+
+  .casewf28_mw1 .case-main-screen__img {
+    max-width: 594px;
+  }
+}
+@media (max-width: 767px) {
+  .casewf_28 .title-link {
+    display: block;
+    margin: 0;
+  }
+}

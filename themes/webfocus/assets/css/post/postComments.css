@@ -1,0 +1,334 @@
+.is-login-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2.5rem;
+}
+.is-login-block img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.comments .is-login-block p {
+  margin-bottom: 0px;
+}
+
+/*page contacts for social block*/
+.social-links_contacts-page {
+  padding: 0;
+}
+.social-links_contacts-page li .social-links__item{
+  /*border: 2px solid #000000;*/
+  height: 6.35rem;
+  background-size: 6.3rem;
+  background-position-y: 0;
+}
+.social-links_contacts-page li .social-links__item.instagramm {
+  background-image: url("../../img/inst.svg");
+}
+.social-links_contacts-page li .social-links__item.dribble {
+  background-image: url("../../img/basket.svg");
+}
+.social-links_contacts-page li .social-links__item.youtube {
+  background-image: url("../../img/yuotube.svg");
+}
+.social-links_contacts-page li .social-links__item.vk {
+  background-image: url("../../img/VK.svg");
+}
+.social-links_contacts-page li .social-links__item.be {
+  background-image: url("../../img/BE.svg");
+}
+.social-links_contacts-page li .social-links__item.telegram {
+  background-image: url("../../img/telegram.svg");
+}
+.social-links_contacts-page li .social-links__item.whats {
+  background-image: url("../../img/wats.svg");
+}
+.social-links_contacts-page li .social-links__item.skype {
+  background-image: url("../../img/skype.svg");
+}
+.social-links_contacts-page li .social-links__item.viber {
+  background-image: url("../../img/viber.svg");
+}
+.social-links_contacts-page li .social-links__item.facebook {
+  background-image: url("../../img/faceb.svg");
+}
+
+
+.social-links_contacts-page li:hover {
+  background: none;
+  border: none;
+}
+.social-links_contacts-page li:hover .social-links__item.instagramm {
+  background-image: url("../../img/instHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.dribble {
+  background-image: url("../../img/basketHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.youtube {
+  background-image: url("../../img/youtubeHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.vk {
+  background-image: url("../../img/vkHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.be {
+  background-image: url("../../img/beHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.telegram {
+  background-image: url("../../img/telegramHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.whats {
+  background-image: url("../../img/watsHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.skype {
+  background-image: url("../../img/skypeHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.viber {
+  background-image: url("../../img/viberHover.svg");
+}
+.social-links_contacts-page li:hover .social-links__item.facebook {
+  background-image: url("../../img/facebookHover.svg");
+}
+.social-links_contacts-page {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (6.3rem) [5];
+  grid-template-columns: repeat(auto-fit, 6.3rem);
+  grid-template-rows: auto;
+  row-gap: 2.5313rem;
+  -webkit-column-gap: 2.5313rem;
+  column-gap: 2.5313rem;
+  max-width: 43rem;
+}
+
+@media (max-width: 768px) {
+  .social-links_contacts-page {
+    max-width: 33rem;
+  }
+  .social-links_contacts-page li .social-links__item {
+    height: 5rem;
+    background-size: 5rem;
+  }
+  .social-links_contacts-page {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (5rem) [5];
+    grid-template-columns: repeat(auto-fit, 5rem);
+    row-gap: 2rem;
+    -webkit-column-gap: 2rem;
+    column-gap: 2rem;
+  }
+ 
+}
+@media (max-width: 375px) {
+  .social-links_contacts-page {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (2rem) [5];
+    grid-template-columns: repeat(auto-fit, 3.125rem);
+    row-gap: 1rem;
+    -webkit-column-gap: 1rem;
+    column-gap: 1rem;
+  }
+  .social-links_contacts-page li .social-links__item {
+    height: 3.125rem;
+    background-size: 3.125rem;
+  }
+ 
+}
+
+/*category*/
+.separate-category {
+  border-bottom: 0;
+}
+.sub-hero__info-cat {
+  display: flex;
+}
+.sub-hero__info-cat_count {
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+}
+.sub-hero__info-cat_count img {
+  width: 20px;
+  height: 20px;
+  margin-right: 16px;
+}
+.sub-hero__info-cat_count p,
+.sub-hero__info-cat a {
+  font-family: "Mazzard-Bold";
+  font-weight: 600;
+  font-size: 1rem;
+}
+.sub-hero__info-cat a {
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 50px;
+  padding: 1rem 2.5rem;
+}
+@media (max-width: 465px) {
+  .sub-hero__info-cat {
+    flex-direction: column;
+  }
+  .sub-hero__info-cat a {
+    margin-top: 35px;
+    max-width: 250px;
+  }
+}
+
+/*search form*/
+.form-search {
+  padding: 11px 20px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 46rem;
+  border: 1px solid #000;
+  border-radius: 50px;
+  margin-bottom: 5rem;
+  align-items: center;
+}
+.form-search .input-search,
+.form-search .input-submit {
+  width: 100%;
+}
+.form-search div {
+  width: 2.2rem;
+}
+.form-search div::before {
+  content: url("../../img/loupe.svg");
+  position: absolute;
+  top: 3px;
+}
+.form-search .input-search:focus ~ div::before {
+  content: url("../../img/loupeFocus.svg");
+}
+
+@media (max-width: 768px) {
+  .form-search {
+    margin-bottom: 2.3rem;
+  }
+}
+
+/*case*/
+#case-gryazi-net {
+  background-color: #f2f2f2;
+  overflow: hidden;
+}
+#case-gryazi-net img {
+  transform: scale(0.75);
+  margin-block: -80px;
+}
+
+#case-yur-brest h2 {
+  max-width: 75%;
+}
+
+.case-opacity img {
+  opacity: 20%;
+}
+
+#case-klining-vip {
+  overflow: hidden;
+}
+
+#case-klining-vip img {
+  transform: scale(1.1);
+  margin-block: -85px;
+  margin-left: 65px;
+  object-fit: contain;
+}
+#case-kaiman {
+  background-color: #f0f0f0;
+}
+#case-kaiman img {
+  transform: scale(0.75);
+  margin-block: -50px;
+}
+#case-format .full-case-img {
+}
+#case-format .full-case-img:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: transparent;
+  background-image: linear-gradient(
+    359.19deg,
+    #ffffff -2.55%,
+    rgba(255, 255, 255, 0) 84.32%
+  );
+}
+
+#case-polyanapark h2 {
+  max-width: 75%;
+}
+#case-moravia {
+  background-color: #fff;
+}
+#case-moravia img {
+  transform: scale(0.7);
+}
+
+@media (max-width: 768px) {
+  .offer-cases > div {
+    padding: 1.3rem 1.5rem;
+  }
+}
+@media (max-width: 375px) {
+  .offer-cases > div {
+    padding-bottom: 1.3rem;
+  }
+}
+
+/*font-size*/
+.reviews-page-item h3 {
+  font-size: 1.125rem;
+}
+.reviews-page-item .reviews-page-item__sub-title {
+  font-size: 1rem;
+}
+.reviews-page-item p,
+.reviews-page-item p strong {
+  font-size: 0.875rem;
+}
+
+@media (max-width: 1000px) {
+  .accardion-block.vacancies p {
+    font-size: 1rem;
+  }
+}
+
+/*wiki*/
+
+.accardion-block > a + a {
+  margin-top: 2rem;
+  display: block;
+}
+.content-single-wiki .section-title {
+  padding-top: 5rem;
+  padding-bottom: 3.125rem;
+}
+.rand-wiki-term li:before {
+  content: url("../../img/arrowTerm.svg");
+  padding-right: 1rem;
+}
+.rand-wiki-term li:not(:last-child) {
+  padding-bottom: 1.5rem;
+}
+.rand-wiki-term li a {
+  font-weight: 600;
+  font-size: 1rem;
+}
+@media (max-width: 768px) {
+  .content-single-wiki .section-title {
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+  }
+}
+
+.post-type,.term-tag{
+    padding-bottom: 1.5rem;
+}

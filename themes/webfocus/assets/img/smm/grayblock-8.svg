@@ -1,0 +1,55 @@
+<svg width="341" height="180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M144.5 86.5l-60.3 68.1h172.7l56.2-68.1H144.5z" fill="#AB85FF"/>
+  <mask id="a" maskUnits="userSpaceOnUse" x="84" y="86" width="230" height="69">
+    <path d="M144.5 86.5l-60.3 68.1h172.7l56.2-68.1H144.5z" fill="#AB85FF"/>
+  </mask>
+  <g mask="url(#a)" stroke="#C9AEFF">
+    <path d="M454.3 88.9c-110.2-43.7-189-43.7-236.2 0-47.2 43.7-126 43.7-236.2 0"/>
+    <path d="M440.5 172.7c-84.5-65.8-159.1-83.2-224-52.1-64.8 31-139.4 13.6-224-52.2"/>
+    <path d="M449.7 143.8c-114.9-37.6-193.4-33.3-235.5 12.8-42.2 46.2-120.6 50.5-235.5 13"/>
+  </g>
+  <path d="M85.8 25.4L52.2 63.3h96l31.3-38H85.8z" fill="#31D67B"/>
+  <path d="M148.7 25.4v68m0 0l-1-1.8m1 1.9l.9-1.9M163.6 25.4v95.1m0 0l-1-2.6m1 2.6l1-2.6M133.8 25.4v42.9m0 0l-1-1.2m1 1.2l.9-1.2M178.5 25.4v30.8m0 0l-.9-.9m1 .9l.9-.9" stroke="#000"/>
+  <circle cx="34.3" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="40" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="45.8" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="51.3" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="57.3" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="63" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.8" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="74.5" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="80.3" cy="58.4" r="1.4" fill="#D4D4D4"/>
+  <circle cx="34.3" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="40" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="34.3" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="40" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="45.8" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="51.5" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="57.3" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="63" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.8" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="74.5" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="80.3" cy="69.9" r="1.4" fill="#D4D4D4"/>
+  <circle cx="45.8" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="51.3" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="57.3" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="63" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="68.8" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="74.5" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <circle cx="80.3" cy="64.1" r="1.4" fill="#D4D4D4"/>
+  <path d="M27.9 58.5V52h6.5M87.4 68v6.5h-6.5" stroke="#000"/>
+  <path d="M256.2 153.4v-73m0 0l1 2m-1-2l-1 2" stroke="#31D67B"/>
+  <path stroke="#000" d="M242.8 74.9h24v-48h-24z"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 256.8 54.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 266.8 54.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 276.8 54.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 286.8 54.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 256.8 44.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 266.8 44.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 276.8 44.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 286.8 44.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 286.8 34.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 276.8 34.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 266.8 34.9)" fill="#31D67B"/>
+  <circle r="2.5" transform="matrix(1 0 0 -1 256.8 34.9)" fill="#31D67B"/>
+</svg>

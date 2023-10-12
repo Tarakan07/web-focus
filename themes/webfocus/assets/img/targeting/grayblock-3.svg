@@ -1,0 +1,50 @@
+<svg width="341" height="180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M86.3 94.3l-45.5 51.3h130.1l42.3-51.3h-127z" fill="#AB85FF"/>
+  <mask id="a" maskUnits="userSpaceOnUse" x="40" y="94" width="174" height="52">
+    <path d="M86.3 94.3l-45.5 51.3h130.1l42.3-51.3h-127z" fill="#AB85FF"/>
+  </mask>
+  <g mask="url(#a)" stroke="#C9AEFF">
+    <path d="M319.6 96.1c-83-33-142.3-33-178 0-35.5 33-94.8 33-177.8 0"/>
+    <path d="M309.2 159.2c-63.7-49.6-119.9-62.6-168.7-39.3-48.8 23.4-105 10.3-168.7-39.2"/>
+    <path d="M316 137.4c-86.4-28.3-145.5-25-177.3 9.7-31.7 34.8-90.8 38-177.3 9.7"/>
+  </g>
+  <path d="M144.6 64.3l-21 23.7h60L203 64.3h-58.5z" fill="#C9AEFF"/>
+  <mask id="b" maskUnits="userSpaceOnUse" x="123" y="64" width="81" height="24">
+    <path d="M144.6 64.3l-21 23.7h60L203 64.3h-58.5z" fill="#C9AEFF"/>
+  </mask>
+  <g mask="url(#b)" stroke="#8052E4">
+    <path d="M252.1 65.1c-38.2-15.1-65.6-15.1-82 0-16.4 15.2-43.7 15.2-82 0"/>
+    <path d="M247.3 94.2c-29.3-22.8-55.2-28.8-77.7-18C147 86.8 121 80.8 91.8 58"/>
+    <path d="M250.5 84.2c-39.9-13-67.1-11.6-81.8 4.5-14.6 16-41.8 17.5-81.7 4.4"/>
+  </g>
+  <path d="M87.7 34.4c-13.5 1-39.3 11.7-40.5 40.5 0 36 27.5 45.5 41 45.5h146.5M87.5 34.4h72.2M271.2 120.4c13.5-1 39.3-11.7 40.5-40.5 0-36-27.5-45.5-41-45.5H124.2M271.4 120.4h-72.2M139.2 120V35m0 85V35M134.7 120.4v-86m0 86v-86M129.7 120.4v-86m0 86v-86M124.7 120.4v-86m0 86v-86M119.7 120.4v-86m0 86v-86M114.7 120.4v-86m0 86v-86M109.7 120.4v-86m0 86v-86M104.7 120.4v-86m0 86v-86" stroke="#000"/>
+  <circle cx="76.7" cy="81.9" r="1.4" transform="rotate(-180 76.7 81.9)" fill="#D4D4D4"/>
+  <circle cx="70.9" cy="81.9" r="1.4" transform="rotate(-180 71 81.9)" fill="#D4D4D4"/>
+  <circle cx="65.2" cy="81.9" r="1.4" transform="rotate(-180 65.2 81.9)" fill="#D4D4D4"/>
+  <circle cx="59.7" cy="81.9" r="1.4" transform="rotate(-180 59.7 81.9)" fill="#D4D4D4"/>
+  <circle cx="53.7" cy="81.9" r="1.4" transform="rotate(-180 53.7 81.9)" fill="#D4D4D4"/>
+  <circle cx="47.9" cy="81.9" r="1.4" transform="rotate(-180 48 81.9)" fill="#D4D4D4"/>
+  <circle cx="42.2" cy="81.9" r="1.4" transform="rotate(-180 42.2 81.9)" fill="#D4D4D4"/>
+  <circle cx="36.4" cy="81.9" r="1.4" transform="rotate(-180 36.4 81.9)" fill="#D4D4D4"/>
+  <circle cx="30.7" cy="81.9" r="1.4" transform="rotate(-180 30.7 81.9)" fill="#D4D4D4"/>
+  <circle cx="76.7" cy="76.1" r="1.4" transform="rotate(-180 76.7 76.1)" fill="#D4D4D4"/>
+  <circle cx="70.9" cy="76.1" r="1.4" transform="rotate(-180 71 76.1)" fill="#D4D4D4"/>
+  <circle cx="76.7" cy="70.4" r="1.4" transform="rotate(-180 76.7 70.4)" fill="#D4D4D4"/>
+  <circle cx="70.9" cy="70.4" r="1.4" transform="rotate(-180 71 70.4)" fill="#D4D4D4"/>
+  <circle cx="65.2" cy="70.4" r="1.4" transform="rotate(-180 65.2 70.4)" fill="#D4D4D4"/>
+  <circle cx="59.4" cy="70.4" r="1.4" transform="rotate(-180 59.4 70.4)" fill="#D4D4D4"/>
+  <circle cx="53.7" cy="70.4" r="1.4" transform="rotate(-180 53.7 70.4)" fill="#D4D4D4"/>
+  <circle cx="47.9" cy="70.4" r="1.4" transform="rotate(-180 48 70.4)" fill="#D4D4D4"/>
+  <circle cx="42.2" cy="70.4" r="1.4" transform="rotate(-180 42.2 70.4)" fill="#D4D4D4"/>
+  <circle cx="36.4" cy="70.4" r="1.4" transform="rotate(-180 36.4 70.4)" fill="#D4D4D4"/>
+  <circle cx="30.7" cy="70.4" r="1.4" transform="rotate(-180 30.7 70.4)" fill="#D4D4D4"/>
+  <circle cx="65.2" cy="76.1" r="1.4" transform="rotate(-180 65.2 76.1)" fill="#D4D4D4"/>
+  <circle cx="59.7" cy="76.1" r="1.4" transform="rotate(-180 59.7 76.1)" fill="#D4D4D4"/>
+  <circle cx="53.7" cy="76.1" r="1.4" transform="rotate(-180 53.7 76.1)" fill="#D4D4D4"/>
+  <circle cx="47.9" cy="76.1" r="1.4" transform="rotate(-180 48 76.1)" fill="#D4D4D4"/>
+  <circle cx="42.2" cy="76.1" r="1.4" transform="rotate(-180 42.2 76.1)" fill="#D4D4D4"/>
+  <circle cx="36.4" cy="76.1" r="1.4" transform="rotate(-180 36.4 76.1)" fill="#D4D4D4"/>
+  <circle cx="30.7" cy="76.1" r="1.4" transform="rotate(-180 30.7 76.1)" fill="#D4D4D4"/>
+  <circle cx="258.2" cy="77.5" r="33.7" fill="#31D67B"/>
+  <path d="M227.8 92l38.6-17.5m0 0h-1.3m1.3 0l-.8 1M230.5 96.8l71-32.1m0 0l-2.2.3m2.2-.3l-1.7 1.3M232.9 99.5l52.6-23.8m0 0l-1.7.1m1.7-.1l-1.2 1.2" stroke="#000"/>
+</svg>

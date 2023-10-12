@@ -1,0 +1,52 @@
+<svg width="341" height="180" viewBox="0 0 341 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="221.5" cy="89.5" r="58.5" fill="#AB85FF"/>
+<path d="M129 98L214 98M214 98L211.671 99M214 98L211.671 97" stroke="black"/>
+<path d="M129 82L231 82M231 82L228.205 83M231 82L228.205 81" stroke="black"/>
+<path d="M129 114H197M197 114L195.137 115M197 114L195.137 113" stroke="black"/>
+<path d="M129 66H179M179 66L177.63 67M179 66L177.63 65" stroke="black"/>
+<circle cx="102" cy="92" r="45" fill="#31D67B"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="238" y="97" width="66" height="57">
+<path d="M255.5 99L263.5 153" stroke="black"/>
+<path d="M260 99L268 153" stroke="black"/>
+<path d="M265 99L273 153" stroke="black"/>
+<path d="M270 99L278 153" stroke="black"/>
+<path d="M275 98L283 152" stroke="black"/>
+<path d="M280 98L288 152" stroke="black"/>
+<path d="M285 98L293 152" stroke="black"/>
+<path d="M290 98L298 152" stroke="black"/>
+<path d="M295 98L303 152" stroke="black"/>
+<path d="M250 99L258 153" stroke="black"/>
+<path d="M244 99L252 153" stroke="black"/>
+<path d="M239 99L247 153" stroke="black"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M266.5 153L236.622 101.25H296.378L266.5 153Z" fill="black"/>
+</g>
+<circle cx="38.375" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="44.125" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="49.875" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="55.625" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="61.375" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="67.125" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="72.875" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="78.625" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="84.375" cy="69.375" r="1.375" fill="#D4D4D4"/>
+<circle cx="38.375" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="44.125" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="38.375" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="44.125" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="49.875" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="55.625" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="61.375" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="67.125" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="72.875" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="78.625" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="84.375" cy="80.875" r="1.375" fill="#D4D4D4"/>
+<circle cx="49.875" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="55.625" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="61.375" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="67.125" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="72.875" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="78.625" cy="75.125" r="1.375" fill="#D4D4D4"/>
+<circle cx="84.375" cy="75.125" r="1.375" fill="#D4D4D4"/>
+</svg>
